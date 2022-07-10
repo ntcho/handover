@@ -1,0 +1,612 @@
+[
+  {
+    "client_msg_id": "97e9d8af-6533-40ba-95d3-76b3cc2ef626",
+    "type": "message",
+    "text": "<@U02DPCQH7J5> 님, 혹시 괜찮으시다면 예시 서랍 작성을 부탁드려도 될까요?! 실제 사용자가 처음 저희 체계를 이용할 때 어떤식으로 사용해야되는지 익히려면 미리 작성된 서랍을 구경해보는게 좋을 것 같은데, 지환님이 하시는 업무를 기반으로 한번 작성해주시면 좋을 것 같습니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633255819.003800",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1633255840.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1tX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DPCQH7J5"
+              },
+              {
+                "type": "text",
+                "text": " 님, 혹시 괜찮으시다면 예시 서랍 작성을 부탁드려도 될까요?! 실제 사용자가 처음 저희 체계를 이용할 때 어떤식으로 사용해야되는지 익히려면 미리 작성된 서랍을 구경해보는게 좋을 것 같은데, 지환님이 하시는 업무를 기반으로 한번 작성해주시면 좋을 것 같습니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633255819.003800",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633264797.004400",
+    "reply_users": [
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633264797.004400",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dc3dcd0b-984c-463a-8044-571cdb17dd38",
+    "type": "message",
+    "text": "아까 회의에서 이야기했던 각 부대 인수인계 현황을 짧게 조사하려고 합니다! 노션의 <https://www.notion.so/osam-handover/9ade079a9d094720b39b6b88f84b9873|참고자료 > 기존 인수인계 방식&gt; 문서에다가 각자 업무를 시작할 때 어떤 방식으로 인수인계를 받으셨는지 작성해주시면 감사하겠습니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633255490.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X0Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아까 회의에서 이야기했던 각 부대 인수인계 현황을 짧게 조사하려고 합니다! 노션의 "
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/osam-handover/9ade079a9d094720b39b6b88f84b9873",
+                "text": "참고자료 > 기존 인수인계 방식"
+              },
+              {
+                "type": "text",
+                "text": " 문서에다가 각자 업무를 시작할 때 어떤 방식으로 인수인계를 받으셨는지 작성해주시면 감사하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633255490.001400",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1633687576.000100",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633687576.000100",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "보안 검토자가 검토를 하는 flow도 추가해두었습니다. 개발을 하시거나 디자인을 하시면서 기획적으로 잘 이해가 안되거나, 빠진게 있는 것 같다면 저에게 알려주시면 감사하겠습니다! :pray:",
+    "files": [
+      {
+        "id": "F02FGDEHZ5K",
+        "created": 1632494634,
+        "timestamp": 1632494634,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 84233,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FGDEHZ5K/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FGDEHZ5K/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 206,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 275,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 413,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 458,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 550,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FGDEHZ5K-5f15d85434/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 587,
+        "original_w": 1246,
+        "original_h": 714,
+        "thumb_tiny": "AwAbADDS28k5PPvRjAwD+dLRQA0BgOozTMnzgM1IxwOuPwpm4+aB2+lNAxwCqDg01v8AWKd4A9M9acCrggc04ACgAopG4U01WJQnvSAcWA61Fn9+DSM7CPOec08c4bv609gsSUUCikB//9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02FGDEHZ5K/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02FGDEHZ5K-c820cd3916",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1632494760.001700",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VQKlz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "보안 검토자가 검토를 하는 flow도 추가해두었습니다. 개발을 하시거나 디자인을 하시면서 기획적으로 잘 이해가 안되거나, 빠진게 있는 것 같다면 저에게 알려주시면 감사하겠습니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "4bdb3035-cb83-4669-b271-33839569bd72",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      },
+      {
+        "name": "eyes",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3c117aff-beac-4371-9aef-d2c3b2b1d1da",
+    "type": "message",
+    "text": "서랍 문서 카드의 개념이 정확하지가 않은데 문서에는 어떤 내용이 담기고 카드는 어떤 내용을 담아 활용할지 정확히 규정되면 디자인도 따라올 것 같네요",
+    "user": "U02DPCQH7J5",
+    "ts": "1632141840.001000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E=Fu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "서랍 문서 카드의 개념이 정확하지가 않은데 문서에는 어떤 내용이 담기고 카드는 어떤 내용을 담아 활용할지 정확히 규정되면 디자인도 따라올 것 같네요"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632141840.001000",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1632149281.002300",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632149281.002300"
+  },
+  {
+    "type": "message",
+    "text": "아직 많이 부족하긴 하지만 화면 레이아웃 디자인입니다 ㅎㅎ Figma 에서 간단하게 실행도 해볼 수 있으니 프론트분들은 이런 느낌으로 가구나 정도만 참고해주시면 감사하겠습니다 :smile:",
+    "files": [
+      {
+        "id": "F02EXGVE0HH",
+        "created": 1632041618,
+        "timestamp": 1632041618,
+        "name": "CpFHLnm8uq.mp4",
+        "title": "CpFHLnm8uq.mp4",
+        "mimetype": "video/mp4",
+        "filetype": "mp4",
+        "pretty_type": "MPEG 4 Video",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 3358550,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "transcription": {
+          "status": "none"
+        },
+        "mp4": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EXGVE0HH-322c750687/cpfhlnm8uq.mp4",
+        "url_private": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EXGVE0HH-322c750687/cpfhlnm8uq.mp4",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EXGVE0HH/download/cpfhlnm8uq.mp4",
+        "hls": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EXGVE0HH-322c750687/file.m3u8?_xcb=007d0",
+        "hls_embed": "data:application/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTMwMjE2NCxBVkVSQUdFLUJBTkRXSURUSD01NTU1OTAsQ09ERUNTPSJhdmMxLjRkNDAxZixtcDRhLjQwLjUiLFJFU09MVVRJT049OTk0eDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVJEQlFWelJHTWtFdFJqQXlSVmhIVmtVd1NFZ3RNekl5WXpjMU1EWTROeTltYVd4bFgwaGZNalkwWHpFeU9EQjROekl3WHpZMU1EQkxRbEJUWHpBd01EQXhMblJ6Q2lORldGUkpUa1k2Tmk0d01EWXNDbWgwZEhCek9pOHZabWxzWlhNdWMyeGhZMnN1WTI5dEwyWnBiR1Z6TFhSdFlpOVVNREpFTUZCWE5FWXlRUzFHTURKRldFZFdSVEJJU0Mwek1qSmpOelV3TmpnM0wyWnBiR1ZmU0Y4eU5qUmZNVEk0TUhnM01qQmZOalV3TUV0Q1VGTmZNREF3TURJdWRITUtJMFZZVkVsT1JqbzJMakF3Tml3S2FIUjBjSE02THk5bWFXeGxjeTV6YkdGamF5NWpiMjB2Wm1sc1pYTXRkRzFpTDFRd01rUXdVRmMwUmpKQkxVWXdNa1ZZUjFaRk1FaElMVE15TW1NM05UQTJPRGN2Wm1sc1pWOUlYekkyTkY4eE1qZ3dlRGN5TUY4Mk5UQXdTMEpRVTE4d01EQXdNeTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5UkRCUVZ6UkdNa0V0UmpBeVJWaEhWa1V3U0VndE16SXlZemMxTURZNE55OW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYelkxTURCTFFsQlRYekF3TURBMExuUnpDaU5GV0ZSSlRrWTZOaTR3TURZc0NtaDBkSEJ6T2k4dlptbHNaWE11YzJ4aFkyc3VZMjl0TDJacGJHVnpMWFJ0WWk5VU1ESkVNRkJYTkVZeVFTMUdNREpGV0VkV1JUQklTQzB6TWpKak56VXdOamczTDJacGJHVmZTRjh5TmpSZk1USTRNSGczTWpCZk5qVXdNRXRDVUZOZk1EQXdNRFV1ZEhNS0kwVllWRWxPUmpvMkxqQXdOaXdLYUhSMGNITTZMeTltYVd4bGN5NXpiR0ZqYXk1amIyMHZabWxzWlhNdGRHMWlMMVF3TWtRd1VGYzBSakpCTFVZd01rVllSMVpGTUVoSUxUTXlNbU0zTlRBMk9EY3ZabWxzWlY5SVh6STJORjh4TWpnd2VEY3lNRjgyTlRBd1MwSlFVMTh3TURBd05pNTBjd29qUlZoVVNVNUdPakV1TmpZNExBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlSREJRVnpSR01rRXRSakF5UlZoSFZrVXdTRWd0TXpJeVl6YzFNRFk0Tnk5bWFXeGxYMGhmTWpZMFh6RXlPREI0TnpJd1h6WTFNREJMUWxCVFh6QXdNREEzTG5SekNpTkZXRlF0V0MxRlRrUk1TVk5VQ2c9PQojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NzgzODAyLEFWRVJBR0UtQkFORFdJRFRIPTM5MDM1NyxDT0RFQ1M9ImF2YzEuNGQ0MDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj05OTR4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDJEMFBXNEYyQS1GMDJFWEdWRTBISC0zMjJjNzUwNjg3L2ZpbGVfSF8yNjRfMTI4MHg3MjBfMzUwMEtCUFMubTN1OAojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9Mzk3MTYwLEFWRVJBR0UtQkFORFdJRFRIPTI0MTY1MSxDT0RFQ1M9ImF2YzEuNGQ0MDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj00OTh4MzYwLEZSQU1FLVJBVEU9MjkuOTcwCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDJEMFBXNEYyQS1GMDJFWEdWRTBISC0zMjJjNzUwNjg3L2ZpbGVfSF8yNjRfNjQweDM2MF82MDBLQlBTLm0zdTgK",
+        "duration_ms": 37704,
+        "media_display_type": "video",
+        "thumb_video": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EXGVE0HH-322c750687/cpfhlnm8uq_thumb_video.jpeg",
+        "thumb_video_w": 1384,
+        "thumb_video_h": 1002,
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02EXGVE0HH/cpfhlnm8uq.mp4",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02EXGVE0HH-718f488e2f",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1632041684.001400",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Utx/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아직 많이 부족하긴 하지만 화면 레이아웃 디자인입니다 ㅎㅎ Figma 에서 간단하게 실행도 해볼 수 있으니 프론트분들은 이런 느낌으로 가구나 정도만 참고해주시면 감사하겠습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "b1345bba-3cf0-491a-b58d-f1e68e532913",
+    "thread_ts": "1632041684.001400",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1632049335.003300",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632049335.003300",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02FA0NJ8RF",
+          "U02DPCQH7J5"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024503.000300",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "type": "message",
+    "text": "작성할 수 있는 문서의 종류를 서랍, 문서, 카드로 분류해봤는데 어떤가요? 다른 단어나 의견도 환영입니다 ㅎㅎ",
+    "files": [
+      {
+        "id": "F02EBJX6PGC",
+        "created": 1631456262,
+        "timestamp": 1631456262,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 71600,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EBJX6PGC/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EBJX6PGC/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 276,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 368,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 552,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 613,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 736,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EBJX6PGC-384c364680/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 785,
+        "original_w": 1037,
+        "original_h": 795,
+        "thumb_tiny": "AwAkADDQYtnjcMegFN+fH3n/ACFS03HX/GgBACT95hj170+kGe9LQAUUmTnpx60uaAEzzijNHfFGc0AIDSg0Zo60ALkZxnmik4z70tABRRRQAYooooAMDNGKKKAP/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02EBJX6PGC/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02EBJX6PGC-545ffb8fe9",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1631456320.000900",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pLzE4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "작성할 수 있는 문서의 종류를 서랍, 문서, 카드로 분류해봤는데 어떤가요? 다른 단어나 의견도 환영입니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631456320.000900",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1631578517.000200",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631578517.000200",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DPCQH7J5",
+          "U02DHN1UBHA",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cdcfd89e-0ee2-4df2-8d9a-d3ca544731bb",
+    "type": "message",
+    "text": "프론트, 백엔드 개발자, 디자이너 각자 역할에 상관 없이 알고 계신것 적어주시면 됩니다! :sweat_smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630924287.002400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ySVPY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "프론트, 백엔드 개발자, 디자이너 각자 역할에 상관 없이 알고 계신것 적어주시면 됩니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "party_blob",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b4570924-5a36-4ff5-95e0-5a76dadb12bf",
+    "type": "message",
+    "text": "백엔드 개발 스택 조사",
+    "user": "U02DX5BFPPS",
+    "ts": "1630923939.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fqD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "백엔드 개발 스택 조사"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1630923939.000700",
+    "reply_count": 10,
+    "reply_users_count": 4,
+    "latest_reply": "1631059702.001200",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DE2CLG0L",
+      "U02D8EUAE69",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631059702.001200"
+  },
+  {
+    "client_msg_id": "71a15e45-d5a2-4c02-b31c-3b1eff1c0e16",
+    "type": "message",
+    "text": "프론트 개발 스택 조사",
+    "user": "U02DX5BFPPS",
+    "ts": "1630923932.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mLQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "프론트 개발 스택 조사"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1630923932.000400",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1630925577.004100",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA",
+      "U02D8EUAE69",
+      "U02DE2CLG0L",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1630925577.004100"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667213.000800",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630666970.000500",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630653338.000200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630623797.000100",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630594009.000500",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630592054.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

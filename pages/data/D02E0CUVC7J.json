@@ -1,0 +1,246 @@
+[
+  {
+    "client_msg_id": "6c1fc4a1-4d82-42ce-a26d-1da9869559b6",
+    "type": "message",
+    "text": "지환님! 닉네임 이름만으로 바꿔주실 수 있나요?! :slightly_smiling_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634436654.000500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XE9zz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지환님! 닉네임 이름만으로 바꿔주실 수 있나요?! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3e6d33bc-9b96-44aa-bc85-44d9501308f7",
+    "type": "message",
+    "text": "넵! 저도 확인해서 지금 확정 처리 해두었습니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1630663328.001600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cz3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵! 저도 확인해서 지금 확정 처리 해두었습니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "grinning",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fcb12dab-3691-4c4f-a791-d365595369fd",
+    "type": "message",
+    "text": "운영국에서 따로 연락은 안왔는데, 조치가 된거같습니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1630662795.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FiHZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "운영국에서 따로 연락은 안왔는데, 조치가 된거같습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0fb2c069-e9b4-4693-bfe0-26f588919511",
+    "type": "message",
+    "text": "넵 감사합니다 ㅠㅠ",
+    "user": "U02DPCQH7J5",
+    "ts": "1630654071.001900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yAe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 감사합니다 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2647adc0-6313-478c-8fc1-4857784bfa7a",
+    "type": "message",
+    "text": "아하 ㅠㅠ 우선 10일까지니 연락 오는대로 슬랙으로 알려주세요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1630654029.001600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FpN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아하 ㅠㅠ 우선 10일까지니 연락 오는대로 슬랙으로 알려주세요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6dfafc93-12c3-45a3-8c79-e3cc395c55e9",
+    "type": "message",
+    "text": "아직 사무국에서 연락이 없네요 ㅠㅠ",
+    "user": "U02DPCQH7J5",
+    "ts": "1630653944.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v0r1m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아직 사무국에서 연락이 없네요 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "932f74b0-c431-412f-a9ee-785a9d3bb6cd",
+    "type": "message",
+    "text": "안녕하세요",
+    "user": "U02DPCQH7J5",
+    "ts": "1630653938.000600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ElN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c3a7249a-667a-4d1c-b809-8ec5b4b00322",
+    "type": "message",
+    "text": "안녕하세요! :smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630653514.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fk6u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "joiner_notification",
+    "ts": "1630653342.000100",
+    "user": "U02DPCQH7J5",
+    "text": "오지환 joined Slack — take a second to say hello."
+  }
+]

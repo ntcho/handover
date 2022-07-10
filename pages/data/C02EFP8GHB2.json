@@ -1,0 +1,2782 @@
+[
+  {
+    "client_msg_id": "f5a744cf-9090-4b12-bc0e-2d58966435fb",
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, 디자인에서 배경 색을 하얀색이 아닌 다른 색을 사용하신 특별한 이유가 있으신가요?! :thinking_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634218601.000800",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1634218613.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IWJgz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, 디자인에서 배경 색을 하얀색이 아닌 다른 색을 사용하신 특별한 이유가 있으신가요?! "
+              },
+              {
+                "type": "emoji",
+                "name": "thinking_face",
+                "unicode": "1f914"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634218601.000800",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634218852.001000",
+    "reply_users": [
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634218852.001000"
+  },
+  {
+    "client_msg_id": "11b47742-7861-41bb-af5e-22be05490fdd",
+    "type": "message",
+    "text": "<https://www.figma.com/file/dZctafF9pSgbQbYhQYhP7O/Wireframe?node-id=4%3A98>\nCodesquare 프로젝트의 Figma 인데, 이런식으로 저희도 Figma 를 정리하면 좋을 것 같은데... 너무 오래걸릴려나요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634132383.001800",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "id": 1,
+        "blocks": [
+          {
+            "type": "divider",
+            "block_id": "E0I"
+          },
+          {
+            "type": "section",
+            "block_id": "Q113T",
+            "text": {
+              "type": "mrkdwn",
+              "text": "<https://www.figma.com/file/dZctafF9pSgbQbYhQYhP7O/Wireframe?node-id=4%3A98|*Wireframe*>",
+              "verbatim": false
+            }
+          },
+          {
+            "type": "image",
+            "block_id": "dcoz",
+            "image_url": "https://api-cdn.figma.com/resize/thumbnails/6776e318-1a08-4843-acf2-4b8b4bc1247c?height=112&bucket=figma-alpha",
+            "alt_text": "Figma File Image",
+            "fallback": "104x112px image",
+            "image_width": 104,
+            "image_height": 112,
+            "image_bytes": 5988
+          }
+        ],
+        "fallback": "[no preview available]",
+        "bot_id": "B02E5004AN6",
+        "app_unfurl_url": "https://www.figma.com/file/dZctafF9pSgbQbYhQYhP7O/Wireframe?node-id=4%3A98",
+        "is_app_unfurl": true,
+        "app_id": "A01N2QYSA81"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DW9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.figma.com/file/dZctafF9pSgbQbYhQYhP7O/Wireframe?node-id=4%3A98"
+              },
+              {
+                "type": "text",
+                "text": "\nCodesquare 프로젝트의 Figma 인데, 이런식으로 저희도 Figma 를 정리하면 좋을 것 같은데... 너무 오래걸릴려나요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634132383.001800",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1634132535.002600",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634132535.002600"
+  },
+  {
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, Bookmark 아이콘 대신에 :star: 아이콘을 사용하는건 어떤가요? 뭔가 Card component 에 북마크 아이콘이 잘 안어울리는것같아요 :sweat:\n<https://material.io/components/cards#theming|이것>처럼 하면 좀더 직관적이고 깔끔할거같아요 ㅎㅎ",
+    "files": [
+      {
+        "id": "F02J6J9H5RN",
+        "created": 1634048768,
+        "timestamp": 1634048768,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 76376,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J6J9H5RN/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J6J9H5RN/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 180,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 240,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 360,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 400,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 480,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J6J9H5RN-87dc4947fd/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 512,
+        "original_w": 1064,
+        "original_h": 532,
+        "thumb_tiny": "AwAYADDQLBcZOMnApPlVjycmnUv4UANLKRjJ5o2AbcbjtHrSruI+ZcH60Y9v1oAQ5DKApIPU56UtDMEUs3AHU1D9pg/56LQBMpByQCOcc06iigAooooAiu/+PWT/AHTWM2QxBIOPSti7/wCPWX/dNYtAH//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02J6J9H5RN/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J6J9H5RN-a50147a8d6",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1634048809.002800",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WbYT/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, Bookmark 아이콘 대신에 "
+              },
+              {
+                "type": "emoji",
+                "name": "star",
+                "unicode": "2b50"
+              },
+              {
+                "type": "text",
+                "text": " 아이콘을 사용하는건 어떤가요? 뭔가 Card component 에 북마크 아이콘이 잘 안어울리는것같아요 "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "unicode": "1f613"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://material.io/components/cards#theming",
+                "text": "이것"
+              },
+              {
+                "type": "text",
+                "text": "처럼 하면 좀더 직관적이고 깔끔할거같아요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "c0b59ae5-e272-49f5-b11a-942b2c5ed63d",
+    "thread_ts": "1634048809.002800",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1634109971.000200",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634109971.000200",
+    "attachments": [
+      {
+        "title": "Material Design",
+        "title_link": "https://material.io/components/cards#theming",
+        "text": "Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.",
+        "fallback": "Material Design",
+        "image_url": "https://material.io/static/assets/result.png",
+        "from_url": "https://material.io/components/cards#theming",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 52654,
+        "service_icon": "https://material.io/favicon.ico",
+        "service_name": "material.io",
+        "id": 1,
+        "original_url": "https://material.io/components/cards#theming"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02HE7ZE4H1",
+        "created": 1633992796,
+        "timestamp": 1633992796,
+        "name": "1.pdf",
+        "title": "1.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 94022,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HE7ZE4H1/1.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HE7ZE4H1/download/1.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7ZE4H1-1e12525110/1_thumb_pdf.png",
+        "thumb_pdf_w": 910,
+        "thumb_pdf_h": 1286,
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HE7ZE4H1/1.pdf",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HE7ZE4H1-0068ddfd16",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02HGDCNLQ4",
+        "created": 1633992799,
+        "timestamp": 1633992799,
+        "name": "2.pdf",
+        "title": "2.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 98686,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HGDCNLQ4/2.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HGDCNLQ4/download/2.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HGDCNLQ4-c1e71fee54/2_thumb_pdf.png",
+        "thumb_pdf_w": 910,
+        "thumb_pdf_h": 1286,
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HGDCNLQ4/2.pdf",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HGDCNLQ4-619d4dde68",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02HB7WHJAH",
+        "created": 1633992801,
+        "timestamp": 1633992801,
+        "name": "3.pdf",
+        "title": "3.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 100401,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HB7WHJAH/3.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HB7WHJAH/download/3.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7WHJAH-b52a8e7141/3_thumb_pdf.png",
+        "thumb_pdf_w": 910,
+        "thumb_pdf_h": 1286,
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HB7WHJAH/3.pdf",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HB7WHJAH-d07a285273",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02D8EUAE69",
+    "ts": "1633992804.002900",
+    "client_msg_id": "c47082c8-ffc1-4213-8ab1-6e1053d92f90",
+    "thread_ts": "1633992804.002900",
+    "reply_count": 7,
+    "reply_users_count": 2,
+    "latest_reply": "1634110168.000800",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634110168.000800",
+    "reactions": [
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "이것저것 조금 더 고민 해봤습니다 서비스의 내용을 담아보려고 노력해봤는데 어렵네요:sweat_smile:",
+    "files": [
+      {
+        "id": "F02HSR6F4M7",
+        "created": 1633992637,
+        "timestamp": 1633992637,
+        "name": "logo_1_1.png",
+        "title": "logo_1_1.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 100102,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HSR6F4M7/logo_1_1.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HSR6F4M7/download/logo_1_1.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 87,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 116,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 173,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 193,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 231,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6F4M7-7ad842e9a3/logo_1_1_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 247,
+        "original_w": 1890,
+        "original_h": 455,
+        "thumb_tiny": "AwALADC7cTGLGBnNQfbmzjb+hq2yK+Nyg4pvkR/3BQBXN4wONoznHQ0v2l2XsozjJ4qfyI/7go8iL+4KAI43BHE2D1wf/r1OpyoOQfcUxYY1JIQZz35qSgD/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HSR6F4M7/logo_1_1.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HSR6F4M7-f4a002f5cf",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02H7F5CSG6",
+        "created": 1633992639,
+        "timestamp": 1633992639,
+        "name": "logo_2.png",
+        "title": "logo_2.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 103860,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02H7F5CSG6/logo_2.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02H7F5CSG6/download/logo_2.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H7F5CSG6-17bbaced2c/logo_2_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H7F5CSG6-17bbaced2c/logo_2_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H7F5CSG6-17bbaced2c/logo_2_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 254,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H7F5CSG6-17bbaced2c/logo_2_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 338,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H7F5CSG6-17bbaced2c/logo_2_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H7F5CSG6-17bbaced2c/logo_2_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 508,
+        "original_w": 776,
+        "original_h": 547,
+        "thumb_tiny": "AwAhADDTpryBCByWPRR1qvLeLE8ykDKAEAn72aVmg8xy0p9WAPpQAplcsdxKAdcLnH405Xf+FllHscGo5JYBEZI3AIBxt747ULchfveXuxknOKAJVmLOBswCSvJ5zUtVBIFk+dk+Vtxwc9RwKnE8TOEDgseQBQA17ZXMxJP70AH2xVdoS7EDO1t4AyOOee1XqgEcgYY2jaSQTznNAEcsDEsz5AbglDnjAHQj2pyQRE7w5ZOTg4xnGDTmznLq4P8AeQkj/P4U0I7uTjIPd1x+nf8ASgBkdtDs8tHYkNuyec9qnhgWEkqScgDn2FOSPbkklmPUmn0AFFFFABRRRQAUUUUAf//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02H7F5CSG6/logo_2.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02H7F5CSG6-18f8960c13",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02HSR6KZJ5",
+        "created": 1633992641,
+        "timestamp": 1633992641,
+        "name": "logo_3.png",
+        "title": "logo_3.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 252376,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HSR6KZJ5/logo_3.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HSR6KZJ5/download/logo_3.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 271,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 406,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 451,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 541,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6KZJ5-3a99fc68a3/logo_3_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 577,
+        "original_w": 1385,
+        "original_h": 781,
+        "thumb_tiny": "AwAbADDTqN540bazYPpTncIMkE844qtdL5zQsjAKpJJ3YIoAnWdXGUDMPUCl3n/nm36f41mrHKkMaJJGCuej+9P2T+aWWRsEt0JOARx2oAtmRmkGAQFPKjBP405LiORgqkkn2qrZq8LyM6t8yjsTkj8KdFGzy5OVwckEHH4dKAFujKvDfMp/L6damwJIS8aoZCOCcHmpWUMpBGQaiSFNgyCQO2TQBWUXnlMdxDAghTgZ9R9PSgvOkqgy5UAZII5Pf/61XPKj/wCea/lTgoHQAfhQBVtJWEeZ5ssf4Tjj8qtKwYAqcg0tFAH/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HSR6KZJ5/logo_3.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HSR6KZJ5-af5212b617",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02HB7RE4JH",
+        "created": 1633992644,
+        "timestamp": 1633992644,
+        "name": "logo_4.png",
+        "title": "logo_4.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 12453,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HB7RE4JH/logo_4.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HB7RE4JH/download/logo_4.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 80,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 107,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 160,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HB7RE4JH-c9f6b89166/logo_4_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 178,
+        "original_w": 953,
+        "original_h": 212,
+        "thumb_tiny": "AwAKADDPl6R4Tb8v5+9MqWYkpFn+5/U1FQAUUUUAFFFFAH//2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HB7RE4JH/logo_4.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HB7RE4JH-1428fa4d87",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02HSR6RBGR",
+        "created": 1633992647,
+        "timestamp": 1633992647,
+        "name": "logo_5_1.png",
+        "title": "logo_5_1.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 18428,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HSR6RBGR/logo_5_1.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HSR6RBGR/download/logo_5_1.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 116,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 155,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 232,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HSR6RBGR-accbbd72a7/logo_5_1_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 258,
+        "original_w": 822,
+        "original_h": 265,
+        "thumb_tiny": "AwAPADDMooooAKKKKACiiigD/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HSR6RBGR/logo_5_1.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HSR6RBGR-18891784f3",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02HE7G4U0J",
+        "created": 1633992650,
+        "timestamp": 1633992650,
+        "name": "logo_6_2.png",
+        "title": "logo_6_2.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 13144,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HE7G4U0J/logo_6_2.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HE7G4U0J/download/logo_6_2.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 156,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 208,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 312,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HE7G4U0J-198cd83e32/logo_6_2_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 346,
+        "original_w": 936,
+        "original_h": 405,
+        "thumb_tiny": "AwAUADDMooooAKKKKACiiigAooooAKKKKACiiigD/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02HE7G4U0J/logo_6_2.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HE7G4U0J-d4f7a9f570",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02D8EUAE69",
+    "ts": "1633992760.001600",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jS5fp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이것저것 조금 더 고민 해봤습니다 서비스의 내용을 담아보려고 노력해봤는데 어렵네요"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "ea32cd7a-30e7-47e0-bb6f-bd835d580a1f",
+    "thread_ts": "1633992760.001600",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634048496.001200",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634048496.001200",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DPCQH7J5",
+          "U02DE2CLG0L",
+          "U02DX5BFPPS"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02J1PW9T6U",
+        "created": 1633958946,
+        "timestamp": 1633958946,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 18045,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J1PW9T6U/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J1PW9T6U/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J1PW9T6U-90e5cb9663/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J1PW9T6U-90e5cb9663/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J1PW9T6U-90e5cb9663/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 232,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J1PW9T6U-90e5cb9663/image_160.png",
+        "original_w": 478,
+        "original_h": 308,
+        "thumb_tiny": "AwAeADDSZ1UgMwBJwMnrQrq+drA4ODg1FOjySRbchQSSQeRxUHkz7Mc85P3+5bJz68UAWjL2RS59un51GJZWyVjRgDggPzUZimH3Sec5G/tu4A/CkEM44GRkk/f6c9T68UDuuxajkEg4yCOoPUU6qrwy4JU98deSKfBG6uxcseABls9uaAdr6Dp5fKMfTDNg9eKjW7Gws47nG0E8ZxU7RqzqxzlenNR/ZYsYw3/fR9c/zoEMMytnezLjPCgjocYz3qNXj+YkuhDHBBPA9TmrBt4z1B79/U5/nSfZovQ/meec/wA6B3Yi3AVP3h56DA60+OZJGIXPAB6UNBGwOR33ZB70qRqhYrn5uuTmgH5H/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02J1PW9T6U/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J1PW9T6U-b8849e5e21",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1633958948.010300",
+    "client_msg_id": "cde42b05-5bab-408b-b382-b943374a7287",
+    "thread_ts": "1633958948.010300",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1634029437.000400",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634029437.000400",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L"
+        ],
+        "count": 2
+      },
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02HCQE70BE",
+        "created": 1633931621,
+        "timestamp": 1633931621,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 15527,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HCQE70BE/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HCQE70BE/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HCQE70BE-0af1bc1e12/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HCQE70BE-0af1bc1e12/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HCQE70BE-0af1bc1e12/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 135,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HCQE70BE-0af1bc1e12/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 180,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HCQE70BE-0af1bc1e12/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HCQE70BE-0af1bc1e12/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 270,
+        "original_w": 779,
+        "original_h": 292,
+        "thumb_tiny": "AwARADDReRY1y5wM46ZpBKjbsN904OeMUk8XnKFzgBgTx1xUBsf9sYyTjb05B9fagCbzWfmNPl9WOKak0jIHCKyn0bB/UUw2QzkOOuSNvXnPNItiuAGfcAMdOemP6/nQBZSRZFDA/geCKdVX7ENwbfkgc5Hf1qeGMRRKgxwMZAxmgB9FFFABRRRQAUUUUAf/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02HCQE70BE/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HCQE70BE-d28bd7a02c",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1633931623.005800",
+    "client_msg_id": "b3d7c74a-b0d1-428f-802b-e7d3465bd7e0",
+    "thread_ts": "1633931623.005800",
+    "reply_count": 8,
+    "reply_users_count": 4,
+    "latest_reply": "1633936785.010100",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D8EUAE69",
+      "U02D7GX0KGA",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633936785.010100"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "일단 로고는 저도 조금 더 생각을 해볼테니 지금 시간 되시면 발표 자료 템플릿이나 디자인 좀 찾아주실 수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633931456.005500",
+    "thread_ts": "1633877761.004400",
+    "root": {
+      "client_msg_id": "b7e79dc0-7a5d-40f4-ac0c-e5917a25c070",
+      "type": "message",
+      "text": "로고.... 디자인은 어떻게 되어가고... 있나요...?! ㅎㅎ ㅎ ㅎ :thinking_face:",
+      "user": "U02DX5BFPPS",
+      "ts": "1633877761.004400",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rMOy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "로고.... 디자인은 어떻게 되어가고... 있나요...?! ㅎㅎ ㅎ ㅎ "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1633877761.004400",
+      "reply_count": 14,
+      "reply_users_count": 2,
+      "latest_reply": "1633931456.005500",
+      "reply_users": [
+        "U02D8EUAE69",
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1633931456.005500"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PTbb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "일단 로고는 저도 조금 더 생각을 해볼테니 지금 시간 되시면 발표 자료 템플릿이나 디자인 좀 찾아주실 수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "b71e018c-9ec2-47fc-8a12-7c013bd7e789",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "be43ffc5-a5b5-4974-966b-1bd2403376b1",
+    "type": "message",
+    "text": "<@U02D8EUAE69> 로그아웃 버튼은 어디에 배치되어 있나요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1633926406.001700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kgKc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 로그아웃 버튼은 어디에 배치되어 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633926406.001700",
+    "reply_count": 6,
+    "reply_users_count": 2,
+    "latest_reply": "1633932304.006600",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633932304.006600"
+  },
+  {
+    "client_msg_id": "b7e79dc0-7a5d-40f4-ac0c-e5917a25c070",
+    "type": "message",
+    "text": "로고.... 디자인은 어떻게 되어가고... 있나요...?! ㅎㅎ ㅎ ㅎ :thinking_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633877761.004400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rMOy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "로고.... 디자인은 어떻게 되어가고... 있나요...?! ㅎㅎ ㅎ ㅎ "
+              },
+              {
+                "type": "emoji",
+                "name": "thinking_face",
+                "unicode": "1f914"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633877761.004400",
+    "reply_count": 14,
+    "reply_users_count": 2,
+    "latest_reply": "1633931456.005500",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633931456.005500"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "필요한 이미지 있으시면 말씀해주세요:grinning:",
+    "user": "U02D8EUAE69",
+    "ts": "1633874492.003500",
+    "thread_ts": "1633874217.002400",
+    "root": {
+      "client_msg_id": "f8262f10-e683-44d5-9c9c-4964e68755ea",
+      "type": "message",
+      "text": "<@U02D8EUAE69> 혹시 figma에서 누끼따는 방법이 있나요?",
+      "user": "U02DPCQH7J5",
+      "ts": "1633874217.002400",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o2b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U02D8EUAE69"
+                },
+                {
+                  "type": "text",
+                  "text": " 혹시 figma에서 누끼따는 방법이 있나요?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1633874217.002400",
+      "reply_count": 5,
+      "reply_users_count": 3,
+      "latest_reply": "1633874492.003500",
+      "reply_users": [
+        "U02DX5BFPPS",
+        "U02D8EUAE69",
+        "U02DPCQH7J5"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1633874492.003500"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sSr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "필요한 이미지 있으시면 말씀해주세요"
+              },
+              {
+                "type": "emoji",
+                "name": "grinning",
+                "unicode": "1f600"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "3e46587c-904d-4ce3-bd96-d3f577dc1d09",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f8262f10-e683-44d5-9c9c-4964e68755ea",
+    "type": "message",
+    "text": "<@U02D8EUAE69> 혹시 figma에서 누끼따는 방법이 있나요?",
+    "user": "U02DPCQH7J5",
+    "ts": "1633874217.002400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o2b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 혹시 figma에서 누끼따는 방법이 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633874217.002400",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1633874492.003500",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D8EUAE69",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633874492.003500"
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U02D8EUAE69",
+    "ts": "1633745294.001400",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "fallback": "[October 9th, 2021 10:29 AM] ahn.avocado:  logo (2).png",
+        "ts": "1633742999.005700",
+        "author_id": "U02D8EUAE69",
+        "author_subname": "Ahn",
+        "channel_id": "C02D0PW5X0W",
+        "channel_name": "chatroom",
+        "is_msg_unfurl": true,
+        "author_name": "Ahn",
+        "author_link": "https://osam-handover.slack.com/team/U02D8EUAE69",
+        "author_icon": "https://avatars.slack-edge.com/2021-09-20/2503503631190_8bd7a9ad2c5506d3b10f_48.png",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "files": [
+          {
+            "id": "F02H16CU146",
+            "created": 1633742997,
+            "timestamp": 1633742997,
+            "name": "logo (2).png",
+            "title": "logo (2).png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U02D8EUAE69",
+            "editable": false,
+            "size": 12902,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02H16CU146/logo__2_.png",
+            "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02H16CU146/download/logo__2_.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H16CU146-1ae115f363/logo__2__64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H16CU146-1ae115f363/logo__2__80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H16CU146-1ae115f363/logo__2__360.png",
+            "thumb_360_w": 253,
+            "thumb_360_h": 360,
+            "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H16CU146-1ae115f363/logo__2__160.png",
+            "original_w": 327,
+            "original_h": 466,
+            "thumb_tiny": "AwAwACHMoopQrEZAJH0oASil2tjODj1xSUAFFFFABVy2Gbc/jVOrltxbk/Wky4bilStoVbggVSq6WLWZJOSRVKhBPoFFFFMgKUMQMAnFJRQAu44xk49KSiigAooooA//2Q==",
+            "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02H16CU146/logo__2_.png",
+            "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02H16CU146-ae349f8f5d",
+            "comments_count": 0,
+            "is_starred": false,
+            "shares": {
+              "public": {
+                "C02EFP8GHB2": [
+                  {
+                    "reply_users": [
+                      "U02DX5BFPPS",
+                      "U02D8EUAE69"
+                    ],
+                    "reply_users_count": 2,
+                    "reply_count": 2,
+                    "ts": "1633745294.001400",
+                    "latest_reply": "1633745397.001800",
+                    "channel_name": "dev-design",
+                    "team_id": "T02D0PW4F2A",
+                    "share_user_id": "U02D8EUAE69"
+                  }
+                ],
+                "C02D0PW5X0W": [
+                  {
+                    "reply_users": [],
+                    "reply_users_count": 0,
+                    "reply_count": 0,
+                    "ts": "1633742999.005700",
+                    "channel_name": "chatroom",
+                    "team_id": "T02D0PW4F2A",
+                    "share_user_id": "U02D8EUAE69"
+                  }
+                ]
+              }
+            },
+            "channels": [
+              "C02EFP8GHB2",
+              "C02D0PW5X0W"
+            ],
+            "groups": [],
+            "ims": [],
+            "has_rich_preview": false
+          }
+        ],
+        "color": "D0D0D0",
+        "from_url": "https://osam-handover.slack.com/archives/C02D0PW5X0W/p1633742999005700",
+        "is_share": true,
+        "footer": "Posted in #chatroom"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EwCxB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633745294.001400",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1633745397.001800",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633745397.001800"
+  },
+  {
+    "client_msg_id": "b898415d-2924-4ae0-acc3-fa9832177771",
+    "type": "message",
+    "text": "지금까지 짜여진 프로필 페이지나 프로필 수정 페이지에는 프로필 사진을 보여주는 영역이 따로 없는데요, 프로필 사진을 보여주는 영역이 있는게 좋지 않을까요?",
+    "user": "U02D7GX0KGA",
+    "ts": "1633685428.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lq2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금까지 짜여진 프로필 페이지나 프로필 수정 페이지에는 프로필 사진을 보여주는 영역이 따로 없는데요, 프로필 사진을 보여주는 영역이 있는게 좋지 않을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633685428.000700",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633685536.000800",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633685536.000800",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "340fd98b-939d-48c6-88b6-f21c30a9b1fb",
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, 404 페이지도 디자인해주시면 감사하겠습니다! :eyes:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633327905.002300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TmH0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, 404 페이지도 디자인해주시면 감사하겠습니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "unicode": "1f440"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633327905.002300",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633327940.002400",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633327940.002400",
+    "reactions": [
+      {
+        "name": "meow_bongo-keyboard",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "409cd239-608b-4573-98fa-be9d7277cf1b",
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, <https://strml.github.io/react-grid-layout/examples/1-basic.html> 이런걸 말씀하신거죠?! 저게 되면 엄청 있어보일 것 같긴 하네요 ㅎㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633254978.000600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yqx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, "
+              },
+              {
+                "type": "link",
+                "url": "https://strml.github.io/react-grid-layout/examples/1-basic.html"
+              },
+              {
+                "type": "text",
+                "text": " 이런걸 말씀하신거죠?! 저게 되면 엄청 있어보일 것 같긴 하네요 ㅎㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633254978.000600",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1633272204.001500",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633272204.001500"
+  },
+  {
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, 상단 버튼 관련해서 예시로 아래 사진과 같이 문서가 4개 있으면 5번째 문서 화면에 크게 [새 문서 생성] 과 같은 버튼을 넣어도 될 것 같습니다.",
+    "files": [
+      {
+        "id": "F02F2SD70MQ",
+        "created": 1632189396,
+        "timestamp": 1632189396,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 192637,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02F2SD70MQ/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02F2SD70MQ/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 216,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 287,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 431,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 479,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 575,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F2SD70MQ-bebc572cbb/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 613,
+        "original_w": 1353,
+        "original_h": 810,
+        "thumb_tiny": "AwAcADC4qvuyX4z0p9AopDFANGDjNKCMe9GRj2piEIpKce1NpAFFFFADhjHWj8aQcc0dsUwA9KSj2opAf//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02F2SD70MQ/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02F2SD70MQ-197c6b8852",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1632189472.005700",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IoUMh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, 상단 버튼 관련해서 예시로 아래 사진과 같이 문서가 4개 있으면 5번째 문서 화면에 크게 [새 문서 생성] 과 같은 버튼을 넣어도 될 것 같습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "63ce7f2b-a060-4fba-b2d2-e06841cf8a88",
+    "thread_ts": "1632189472.005700",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632189994.006400",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632189994.006400",
+    "reactions": [
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, 뒤로가기 버튼 관련해서 제가 Page Layouts 페이지에 카드 detail 페이지를 만들어놨는데, 현재 보고있는 항목까지의 path 를 보여주는걸로 하면 어떨까요?",
+    "files": [
+      {
+        "id": "F02EZRF39K7",
+        "created": 1632188614,
+        "timestamp": 1632188614,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 220453,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EZRF39K7/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EZRF39K7/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 180,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 240,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 360,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 400,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 480,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EZRF39K7-658e516b2e/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 512,
+        "original_w": 1297,
+        "original_h": 649,
+        "thumb_tiny": "AwAYADC6zY7E/QUB89Fb8RSkNnjGKdQAhdAcFgD6Ub0zjcPzpHJ3dvypM/T8qAJF2sMgg/Q0u0VEGI6HH4Uu9vWgBcfNmloooAUoCc5NVbicQybNueM5zirlZmo/8fQ/3P60AO+3KMjywf8Agf8A9arNtItwjHZtwcdc1jH7x+taumf6l/8AeoDof//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02EZRF39K7/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02EZRF39K7-b2ccbdc6eb",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1632188646.002900",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XXh=V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, 뒤로가기 버튼 관련해서 제가 Page Layouts 페이지에 카드 detail 페이지를 만들어놨는데, 현재 보고있는 항목까지의 path 를 보여주는걸로 하면 어떨까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "c80f3305-3ecb-4eed-846c-974e66f56832",
+    "thread_ts": "1632188646.002900",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632188859.003700",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632188859.003700",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D8EUAE69",
+          "U02DHN1UBHA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0d6cf2d2-85b4-4fb0-bc64-57a222b02d24",
+    "type": "message",
+    "text": "<@U02DX5BFPPS> 님 혹시 user flow 부분에서 알림 부분과 서비스 정보 페이지 부분을 조금 수정해도 될까요? 알림은 팝업으로, 서비스 정보 페이지는 랜딩 페이지에 두는게 좋을것 같아서요! 확인하시고 답변 부탁드립니다!",
+    "user": "U02D8EUAE69",
+    "ts": "1632150025.004900",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02D8EUAE69",
+      "ts": "1632150036.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ixK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DX5BFPPS"
+              },
+              {
+                "type": "text",
+                "text": " 님 혹시 user flow 부분에서 알림 부분과 서비스 정보 페이지 부분을 조금 수정해도 될까요? 알림은 팝업으로, 서비스 정보 페이지는 랜딩 페이지에 두는게 좋을것 같아서요! 확인하시고 답변 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632150025.004900",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1632187389.001300",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632187389.001300"
+  },
+  {
+    "type": "message",
+    "text": "아까 작업할때 로고를 조금 생각 해보고 구체화를 조금 시켜봤습니다 아래 2개 처럼 로고를 제작해봤는데 부연설명을 하자면 일단은 우혁님이 제안해주신 손 모양과 Handover 의 H를 넣어서 겹치게 제작을 해봤습니다 실제로는 아마 육각형형태로 제작하여서 가로세로 길이가 같게 할거 같은데 계속 고민중입니다",
+    "files": [
+      {
+        "id": "F02EWTXV2N9",
+        "created": 1632143276,
+        "timestamp": 1632143276,
+        "name": "logo.png",
+        "title": "logo.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D8EUAE69",
+        "editable": false,
+        "size": 71898,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EWTXV2N9/logo.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EWTXV2N9/download/logo.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 600,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EWTXV2N9-fd1b456649/logo_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "original_w": 1890,
+        "original_h": 1417,
+        "thumb_tiny": "AwAjADDTooJCgknAHUms97uYzK8ePILBQSOtAGhUNzdR2y5c5PZR1NJdXP2cIAhZnOFFUbiJrlz5mBKBwQOMelAGjDMk8e+M5FSVS0n/AI9D/vGrtAFO8YtcRxnlNpYj1IqOYDdGigZLrhV9utLfrMJ45IYy2FIPGasW1uIQWPzSNyzGmBW1Rtj27HoGJ/lTEmMzyGFS/IxxjrnrVq9tPtSLhtrLnGehpbO1W2TqS7AbqQBYwNb2+xyCSc8VYpjoXI5wo6in0AFFFFABRRRQAUUUUAf/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D8EUAE69/F02EWTXV2N9/logo.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02EWTXV2N9-600de9d26c",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02D8EUAE69",
+    "display_as_bot": false,
+    "ts": "1632143446.003100",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+2b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아까 작업할때 로고를 조금 생각 해보고 구체화를 조금 시켜봤습니다 아래 2개 처럼 로고를 제작해봤는데 부연설명을 하자면 일단은 우혁님이 제안해주신 손 모양과 Handover 의 H를 넣어서 겹치게 제작을 해봤습니다 실제로는 아마 육각형형태로 제작하여서 가로세로 길이가 같게 할거 같은데 계속 고민중입니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "3b89c8c8-46f3-45a5-a2c9-95ad1ef944fd",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "음 말씀해주신대로 문서를 작성하고 읽는게 사용자 패턴이라 문서 작성도 중요한 부분이 맞는것 같네요 :slightly_smiling_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1632058794.017600",
+    "thread_ts": "1632058094.015100",
+    "root": {
+      "client_msg_id": "f7729a7f-ec31-437f-bb40-bf3fae4ae04c",
+      "type": "message",
+      "text": "앞서 말씀 드린거에 추가를 하자면 craft 와 노션을 둘다 참고하면서 공통되는 디자인 위주로 먼저 작업을 하고 있고, 이제 그중에 craft 디자인이 더 낫기 때문에 craft 를 주로 참고하면서 작업하고 있습니다. 그런데 craft 도 마찬가지로 mac에서 지원을 하는 거여서 유튭 비디오나 블로그 들을 참고 하면서 작업하고 있어요 ㅠ ㅠ\n개인적으로는 사무용 서비스이기는 하나 서비스 중점이 slab 나 slack 처럼 팀으로 활발히 소통하는 것 보다는 인수인계서 양식을 작성하고 수정, 공유하는데에 있다고 생각해서 노트서비스를 따라하였습니다",
+      "user": "U02D8EUAE69",
+      "ts": "1632058094.015100",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zT62",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "앞서 말씀 드린거에 추가를 하자면 craft 와 노션을 둘다 참고하면서 공통되는 디자인 위주로 먼저 작업을 하고 있고, 이제 그중에 craft 디자인이 더 낫기 때문에 craft 를 주로 참고하면서 작업하고 있습니다. 그런데 craft 도 마찬가지로 mac에서 지원을 하는 거여서 유튭 비디오나 블로그 들을 참고 하면서 작업하고 있어요 ㅠ ㅠ\n개인적으로는 사무용 서비스이기는 하나 서비스 중점이 slab 나 slack 처럼 팀으로 활발히 소통하는 것 보다는 인수인계서 양식을 작성하고 수정, 공유하는데에 있다고 생각해서 노트서비스를 따라하였습니다"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1632058094.015100",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1632058794.017600",
+      "reply_users": [
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1632058794.017600"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "od1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 말씀해주신대로 문서를 작성하고 읽는게 사용자 패턴이라 문서 작성도 중요한 부분이 맞는것 같네요 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "83fb3855-cce1-4b5f-bc40-9c43fd176215"
+  },
+  {
+    "client_msg_id": "f7729a7f-ec31-437f-bb40-bf3fae4ae04c",
+    "type": "message",
+    "text": "앞서 말씀 드린거에 추가를 하자면 craft 와 노션을 둘다 참고하면서 공통되는 디자인 위주로 먼저 작업을 하고 있고, 이제 그중에 craft 디자인이 더 낫기 때문에 craft 를 주로 참고하면서 작업하고 있습니다. 그런데 craft 도 마찬가지로 mac에서 지원을 하는 거여서 유튭 비디오나 블로그 들을 참고 하면서 작업하고 있어요 ㅠ ㅠ\n개인적으로는 사무용 서비스이기는 하나 서비스 중점이 slab 나 slack 처럼 팀으로 활발히 소통하는 것 보다는 인수인계서 양식을 작성하고 수정, 공유하는데에 있다고 생각해서 노트서비스를 따라하였습니다",
+    "user": "U02D8EUAE69",
+    "ts": "1632058094.015100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zT62",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "앞서 말씀 드린거에 추가를 하자면 craft 와 노션을 둘다 참고하면서 공통되는 디자인 위주로 먼저 작업을 하고 있고, 이제 그중에 craft 디자인이 더 낫기 때문에 craft 를 주로 참고하면서 작업하고 있습니다. 그런데 craft 도 마찬가지로 mac에서 지원을 하는 거여서 유튭 비디오나 블로그 들을 참고 하면서 작업하고 있어요 ㅠ ㅠ\n개인적으로는 사무용 서비스이기는 하나 서비스 중점이 slab 나 slack 처럼 팀으로 활발히 소통하는 것 보다는 인수인계서 양식을 작성하고 수정, 공유하는데에 있다고 생각해서 노트서비스를 따라하였습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632058094.015100",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1632058794.017600",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632058794.017600",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DHN1UBHA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "26129623-0919-4faf-81cf-e0e8d1a56f21",
+    "type": "message",
+    "text": "저는 주로 노션이랑 craft 참고 하면서 디자인 하고 있었습니다 <https://www.craft.do/|https://www.craft.do/> 주로 craft를 참고 하면서 보고 있는데 약간 노션이랑 서비스가 비슷한 노트앱입니다(차이점은 그냥 조금더 예쁜? 노트앱 정도?)",
+    "user": "U02D8EUAE69",
+    "ts": "1632042223.010100",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "Craft | A fresh take on documents",
+        "title_link": "https://www.craft.do/",
+        "text": "Get started today, it's free.",
+        "fallback": "Craft | A fresh take on documents",
+        "image_url": "https://uploads-ssl.webflow.com/5ef4a6d18ac404797a494432/5f073e097e1ba35c9c2c7971_Craft_og-image.png",
+        "from_url": "https://www.craft.do/",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 14793,
+        "service_name": "craft.do",
+        "id": 1,
+        "original_url": "https://www.craft.do/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MuVO9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저는 주로 노션이랑 craft 참고 하면서 디자인 하고 있었습니다 "
+              },
+              {
+                "type": "link",
+                "url": "https://www.craft.do/",
+                "text": "https://www.craft.do/"
+              },
+              {
+                "type": "text",
+                "text": " 주로 craft를 참고 하면서 보고 있는데 약간 노션이랑 서비스가 비슷한 노트앱입니다(차이점은 그냥 조금더 예쁜? 노트앱 정도?)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632042223.010100",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632043245.011300",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632043245.011300",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b55bbbcb-0679-44f6-8f3a-33c58220181f",
+    "type": "message",
+    "text": "제가 생각한 디자인 방향은 저희 서비스가 사무용 소프트웨어인만큼 최대한 깔끔하고 워드 프로세서같은 느낌으로 가려고 했어요! 수겸님도 다른 페이지에 몇개 디자인 해놓으셨던데, 디자인 컨셉이나 아이디어를 설명해주시면 방향을 잡아가는데 도움이 될 것 같아요 :slightly_smiling_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1632042025.006900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "39Mcs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 생각한 디자인 방향은 저희 서비스가 사무용 소프트웨어인만큼 최대한 깔끔하고 워드 프로세서같은 느낌으로 가려고 했어요! 수겸님도 다른 페이지에 몇개 디자인 해놓으셨던데, 디자인 컨셉이나 아이디어를 설명해주시면 방향을 잡아가는데 도움이 될 것 같아요 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02FM5YGC2U",
+        "created": 1632041828,
+        "timestamp": 1632041828,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 198403,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FM5YGC2U/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FM5YGC2U/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 139,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 186,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 278,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 309,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 371,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FM5YGC2U-61dd780d07/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 396,
+        "original_w": 2270,
+        "original_h": 878,
+        "thumb_tiny": "AwASADDSIpNw/vD86caZj3oAXcv94fnSgg9Dmk49vypQfTFABigUtIKAFptOptABTqbTqACiiigD/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02FM5YGC2U/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02FM5YGC2U-56b54bda59",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1632041832.003900",
+    "client_msg_id": "633942a7-cbb9-4b78-9dbe-a580fbbb0fa0"
+  },
+  {
+    "client_msg_id": "d6724cd9-9b66-4998-a310-f880402ea4af",
+    "type": "message",
+    "text": "<https://help.slab.com/en/articles/4231780-archiving-and-deleting-posts>\n저는 디자인을 여기에서 주로 벤치마킹하고 있어요! 수겸님도 참고하시면 좋을 것 같아요. :wink: (홈페이지에서 로그인 없이 UI 를 못봐서 도움말 페이지에 있는 스크린샷으로 보고 있어요 :sweat_smile: )",
+    "user": "U02DX5BFPPS",
+    "ts": "1632041820.003700",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "Archiving and deleting posts",
+        "title_link": "https://help.slab.com/en/articles/4231780-archiving-and-deleting-posts",
+        "text": "Archive and delete posts to clean up your documentation",
+        "fallback": "Archiving and deleting posts",
+        "from_url": "https://help.slab.com/en/articles/4231780-archiving-and-deleting-posts",
+        "service_name": "help.slab.com",
+        "id": 1,
+        "original_url": "https://help.slab.com/en/articles/4231780-archiving-and-deleting-posts"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hn++L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://help.slab.com/en/articles/4231780-archiving-and-deleting-posts"
+              },
+              {
+                "type": "text",
+                "text": "\n저는 디자인을 여기에서 주로 벤치마킹하고 있어요! 수겸님도 참고하시면 좋을 것 같아요. "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "unicode": "1f609"
+              },
+              {
+                "type": "text",
+                "text": " (홈페이지에서 로그인 없이 UI 를 못봐서 도움말 페이지에 있는 스크린샷으로 보고 있어요 "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              },
+              {
+                "type": "text",
+                "text": " )"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632041820.003700",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1632042321.010800",
+    "reply_users": [
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632042321.010800",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, 로고 디자인부터 하는게 좋을까요?! 우혁님이 만들어주신 로고랑 유사하게 작은 아이콘으로 보이더라도 구분할 수 있는 로고로 진행하면 좋을 것 같아요 ㅎㅎ\n<https://osam-handover.slack.com/files/U02D7GX0KGA/F02ETCTM5D2/image.png>",
+    "files": [
+      {
+        "id": "F02ETCTM5D2",
+        "created": 1631763211,
+        "timestamp": 1631763211,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D7GX0KGA",
+        "editable": false,
+        "size": 31836,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02ETCTM5D2/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02ETCTM5D2/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ETCTM5D2-6ea315b312/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ETCTM5D2-6ea315b312/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ETCTM5D2-6ea315b312/image_360.png",
+        "thumb_360_w": 352,
+        "thumb_360_h": 250,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ETCTM5D2-6ea315b312/image_160.png",
+        "original_w": 352,
+        "original_h": 250,
+        "thumb_tiny": "AwAiADDToJAGScCikIDDBGRQAjuFAxzmoyxIyzlcdABjP59aRgu/DFdo7Z/Slj+8SqjGMjj8qoi5Kmdo3de9LSISVBYYPpS1JYU2QEphfx+lNkdlJAGeM0hlOSAO4xnvTsJtBsLdF2r6H/ClyYyFAznqaaZW9h14I689KXe5OBjPPy46UydCWiofMYsvYN606J2bO6lYq5JRRRSGFFFFABRRRQB//9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02ETCTM5D2/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02ETCTM5D2-55ddbd6984",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "x_files": [
+      "F02ETCTM5D2"
+    ],
+    "ts": "1632038415.001600",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S/AH=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, 로고 디자인부터 하는게 좋을까요?! 우혁님이 만들어주신 로고랑 유사하게 작은 아이콘으로 보이더라도 구분할 수 있는 로고로 진행하면 좋을 것 같아요 ㅎㅎ\n"
+              },
+              {
+                "type": "link",
+                "url": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02ETCTM5D2/image.png"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "1c0d7621-4e8f-47e0-bcee-a9433ed83706",
+    "thread_ts": "1632038415.001600",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1632038506.001900",
+    "reply_users": [
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632038506.001900"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024504.000300",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "client_msg_id": "a59de4aa-9964-4271-b0dc-26a43b0fc91b",
+    "type": "message",
+    "text": "ㅎㅎ sass 를 이용하면 css 에 변수를 사용할 수 있어서 기능 추가는 어렵지 않습니다",
+    "user": "U02DX5BFPPS",
+    "ts": "1631865592.007000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M0I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅎㅎ sass 를 이용하면 css 에 변수를 사용할 수 있어서 기능 추가는 어렵지 않습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "astonished",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b4dcb34e-3b5c-4cf6-8a38-c314292fd5fe",
+    "type": "message",
+    "text": "다크모드를 추가하고 싶다면 !important 코드로 색상을 건드는 경우가 없어야지 나중에 덜 힘들어집니다!",
+    "user": "U02DPCQH7J5",
+    "ts": "1631865532.006300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tayj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "다크모드를 추가하고 싶다면 !important 코드로 색상을 건드는 경우가 없어야지 나중에 덜 힘들어집니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "68717bca-c73a-49c8-9367-4481d4a9fb94",
+    "type": "message",
+    "text": "우선 라이트모드에 기능 구현을 우선적으로 하고 다크모드 지원도 추가적으로 생각해보면 좋을 것 같네요! :smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631865317.004900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YlcZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "우선 라이트모드에 기능 구현을 우선적으로 하고 다크모드 지원도 추가적으로 생각해보면 좋을 것 같네요! "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0822bdd9-430b-477b-b849-6119716eb1d8",
+    "type": "message",
+    "text": "오 ㅎㅎ 다크 모드 좋죠",
+    "user": "U02DX5BFPPS",
+    "ts": "1631864838.004000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p7wM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오 ㅎㅎ 다크 모드 좋죠"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "980a371d-d5dc-42ed-abb9-3ad78231b029",
+    "type": "message",
+    "text": "이 사이트 보니까 다크모드를 자동화시켜 적용하는거 보고 갑자기 욕심이 생겨서...",
+    "user": "U02DHN1UBHA",
+    "ts": "1631864775.003700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4=iMX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이 사이트 보니까 다크모드를 자동화시켜 적용하는거 보고 갑자기 욕심이 생겨서..."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e3fa4c69-5fed-40bb-b8b8-9162a75591c5",
+    "type": "message",
+    "text": "개인적인 바람이지만 저희 다크모드도 지원해보면 어떨까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1631864693.001800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i=Y4h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "개인적인 바람이지만 저희 다크모드도 지원해보면 어떨까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d14e0faa-e75a-4d2e-a8fa-c43c440fa095",
+    "type": "message",
+    "text": "<https://medium.com/@katiemctigue/how-to-create-a-dark-mode-in-sass-609f131a3995>",
+    "user": "U02DHN1UBHA",
+    "ts": "1631864629.000500",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Medium",
+        "title": "How to create a dark mode in Sass",
+        "title_link": "https://medium.com/@katiemctigue/how-to-create-a-dark-mode-in-sass-609f131a3995",
+        "text": "A scalable method for color theming with developer experience in mind",
+        "fallback": "Medium: How to create a dark mode in Sass",
+        "image_url": "https://miro.medium.com/max/1200/1*WWx0qqOaqTbTG9133eMXhg.jpeg",
+        "fields": [
+          {
+            "title": "Reading time",
+            "value": "5 min read",
+            "short": true
+          }
+        ],
+        "ts": 1554049447,
+        "from_url": "https://medium.com/@katiemctigue/how-to-create-a-dark-mode-in-sass-609f131a3995",
+        "image_width": 580,
+        "image_height": 250,
+        "image_bytes": 70593,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@katiemctigue/how-to-create-a-dark-mode-in-sass-609f131a3995"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "are",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@katiemctigue/how-to-create-a-dark-mode-in-sass-609f131a3995"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "로고입니당 ㅎㅎ",
+    "files": [
+      {
+        "id": "F02ENLG6YCU",
+        "created": 1631686311,
+        "timestamp": 1631686311,
+        "name": "제목 없음.png",
+        "title": "제목 없음.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 27906,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02ENLG6YCU/_____________.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02ENLG6YCU/download/_____________.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ENLG6YCU-f274c131d6/______________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ENLG6YCU-f274c131d6/______________80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ENLG6YCU-f274c131d6/______________360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 205,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ENLG6YCU-f274c131d6/______________480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 274,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ENLG6YCU-f274c131d6/______________160.png",
+        "original_w": 649,
+        "original_h": 370,
+        "thumb_tiny": "AwAbADDNRGkcKoyTVmSxdEyGVj3FRW0ohmDt0q1PcrIwET4Pris5OXNZDVrFCig9aK0EFFFFABU0MW/5iy4Hbdg1DRSYE9xFHGqlHyx6jOcVBRRQlYAooopgf//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02ENLG6YCU/_____________.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02ENLG6YCU-488e20891b",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1631686321.000200",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1wPW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "로고입니당 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631686321.000200",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1631837336.000200",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02D7GX0KGA",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631837336.000200",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "58437b3a-b716-48d0-af4f-9dbca545198f",
+    "type": "message",
+    "text": "<@U02D8EUAE69> 님, Figma 프로젝트를 개설해서 알려주신 이메일로 초대해드렸습니다! <https://bit.ly/osam-handover-figma-edit> 이 링크로도 확인하실 수 있습니다 :smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631415586.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nni3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": " 님, Figma 프로젝트를 개설해서 알려주신 이메일로 초대해드렸습니다! "
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-figma-edit"
+              },
+              {
+                "type": "text",
+                "text": " 이 링크로도 확인하실 수 있습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631415586.000700",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1631416196.000800",
+    "reply_users": [
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631416196.000800"
+  },
+  {
+    "client_msg_id": "c5a97ca7-f6b8-4bb6-9e75-566184a149b6",
+    "type": "message",
+    "text": "위 내용 외에도 서비스의 방향에 대해서 기술 스택에 대해서 공부하면서 토의도 하였으면 좋겠습니다!",
+    "user": "U02D8EUAE69",
+    "ts": "1631280845.001500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3NgtU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "위 내용 외에도 서비스의 방향에 대해서 기술 스택에 대해서 공부하면서 토의도 하였으면 좋겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9782d5d5-8b58-4da3-9f45-b71698597f06",
+    "type": "message",
+    "text": "프로젝트 디자인, 개발에 앞서서 저희가 개발하려는 앱, 프로그램에 대해서 조금 더 상의가 필요하다고 생각되어서 몇가지 토의가 필요하다고 생각한 점을 제시하려고 합니다.\n1. 우리의 서비스를 사용할 사람들은 누구이고 어떤 환경일지        예를들어 \"전입 신병, 신임 간부, 보직 변경\" 의 예시가 있었는데 그렇다면 주 사용자가 누구인지, 사용자를 고려할 때 사용환경을 어떻게 생각하고 서비스를 개발 해야하는지,      군대내 컴퓨터나 핸드폰이 제한이 되는 환경은 어떻게 고려할 것인지 등등 다양한 상황이 있기 때문에 어떤 상황, 어떤 사용자를 중점으로 두고 서비스를 개발해야 되는지 토의가 필요하다고 생각합니다.\n2. \"어떤 인수인계 문서 형식이 가장 편리하고 효율적인지를 연구\" 는 어떤식으로 진행할 계획이고 어떤 기준으로 선정할 것인지\n3. 마지막으로 현행 인수인계 방법과 비교하여 저희가 개발하려는 서비스가 정확히 어떠한 장점을 가지고 있도록 할것인지 특히  어떠한 기능을 중심으로 둘 것인지에 따라 디자인이나 모티브가 될 서비스 설정이 많이 다를 것 같습니다",
+    "user": "U02D8EUAE69",
+    "ts": "1631280793.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Pwi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "프로젝트 디자인, 개발에 앞서서 저희가 개발하려는 앱, 프로그램에 대해서 조금 더 상의가 필요하다고 생각되어서 몇가지 토의가 필요하다고 생각한 점을 제시하려고 합니다.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "우리의 서비스를 사용할 사람들은 누구이고 어떤 환경일지        예를들어 \"전입 신병, 신임 간부, 보직 변경\" 의 예시가 있었는데 그렇다면 주 사용자가 누구인지, 사용자를 고려할 때 사용환경을 어떻게 생각하고 서비스를 개발 해야하는지,      군대내 컴퓨터나 핸드폰이 제한이 되는 환경은 어떻게 고려할 것인지 등등 다양한 상황이 있기 때문에 어떤 상황, 어떤 사용자를 중점으로 두고 서비스를 개발해야 되는지 토의가 필요하다고 생각합니다."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "\"어떤 인수인계 문서 형식이 가장 편리하고 효율적인지를 연구\" 는 어떤식으로 진행할 계획이고 어떤 기준으로 선정할 것인지"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "마지막으로 현행 인수인계 방법과 비교하여 저희가 개발하려는 서비스가 정확히 어떠한 장점을 가지고 있도록 할것인지 특히  어떠한 기능을 중심으로 둘 것인지에 따라 디자인이나 모티브가 될 서비스 설정이 많이 다를 것 같습니다"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631280793.000400",
+    "reply_count": 8,
+    "reply_users_count": 3,
+    "latest_reply": "1631334667.003600",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631334667.003600",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4f4ddb41-04be-43a1-931e-9fd9120bfb43",
+    "type": "message",
+    "text": "저도 생각나는대로 노션에 추가해볼게욥 :smiley:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631145587.003800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KqF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저도 생각나는대로 노션에 추가해볼게욥 "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a3752657-fa18-403a-ae7a-8ebd392ca553",
+    "type": "message",
+    "text": "<@U02D8EUAE69>님, 디자인 가이드라인이나 모티브를 가져올 서비스가 있으면 좋을 것 같습니다. 저번에 메일로 Material 디자인을 사용해서 디자인을 해보셨다고 하셨는데, 생각해보신 아이디어 있으시면 알려주세요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1631145542.002600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8TS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02D8EUAE69"
+              },
+              {
+                "type": "text",
+                "text": "님, 디자인 가이드라인이나 모티브를 가져올 서비스가 있으면 좋을 것 같습니다. 저번에 메일로 Material 디자인을 사용해서 디자인을 해보셨다고 하셨는데, 생각해보신 아이디어 있으시면 알려주세요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631145542.002600",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1631181878.000100",
+    "reply_users": [
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631181878.000100"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631110795.001200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631110795.001000",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631110795.000800",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631110795.000600",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631110795.000400",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631110787.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

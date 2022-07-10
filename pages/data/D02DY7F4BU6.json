@@ -1,0 +1,3571 @@
+[
+  {
+    "client_msg_id": "728a21ba-5313-447f-9fa1-5eb7353172b7",
+    "type": "message",
+    "text": "off",
+    "user": "U02DX5BFPPS",
+    "ts": "1638971546.001900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FfM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "off"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "Some tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type _off_ or _stop_ to turn off Figma notifications in Slack\n• Type _on_ or _start_ to turn them back on\n• Type _help_ to see these tips again\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1638971544.001700",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "deleted": true,
+      "name": "Figma and FigJam",
+      "updated": 1638971578,
+      "app_id": "A01N2QYSA81",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mm3N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4a30edff-4556-4050-a649-7792d988df28",
+    "type": "message",
+    "text": "help",
+    "user": "U02DX5BFPPS",
+    "ts": "1638971543.001600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vl3ey",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "help"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c787d743-48af-4855-98fe-781a0e45a5f0",
+    "type": "message",
+    "text": "start",
+    "user": "U02DX5BFPPS",
+    "ts": "1638971540.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "169",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "start"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8161d34b-599e-40ee-bb2f-4cdd1e72c858",
+    "type": "message",
+    "text": "off",
+    "user": "U02DX5BFPPS",
+    "ts": "1638971537.001200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DFEz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "off"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "Hmmm. I didn't really understand that last message.\n\nSome tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type _off_ or _stop_ to turn off Figma notifications in Slack\n• Type _on_ or _start_ to turn them back on\n• Type _help_ to see these tips again\n\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1638971533.001000",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bYG1G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmm. I didn't really understand that last message.\n\nSome tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3aa6f45b-e914-4ca1-b05e-30e7108426b7",
+    "type": "message",
+    "text": "no",
+    "user": "U02DX5BFPPS",
+    "ts": "1638971533.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o4Ytv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d07044cb-3860-4459-baeb-dd0d2afc8fc4",
+    "type": "message",
+    "text": "stop",
+    "user": "U02DX5BFPPS",
+    "ts": "1638971525.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tq2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "stop"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 replied on Startup Bible, Step 1: Market Segmentation",
+    "user": "U02E1V1MSBF",
+    "ts": "1638971357.000500",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "ltjx",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* replied on <https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=23:163#131471444|Startup Bible, Step 1: Market Segmentation>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "eKEpr",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;ㅇㅋㅇㅋ",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "Y+hIH",
+        "image_url": "https://api-cdn.figma.com/resize/img/f747/f0e8/65ae2c96eb88260df8fc43e76179a1bb?height=500&width=800&mode=embed&commentx=78&commenty=148&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 16000
+      },
+      {
+        "type": "actions",
+        "block_id": "gvdfI",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:bf15c24bf6182ea14d0fbc35887c1dd6",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "U/G",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=23:163#131471444"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 replied on Startup Bible, Step 1: Market Segmentation",
+    "user": "U02E1V1MSBF",
+    "ts": "1638971343.000400",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "eX+2L",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* replied on <https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=23:163#131471444|Startup Bible, Step 1: Market Segmentation>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "wA9",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;제가 정리 고자라",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "3qgpn",
+        "image_url": "https://api-cdn.figma.com/resize/img/f747/f0e8/65ae2c96eb88260df8fc43e76179a1bb?height=500&width=800&mode=embed&commentx=78&commenty=148&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 16000
+      },
+      {
+        "type": "actions",
+        "block_id": "WI=",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:00af9d258e1b3b8fc6a90ae104e6bbc0",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "dacTz",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=23:163#131471444"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 left a comment on Startup Bible, Step 1: Market Segmentation ",
+    "user": "U02E1V1MSBF",
+    "ts": "1638971330.000300",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "ljE=",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* left a comment on <https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=23:163#131471444|Startup Bible, Step 1: Market Segmentation>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "V5Kz",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;이거 디자인ㅋㅋㅋ 정리 좀.....",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "72g9",
+        "image_url": "https://api-cdn.figma.com/resize/img/ccc9/6376/dd613b3402d92ab90cddb2068ba893d1?height=500&width=800&mode=embed&commentx=78&commenty=148&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 17580
+      },
+      {
+        "type": "actions",
+        "block_id": "ZHnn",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:7979ef182117c13f3c996f1ac911cf94",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "TTf",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=23:163#131471444"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 left a comment on Startup Bible, Step 1: Market Segmentation ",
+    "user": "U02E1V1MSBF",
+    "ts": "1638971055.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1638971085.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "QzsUO",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* left a comment on <https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=0:1#131469610|Startup Bible, Step 1: Market Segmentation>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "kx0ML",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;고객 성향을 브레인 스토밍으로 나열, 시장 조사를 통해 검증 후 고객이 많은 시장으로 진행\n&gt;\n&gt;-&gt; 현 설문지에 고객 성향이 다 들어가 있음. 수정 없이 반영 가능",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "E3SA",
+        "image_url": "https://api-cdn.figma.com/resize/img/dc27/3ac7/e46e5db292a2da4c3c355c6c6c03ea9d?height=500&width=800&mode=embed&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 108025
+      },
+      {
+        "type": "actions",
+        "block_id": "3yi",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:b8100528de91a1f1fccf5e7d36dddd43",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "6wXD",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/raHbLobAyVjvzZSxeolipW?node-id=0:1#131469610"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f94cceb7-81e0-4cf1-9e0b-24a2947ad5a3",
+    "type": "message",
+    "text": "stop",
+    "user": "U02DX5BFPPS",
+    "ts": "1638531922.001300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ox35",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "stop"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d337b184-1321-4d81-8be5-f4a8f171769f",
+    "type": "message",
+    "text": "off",
+    "user": "U02DX5BFPPS",
+    "ts": "1638531914.001000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WdDa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "off"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "Hmmm. I didn't really understand that last message.\n\nSome tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type _off_ or _stop_ to turn off Figma notifications in Slack\n• Type _on_ or _start_ to turn them back on\n• Type _help_ to see these tips again\n\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1638531914.000900",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ENzG/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmm. I didn't really understand that last message.\n\nSome tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ca0ea868-d834-456b-a080-83e86565f68b",
+    "type": "message",
+    "text": "iff",
+    "user": "U02DX5BFPPS",
+    "ts": "1638531913.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FuPE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "iff"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "Some tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type _off_ or _stop_ to turn off Figma notifications in Slack\n• Type _on_ or _start_ to turn them back on\n• Type _help_ to see these tips again\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1638531909.000500",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "41A9i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "77bb4a8a-ed43-4cbc-88ff-94e327689ee0",
+    "type": "message",
+    "text": "help",
+    "user": "U02DX5BFPPS",
+    "ts": "1638531908.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gnJpN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "help"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 replied on Survey Flow",
+    "user": "U02E1V1MSBF",
+    "ts": "1638531844.000200",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "qDDRB",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* replied on <https://www.figma.com/file/BmyRcscAmB3Rx4mp3xXMnd?node-id=20:180#130179160|Survey Flow>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "fes",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;3분 40초 -4분",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "IJP",
+        "image_url": "https://api-cdn.figma.com/resize/img/a5ad/0be6/dc8f9ff880e6f7a557e506eea457b3ad?height=500&width=800&mode=embed&commentx=208&commenty=52&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 85867
+      },
+      {
+        "type": "actions",
+        "block_id": "P=2+",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:17dceb357bcec9e395ba08f34f9c39d4",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "1Nc",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/BmyRcscAmB3Rx4mp3xXMnd?node-id=20:180#130179160"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 left a comment on Survey Flow ",
+    "user": "U02E1V1MSBF",
+    "ts": "1638531840.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "uY84",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* left a comment on <https://www.figma.com/file/BmyRcscAmB3Rx4mp3xXMnd?node-id=20:180#130179160|Survey Flow>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "pyj",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;<https://www.youtube.com/watch?v=3GbqpM3FTlE>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "GqRz",
+        "image_url": "https://api-cdn.figma.com/resize/img/a5ad/0be6/dc8f9ff880e6f7a557e506eea457b3ad?height=500&width=800&mode=embed&commentx=208&commenty=52&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 85867
+      },
+      {
+        "type": "actions",
+        "block_id": "wxq=F",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:05c1a9ed36c685db0b8d2088ddcd477c",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "1ZHi",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/BmyRcscAmB3Rx4mp3xXMnd?node-id=20:180#130179160"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "266a671c-54ac-47be-b11d-381febf41c34",
+    "type": "message",
+    "text": "stop",
+    "user": "U02DX5BFPPS",
+    "ts": "1636900994.001100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tR8c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "stop"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ab3c3ed3-8e33-41f7-ad66-854d7dcd575a",
+    "type": "message",
+    "text": "on",
+    "user": "U02DX5BFPPS",
+    "ts": "1636900991.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PC6qt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "on"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "44dca8db-0bdb-478f-a384-b7486ea91816",
+    "type": "message",
+    "text": "off",
+    "user": "U02DX5BFPPS",
+    "ts": "1636900986.000600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CvWaF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "off"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 replied on Wireframe",
+    "user": "U02E1V1MSBF",
+    "ts": "1636900961.000400",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1636901133.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "hiFf",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* replied on <https://www.figma.com/file/eb17nbGm4NHQibJbtUrCgj?node-id=49:11#124559962|Wireframe>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "i=BQ",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;나중에 없던 걸 아예 만드는 건 개발자로서 어렵기도 하잖아 대충 공간은 만들고 하는게 편하지 않음?",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "isXu",
+        "image_url": "https://api-cdn.figma.com/resize/img/b868/644c/4e9ce6c3a09b02d6aacb7703619906c0?height=500&width=800&mode=embed&commentx=477&commenty=159",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 15936
+      },
+      {
+        "type": "actions",
+        "block_id": "t0p",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:47604a14abb8b96b7d182af542f1b7c2",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "M1EB",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/eb17nbGm4NHQibJbtUrCgj?node-id=49:11#124559962"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 replied on Wireframe",
+    "user": "U02E1V1MSBF",
+    "ts": "1636900902.000200",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1636900918.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "veHr",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* replied on <https://www.figma.com/file/eb17nbGm4NHQibJbtUrCgj?node-id=49:11#124559962|Wireframe>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "B2S2",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;근데 헤이홈도 한샘 투자 받기 전에 구데기였다가 투자 받고 이뻐진거잖어\n&gt;\n&gt;우리도 우선 메인 페이지에는 다 넣어서 만들고 거기서 MVP 기능 부분만 중점으로 와이어프레임 작성해보자\n&gt;",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "Ecqf",
+        "image_url": "https://api-cdn.figma.com/resize/img/b868/644c/4e9ce6c3a09b02d6aacb7703619906c0?height=500&width=800&mode=embed&commentx=477&commenty=159",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 15936
+      },
+      {
+        "type": "actions",
+        "block_id": "5F2",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:fec29e94f3798d1e9685a7ddc29ca8a2",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "1Nl",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/eb17nbGm4NHQibJbtUrCgj?node-id=49:11#124559962"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 left a comment on Wireframe ",
+    "user": "U02E1V1MSBF",
+    "ts": "1636900764.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "mNS",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* left a comment on <https://www.figma.com/file/eb17nbGm4NHQibJbtUrCgj?node-id=49:11#124559962|Wireframe>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "hkb",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;이거 link 에 뭐 넣을지 정해야 될듯 나는 가이드, 퓨홈 스토리, 마켓플레이스,  시공 서비스 정도 생각함 (퓨홈 스토리랑 커뮤니티를 합치는 건 어때) SLack ",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "0KHx",
+        "image_url": "https://api-cdn.figma.com/resize/img/b868/644c/4e9ce6c3a09b02d6aacb7703619906c0?height=500&width=800&mode=embed&commentx=477&commenty=159",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 15936
+      },
+      {
+        "type": "actions",
+        "block_id": "eiQ",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:4e246d33f0ed5f83a83697376d954d68",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "UoU",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/eb17nbGm4NHQibJbtUrCgj?node-id=49:11#124559962"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "­이재훈 left a comment on Layout ",
+    "user": "U02E1V1MSBF",
+    "ts": "1635927033.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "qFh",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*­이재훈* left a comment on <https://www.figma.com/file/QZZ1aSaKOa5fTuGi1Qbanb?node-id=0:1#121639198|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "DKHe",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;섹스",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "GwV",
+        "image_url": "https://api-cdn.figma.com/resize/img/21b3/3e95/4177ce34aefbd01d7a11e207a844a3dd?height=500&width=800&mode=embed&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 6600
+      },
+      {
+        "type": "actions",
+        "block_id": "5sNS",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:25b8f15cedeeeabd85587934e4c2f51b",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "teQGN",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/QZZ1aSaKOa5fTuGi1Qbanb?node-id=0:1#121639198"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "최우혁 left a comment on Layout ",
+    "user": "U02E1V1MSBF",
+    "ts": "1632446036.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "cNuK",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D7GX0KGA> left a comment on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=170:8136#111390018|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "DDgP",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;혹시 여기 아래에 있는 버튼들도 한글로 수정될 예정인가요??ㅎ",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "EUgay",
+        "image_url": "https://api-cdn.figma.com/resize/img/626c/7c81/c4ed888bf677a7f09b9f4f2b41097c5d?height=500&width=800&mode=embed&commentx=961&commenty=537",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 13854
+      },
+      {
+        "type": "actions",
+        "block_id": "FWvsL",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:c43faed3477a0f265e9d024f2cf4bfe4",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "=Q2e",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=170:8136#111390018"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632190212.002700",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632190565.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "8iRP",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=177:8223#110336326|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "2leQz",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;옹 그것도 좋은것 같네요! 한번 디자인 해보겠습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "nVAg",
+        "image_url": "https://api-cdn.figma.com/resize/img/be57/75b9/ad732d66b760db8256fd070f97c2e5b0?height=500&width=800&mode=embed&commentx=174&commenty=37",
+        "alt_text": "comment thumbnail image",
+        "fallback": "801x500px image",
+        "image_width": 801,
+        "image_height": 500,
+        "image_bytes": 37156
+      },
+      {
+        "type": "actions",
+        "block_id": "1WnT+",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:6062d844dbee03c6dd4da657ff401ca0",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "+TM",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=177:8223#110336326"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189991.002500",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632190049.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "TAr",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=177:8223#110336326|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "5cFX",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;옹 그거는 좋은 아이디어 인것 같습니다! 한번 반영해서 디자인 해보겠습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "IUNa",
+        "image_url": "https://api-cdn.figma.com/resize/img/be57/75b9/ad732d66b760db8256fd070f97c2e5b0?height=500&width=800&mode=embed&commentx=174&commenty=37",
+        "alt_text": "comment thumbnail image",
+        "fallback": "801x500px image",
+        "image_width": 801,
+        "image_height": 500,
+        "image_bytes": 37156
+      },
+      {
+        "type": "actions",
+        "block_id": "MA4",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:de34f2e429a664b5cc078de3a9e49cd3",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "zZTCQ",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=177:8223#110336326"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189754.002400",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "DFn6E",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=61:93#110329940|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "F6N",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;:grinning: ",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "1oE",
+        "image_url": "https://api-cdn.figma.com/resize/img/c535/4c6b/83d2ef02c474f554a9a0a99a717a9058?height=500&width=800&mode=embed",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 114751
+      },
+      {
+        "type": "actions",
+        "block_id": "rp8g",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:46e80d9d1cd2b5548d3a0aca6dd0bed9",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "FsmX",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=61:93#110329940"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189509.001700",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632189560.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "hrI",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=61:93#110329940|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "uG=aI",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;flat 하게 디자인해도 크게 상관은 없을것 같습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "Eux0",
+        "image_url": "https://api-cdn.figma.com/resize/img/d5c7/5eab/446a5c033f78803a476e36b6db335d15?height=500&width=800&mode=embed",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 114835
+      },
+      {
+        "type": "actions",
+        "block_id": "JwTou",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:75496a2896a743028cc614e9b20047d6",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "DZ8",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=61:93#110329940"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189456.001600",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632189601.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "NnM",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110329186|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "u=O6u",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;알겠습니다! ",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "mQU",
+        "image_url": "https://api-cdn.figma.com/resize/img/9257/1481/52072612cbab6c039c256901e6820ff1?height=500&width=800&mode=embed&commentx=1032&commenty=130",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 36796
+      },
+      {
+        "type": "actions",
+        "block_id": "=5kM",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:8f0dd618711bf1340c2b8d09814550c6",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "Yi9",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110329186"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189436.001500",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632189606.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "Gfa",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110334055|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "R=4",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;경로를 표시하는 것을 수정하겠습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "SQR",
+        "image_url": "https://api-cdn.figma.com/resize/img/9257/1481/52072612cbab6c039c256901e6820ff1?height=500&width=800&mode=embed&commentx=524&commenty=24",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 36852
+      },
+      {
+        "type": "actions",
+        "block_id": "LGC",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:9d0889526798b7f253c6909d3e6f4465",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "g/v",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110334055"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189383.001400",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632189621.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "Ul=Rv",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8274#110329695|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "k7ov",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;위에게 더 좋을거 같네요! 위에것으로 수정하겠습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "hUZs/",
+        "image_url": "https://api-cdn.figma.com/resize/img/a5a3/4947/5d0f579dc3f725b1779d5ce77bf6745a?height=500&width=800&mode=embed&commentx=814&commenty=960",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 55980
+      },
+      {
+        "type": "actions",
+        "block_id": "Qwi3",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:e280fcc9392cc466a05d7358a0d9b8ca",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "C3Fz",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8274#110329695"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632189198.001300",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632189639.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "Zgk",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=176:8128#110332112|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "LC20",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;메뉴 아이콘은 딱히 넣을 기능이 없다면 삭제 해도 될거 같습니다.\n&gt;[ 새문서, 카드 작성하기]는 어차피 서랍 화면이나 문서 화면에서도 공통되는 부분이어서 상단바에 두어도 괜찮지 않을까요? [새문서, 카드 작성] 버튼이 내용부분으로 갈경우 번잡해질거 같아서요 ㅠ 아니면 혹시 예시를 간단히 들어주실수 있나요?",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "SQ8Ck",
+        "image_url": "https://api-cdn.figma.com/resize/img/d47a/f017/040d320e8d0c652a3bfe06933a8406d2?height=500&width=800&mode=embed&commentx=1604&commenty=13",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 46548
+      },
+      {
+        "type": "actions",
+        "block_id": "iqBN5",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:ad4d700f1958c6a11e921815625f0b03",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "v+y/f",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=176:8128#110332112"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632188700.001200",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632189606.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "3e6ES",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110334055|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "zbr7",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;아 넵 ㅠㅠ 상위 구조로 생각하고 보직으로 적었네요 ㅠㅠ 알겠습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "=BQHT",
+        "image_url": "https://api-cdn.figma.com/resize/img/9257/1481/52072612cbab6c039c256901e6820ff1?height=500&width=800&mode=embed&commentx=524&commenty=24",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 36852
+      },
+      {
+        "type": "actions",
+        "block_id": "O0Z3",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:e6b862371e7427af11dbacd09842485f",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "yNgen",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110334055"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632188645.001000",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632188648.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "SUP",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=176:8128#110332112|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "q19",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;검색, 새 문서 작성, 메뉴 라고 생각하고 아이콘을 넣어 놓기는 했는데 조금 애매한것 같군요.. ",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "Fnt02",
+        "image_url": "https://api-cdn.figma.com/resize/img/d47a/f017/040d320e8d0c652a3bfe06933a8406d2?height=500&width=800&mode=embed&commentx=1604&commenty=13",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 46548
+      },
+      {
+        "type": "actions",
+        "block_id": "rvgr",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:af2fb6a51f123be000cb7af159a8fa30",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "+EzO",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=176:8128#110332112"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632188461.000900",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "Zf9n",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110334055|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "zAMeZ",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;이제 이부분은 문서 부분이어서 상위 보직 부분으로 가는 것으로 생각은하고 있었습니다 다시 생각을 해보니 '&gt;' 이 아이콘은 딱히 필요가 없겠군요 수정해보겠습니다\n&gt;아니면 아예 없애버리는게 나을까요?\n&gt;",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "TA1",
+        "image_url": "https://api-cdn.figma.com/resize/img/a9a0/291e/275188e0372ab5bb688c0bddf5cb1794?height=500&width=800&mode=embed&commentx=524&commenty=24",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 37333
+      },
+      {
+        "type": "actions",
+        "block_id": "f7RnF",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:f47255453a749acf53837a0169c36181",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "Om+jC",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110334055"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632188343.000600",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632188444.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "Wa0",
+        "text": {
+          "type": "mrkdwn",
+          "text": ":white_check_mark: You replied to <@U02D8EUAE69>’s comment.",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "divider",
+        "block_id": "oDmk"
+      },
+      {
+        "type": "section",
+        "block_id": "99pG",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110329186|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "/8GvJ",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;그러면 혹시 위 기능들은 어디로 보내는게 나을 까요?.. 딱히 이부분이 아니면 둘 곳 이 없는 것 같아서요.. 아니면 문서 옵션 아이콘을 따로 두어서 한곳에 몰아 넣는 것이 좋을까요?",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "4MO+",
+        "image_url": "https://api-cdn.figma.com/resize/img/a9a0/291e/275188e0372ab5bb688c0bddf5cb1794?height=500&width=800&mode=embed&commentx=1032&commenty=130",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 37257
+      },
+      {
+        "type": "actions",
+        "block_id": "CLQ",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "1Z3=",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110329186"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632188040.000500",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "tyft",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110328980|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "xsV",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;사진 썸네일은 불필요할거 같기는 하네요 그러면 먼저 썸네일 없는거를 기본으로 두고 나중에 필요로 하다면 구현하는 방식으로 하는게 나을것 같네요\n&gt;",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "r3x",
+        "image_url": "https://api-cdn.figma.com/resize/img/f005/aa40/fe1bf0bf7927a00cd8f99f214fffdb8b?height=500&width=800&mode=embed&commentx=893&commenty=245",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 65812
+      },
+      {
+        "type": "actions",
+        "block_id": "sl4L",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:394200bf191aa990eb5acf88b8163439",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "s1NI",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=242:8440#110328980"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632187633.000300",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632187800.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "lO=p",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=204:8275#110328554|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "Vjh=",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;그래도 본인을 구분하는 측면에서 프로필 사진이 필요로 할것 같아서 <https://github.com/osamhack2020/WEB_KookbangFriends_Woowahan>\n&gt;이런식으로 기본 썸네일을 제공하고 추가로 업로드 하는 방식은 어떤가요? 부대나 직책에 맞게 사용할 수 있는 썸네일을 제공하면 좋을것 같아",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "xpm",
+        "image_url": "https://api-cdn.figma.com/resize/img/7bc6/13d9/f1edbaf7bfc11368f03d3e00a24aef69?height=500&width=800&mode=embed&commentx=627&commenty=146",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 79355
+      },
+      {
+        "type": "actions",
+        "block_id": "LYF",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:9ef8cb49d91200cfbe14fc6c2a962a8b",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "vAOU",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=204:8275#110328554"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1632187062.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632187106.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "S+T",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=204:8275#110328739|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "vd2p",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;좋을것 같습니다! 그러면 프로필 페이지를 따로 제작해보겠습니",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "rYP8",
+        "image_url": "https://api-cdn.figma.com/resize/img/7bc6/13d9/f1edbaf7bfc11368f03d3e00a24aef69?height=500&width=800&mode=embed&commentx=1604&commenty=100",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 78788
+      },
+      {
+        "type": "actions",
+        "block_id": "MMob",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:5ef4ddb46830f08d2bf0374a3adb0ffe",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "/MNkV",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=204:8275#110328739"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn left a comment on User Flow ",
+    "user": "U02E1V1MSBF",
+    "ts": "1632048783.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1632049619.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "CslW",
+        "text": {
+          "type": "mrkdwn",
+          "text": ":white_check_mark: You replied to <@U02D8EUAE69>’s comment.",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "divider",
+        "block_id": "lMf"
+      },
+      {
+        "type": "section",
+        "block_id": "zm5C",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> left a comment on <https://www.figma.com/file/B53s6SAJWqq8ydF9EIJlIf?node-id=0:1#109982667|User Flow>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "C4r",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;출력을 어떻게 구현할건지가 조금 고민이 되네요 필요할 기능인것 같아서 어제 써놓았었는데 이게 카드 형식이면은 합치는? 그런 형태가 되는 건가요?",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "wSr",
+        "image_url": "https://api-cdn.figma.com/resize/img/22ff/46ef/55bfd813551134cdcd8232cb271ad375?height=500&width=800&mode=embed&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 77649
+      },
+      {
+        "type": "actions",
+        "block_id": "zal",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "oVI",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/B53s6SAJWqq8ydF9EIJlIf?node-id=0:1#109982667"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "최우혁 left a comment on User Flow ",
+    "user": "U02E1V1MSBF",
+    "ts": "1632030118.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "2yAZ",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D7GX0KGA> left a comment on <https://www.figma.com/file/B53s6SAJWqq8ydF9EIJlIf?node-id=0:1#109970603|User Flow>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "888bI",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;검색 결과 section이 문서 열람하는 페이지로 이어져야 할 것 같습니다!\n&gt;그리고 문서 검색 말고 사용자 검색도 가능하다면 프로필 열람으로도 이어질 수 있을 것 같아",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "DYh+",
+        "image_url": "https://api-cdn.figma.com/resize/img/c785/a92d/ba38fd1773b70439119824cb197818dd?height=500&width=800&mode=embed&overlay_dots",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 84847
+      },
+      {
+        "type": "actions",
+        "block_id": "zYc",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:2aa3aa7260130b2841aeff2b29e4fa3e",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "0nDi",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/B53s6SAJWqq8ydF9EIJlIf?node-id=0:1#109970603"
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "avocado ahn replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1631716084.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1631716099.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "=y=Mw",
+        "text": {
+          "type": "mrkdwn",
+          "text": "<@U02D8EUAE69> replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=61:97#109136259|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "E6T",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;알겠습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "ut=Xe",
+        "image_url": "https://api-cdn.figma.com/resize/img/2ee1/bec2/d6645fa07b5e4ac0b8bb76e990d367d4?height=500&width=800&mode=embed&commentx=587&commenty=51",
+        "alt_text": "comment thumbnail image",
+        "fallback": "801x500px image",
+        "image_width": 801,
+        "image_height": 500,
+        "image_bytes": 7305
+      },
+      {
+        "type": "actions",
+        "block_id": "0gJ",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:0bc6c2db4d0181c22697cc78fe2c37a5",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "78FN",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=61:97#109136259"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "최우혁 replied on Layout",
+    "user": "U02E1V1MSBF",
+    "ts": "1631499748.000200",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1631500072.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "XRC5",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*최우혁* replied on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=11:8#108204962|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "u6o8E",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;프로필 사진이 애매하면 아예 빼버리거나, 이 자리를 부대 마크나 계급장으로 대체하면 좋을 것 같습니다!",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "ioVTp",
+        "image_url": "https://api-cdn.figma.com/resize/img/8d1b/a4e8/4ebffd212520547e5f3aae2743ea22a5?height=500&width=800&mode=embed&commentx=47&commenty=153",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 30348
+      },
+      {
+        "type": "actions",
+        "block_id": "v1O3v",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:66f8e0ab4ea9432e53a0a3faa35c6ad5",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "zdqT",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=11:8#108204962"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "최우혁 left a comment on Layout ",
+    "user": "U02E1V1MSBF",
+    "ts": "1631499684.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "edited": {
+      "user": "B02E5004AN6",
+      "ts": "1631500093.000000"
+    },
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "VwpH",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*최우혁* left a comment on <https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=11:8#108237096|Layout>",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "section",
+        "block_id": "Yw6",
+        "text": {
+          "type": "mrkdwn",
+          "text": "&gt;프로필의 이름 부분에 계급도 추가하면 어떨까요? '중사 홍길동' 이런 식으로요! 인트라넷을 구경하다 보면 계급이 이름과 같이 표기되어 있는 경우가 많더라고요.",
+          "verbatim": false
+        }
+      },
+      {
+        "type": "image",
+        "block_id": "onUx3",
+        "image_url": "https://api-cdn.figma.com/resize/img/8d1b/a4e8/4ebffd212520547e5f3aae2743ea22a5?height=500&width=800&mode=embed&commentx=112&commenty=153",
+        "alt_text": "comment thumbnail image",
+        "fallback": "800x500px image",
+        "image_width": 800,
+        "image_height": 500,
+        "image_bytes": 30377
+      },
+      {
+        "type": "actions",
+        "block_id": "mCIfS",
+        "elements": [
+          {
+            "type": "button",
+            "action_id": "notification:cf5f6d56e57abbdf760a4ebaaae36e6e",
+            "text": {
+              "type": "plain_text",
+              "text": "Reply",
+              "emoji": true
+            }
+          },
+          {
+            "type": "button",
+            "action_id": "Tuw",
+            "text": {
+              "type": "plain_text",
+              "text": "Open in Figma",
+              "emoji": true
+            },
+            "url": "https://www.figma.com/file/8Ah5koqMBqbJzQowgi3K3G?node-id=11:8#108237096"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "You are already subscribed to notifications.\n\nType *off* to stop receiving notifications.\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1631415473.001000",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5+qT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You are already subscribed to notifications.\n\nType "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to stop receiving notifications."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "67fa81d6-35ec-48d7-a41c-29423bac1453",
+    "type": "message",
+    "text": "on",
+    "user": "U02DX5BFPPS",
+    "ts": "1631415471.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e=P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "on"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "Some tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type *off* or *stop* to turn off Figma notifications in Slack\n• Type *on* or *start* to turn them back on\n• Type *help* to see these tips again\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1631415457.000700",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mxN6q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3d18b660-1c05-446b-8cf7-849b4fa17b91",
+    "type": "message",
+    "text": "help",
+    "user": "U02DX5BFPPS",
+    "ts": "1631415456.000600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vQK7W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "help"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "Hmmm. I didn't really understand that last message.\n\nSome tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type *off* or *stop* to turn off Figma notifications in Slack\n• Type *on* or *start* to turn them back on\n• Type *help* to see these tips again\n\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1631415456.000500",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MFUv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmm. I didn't really understand that last message.\n\nSome tips for using Figma’s Slack app:\n\n• When you reply to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d673e70c-689f-4d2c-b7d3-8dfa2159aba7",
+    "type": "message",
+    "text": "ㅗ디ㅔ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631415455.000300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ob1r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅗ디ㅔ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B02E5004AN6",
+    "type": "message",
+    "text": "You’ve successfully installed Figma’s Slack app! Now your Figma comments and notifications will show up here. :tada:\n\nSome tips:\n• When you *reply* to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type *off* or *stop* to turn off Figma notifications in Slack\n• Type *on* or *start* to turn them back on\n• Type *help* to see these tips again\n",
+    "user": "U02E1V1MSBF",
+    "ts": "1631415070.000100",
+    "team": "T02D0PW4F2A",
+    "bot_profile": {
+      "id": "B02E5004AN6",
+      "app_id": "A01N2QYSA81",
+      "name": "Figma and FigJam",
+      "icons": {
+        "image_36": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_36.png",
+        "image_48": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_48.png",
+        "image_72": "https://avatars.slack-edge.com/2021-02-11/1743993243810_70c06a3b9201ba9e34c1_72.png"
+      },
+      "deleted": true,
+      "updated": 1638971578,
+      "team_id": "T02D0PW4F2A"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vQAX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You’ve successfully installed Figma’s Slack app! Now your Figma comments and notifications will show up here. "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "unicode": "1f389"
+              },
+              {
+                "type": "text",
+                "text": "\n\nSome tips:\n• When you "
+              },
+              {
+                "type": "text",
+                "text": "reply",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to a Figma comment here in Slack, your reply will automatically be added to the Figma file\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "off",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "stop",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn off Figma notifications in Slack\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "on",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "text": "start",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to turn them back on\n• Type "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to see these tips again"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

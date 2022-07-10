@@ -1,0 +1,3872 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited permission *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=activity_permissions_edited&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1649415977.987099",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "Public: Read only",
+        "text": "Public: Read only"
+      },
+      {
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1649415977,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]",
+        "footer": "Nathan Cho"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho unlocked *<https://www.notion.so/db648ddd367444c4b2fd757df3666564?n=activity_page_unlocked&amp;n=slack|Group @Anonymous >*",
+    "ts": "1634737445.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634737445,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/4783895428b64172984ccbb8b8a2c366?n=activity_collection_row_created&amp;n=slack|Untitled>* in *<https://www.notion.so/db648ddd367444c4b2fd757df3666564?n=activity_collection_row_created&amp;n=slack|Group @Anonymous >*",
+    "ts": "1634737443.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634737443,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/4783895428b64172984ccbb8b8a2c366?n=activity_collection_row_deleted&amp;n=slack|Untitled>* in *<https://www.notion.so/db648ddd367444c4b2fd757df3666564?n=activity_collection_row_deleted&amp;n=slack|Group @Anonymous >*",
+    "ts": "1634737442.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634737442,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/Algolia-Search-22e1d277aef945f1bd52a12555453551?n=activity_block_edited&amp;n=slack|Algolia Search>*",
+    "ts": "1634737330.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*status*: 수정 필요 → 완료",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*status*: 수정 필요 → 완료"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634737330,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Algolia-Search-22e1d277aef945f1bd52a12555453551?n=activity_block_edited&amp;n=slack|Algolia Search>*",
+    "ts": "1634650555.000500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /item/algolia/:query  → GET /item/algolia?query= ",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /item/algolia/:query  → GET /item/algolia?query= "
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1634650554,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/REST-API-Reference-04927a64687a47109bc304f6b66551a9?n=activity_collection_row_deleted&amp;n=slack|:game_die: REST API Reference >* in *<https://www.notion.so/f9e9132e0b0c4832a3d77e27411241e0?n=activity_collection_row_deleted&amp;n=slack|:paperclip: Docs 2>*",
+    "ts": "1634645203.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634645203,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Get-recents-18fa5b30258048fcb7fb48f20368a4ab?n=activity_permissions_edited&amp;n=slack|Get recents>*",
+    "ts": "1634640996.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1634640996,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Add-recents-8c58aadf4aa4463a8d838200bf854b32?n=activity_permissions_edited&amp;n=slack|Add recents>*",
+    "ts": "1634640995.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1634640995,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Copy-of-Update-User-20dca8238f1f406eb1ffd92f4d2ef3f0?n=activity_permissions_edited&amp;n=slack|Copy of Update User>*",
+    "ts": "1634640995.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1634640995,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited permission *<https://www.notion.so/REST-API-Reference-04927a64687a47109bc304f6b66551a9?n=activity_permissions_edited&amp;n=slack|:game_die: REST API Reference >*",
+    "ts": "1634452691.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "Public: Read only",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "Public: Read only"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634452691,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/Get-recents-18fa5b30258048fcb7fb48f20368a4ab?n=activity_collection_row_deleted&amp;n=slack|Get recents>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_deleted&amp;n=slack|User>*",
+    "ts": "1634133322.000600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634133321,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/Add-recents-8c58aadf4aa4463a8d838200bf854b32?n=activity_collection_row_deleted&amp;n=slack|Add recents>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_deleted&amp;n=slack|User>*",
+    "ts": "1634133321.000500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634133320,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho and 오지환 edited *<https://www.notion.so/Add-recents-8c58aadf4aa4463a8d838200bf854b32?n=activity_block_edited&amp;n=slack|Add recents>*",
+    "ts": "1634133168.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Method*: Empty → POST",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Method*: Empty → POST"
+      },
+      {
+        "text": "*request*: Empty → POST /api/user/{user_id}/recent\n\n{\n  _id: item._id\n}",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → POST /api/user/{user_id}/recent\n\n{\n  _id: item._id\n}"
+      },
+      {
+        "text": "*Description*: Empty → 최근 열람한 항목 추가",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*Description*: Empty → 최근 열람한 항목 추가"
+      },
+      {
+        "text": "*Name*: Empty → Add recents",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*Name*: Empty → Add recents"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 5,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634133168,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/Get-recents-18fa5b30258048fcb7fb48f20368a4ab?n=activity_block_edited&amp;n=slack|Get recents>*",
+    "ts": "1634133140.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Method*: Empty → GET",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Method*: Empty → GET"
+      },
+      {
+        "text": "*request*: Empty → GET /api/user/{user_id}/recent",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → GET /api/user/{user_id}/recent"
+      },
+      {
+        "text": "*Description*: Empty → 최근 열람한 항목 조회",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*Description*: Empty → 최근 열람한 항목 조회"
+      },
+      {
+        "text": "*Name*: Empty → Get recents",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*Name*: Empty → Get recents"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 5,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634133140,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/Get-recents-18fa5b30258048fcb7fb48f20368a4ab?n=activity_collection_row_created&amp;n=slack|Get recents>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_created&amp;n=slack|User>*",
+    "ts": "1634133105.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634133105,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/Add-recents-8c58aadf4aa4463a8d838200bf854b32?n=activity_collection_row_created&amp;n=slack|Add recents>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_created&amp;n=slack|User>*",
+    "ts": "1634132915.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634132914,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Update-User-b402d1e3076b4d4cb186b8b49e24d9d6?n=activity_block_edited&amp;n=slack|Update User>*",
+    "ts": "1634049079.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: PUT /api/user/{seq} → PUT /api/user/{seq}\n\n{\n\"name\":\"현준현준\".,\n\"rank\":\"병장\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: PUT /api/user/{seq} → PUT /api/user/{seq}\n\n{\n\"name\":\"현준현준\".,\n\"rank\":\"병장\"\n}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1634049079,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/Copy-of-Update-User-20dca8238f1f406eb1ffd92f4d2ef3f0?n=activity_collection_row_deleted&amp;n=slack|Copy of Update User>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_deleted&amp;n=slack|User>*",
+    "ts": "1634048952.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634048952,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/Copy-of-Update-User-20dca8238f1f406eb1ffd92f4d2ef3f0?n=activity_collection_row_created&amp;n=slack|Copy of Update User>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_created&amp;n=slack|User>*",
+    "ts": "1634048938.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634048937,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/Copy-of-Update-User-20dca8238f1f406eb1ffd92f4d2ef3f0?n=activity_block_edited&amp;n=slack|Copy of Update User>*",
+    "ts": "1634048938.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Method*: Empty → PUT",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Method*: Empty → PUT"
+      },
+      {
+        "text": "*response*: Empty → 200 OK\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n}",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 200 OK\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n}"
+      },
+      {
+        "text": "*request*: Empty → PUT /api/user/{seq}",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → PUT /api/user/{seq}"
+      },
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "text": "*Description*: Empty → User 정보 갱신(구독 등)",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Description*: Empty → User 정보 갱신(구독 등)"
+      },
+      {
+        "text": "<https://www.notion.so/Copy-of-Update-User-20dca8238f1f406eb1ffd92f4d2ef3f0|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/Copy-of-Update-User-20dca8238f1f406eb1ffd92f4d2ef3f0|Show 1 more edit…>"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 7,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1634048937,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633847989.000700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 200 OK\n{\n\"_id\": \"616285635dea169d0a2a1aa3\",\n\"name\": \"Handover\",\n\"path\": \",616285625dea169d0a2a1a97,616285635dea169d0a2a1aa3,\"\n} → 200 OK\n{\n  \"_id\": \"616285635dea169d0a2a1aa3\",\n  \"name\": \"Handover\",\n  \"path\": \",616285625dea169d0a2a1a97,616285635dea169d0a2a1aa3,\",\n  \"admins\": [\n    {\n      \"_id\": \"616285635dea169d0a2a1a9e\",\n      \"name\": \"ntcho\",\n      \"rank\": \"팀장\"\n    }\n  ],\n  \"inspectors\": []\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n{\n\"_id\": \"616285635dea169d0a2a1aa3\",\n\"name\": \"Handover\",\n\"path\": \",616285625dea169d0a2a1a97,616285635dea169d0a2a1aa3,\"\n} → 200 OK\n{\n  \"_id\": \"616285635dea169d0a2a1aa3\",\n  \"name\": \"Handover\",\n  \"path\": \",616285625dea169d0a2a1a97,616285635dea169d0a2a1aa3,\",\n  \"admins\": [\n    {\n      \"_id\": \"616285635dea169d0a2a1a9e\",\n      \"name\": \"ntcho\",\n      \"rank\": \"팀장\"\n    }\n  ],\n  \"inspectors\": []\n}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633847989,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633847629.000600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n}   → 200 OK\n{\n\"_id\": \"616285635dea169d0a2a1aa3\",\n\"name\": \"Handover\",\n\"path\": \",616285625dea169d0a2a1a97,616285635dea169d0a2a1aa3,\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n}   → 200 OK\n{\n\"_id\": \"616285635dea169d0a2a1aa3\",\n\"name\": \"Handover\",\n\"path\": \",616285625dea169d0a2a1a97,616285635dea169d0a2a1aa3,\"\n}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633847629,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Create-Item-4851cd58babd46af8561bdba18283f82?n=activity_block_edited&amp;n=slack|Create Item>*",
+    "ts": "1633847288.000500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 201 OK\n{\n  \"title\": \"Handover Cabinet\",\n  \"type\": \"cabinet\",\n  \"owner\": \"6156d6403334eb865afc2d6f\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\n    \"tag01\",\n    \"tag02\"\n  ],\n  \"contributors\": [],\n  \"accessGroups\": {\n    \"read\": [],\n    \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T09:40:50.887Z\",\n  \"_id\": \"6156d7a23334eb865afc2d9b\",\n  \"comments\": []\n} → 201 OK\n{\n  \"title\": \"Handover Cabinet\",\n  \"type\": \"cabinet\",\n  \"owner\": \"6156d6403334eb865afc2d6f\",\n  \"path\": \",{item_id},\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\n    \"tag01\",\n    \"tag02\"\n  ],\n  \"contributors\": [],\n  \"accessGroups\": {\n    \"read\": [],\n    \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T09:40:50.887Z\",\n  \"_id\": \"6156d7a23334eb865afc2d9b\",\n  \"comments\": []\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 201 OK\n{\n  \"title\": \"Handover Cabinet\",\n  \"type\": \"cabinet\",\n  \"owner\": \"6156d6403334eb865afc2d6f\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\n    \"tag01\",\n    \"tag02\"\n  ],\n  \"contributors\": [],\n  \"accessGroups\": {\n    \"read\": [],\n    \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T09:40:50.887Z\",\n  \"_id\": \"6156d7a23334eb865afc2d9b\",\n  \"comments\": []\n} → 201 OK\n{\n  \"title\": \"Handover Cabinet\",\n  \"type\": \"cabinet\",\n  \"owner\": \"6156d6403334eb865afc2d6f\",\n  \"path\": \",{item_id},\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\n    \"tag01\",\n    \"tag02\"\n  ],\n  \"contributors\": [],\n  \"accessGroups\": {\n    \"read\": [],\n    \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T09:40:50.887Z\",\n  \"_id\": \"6156d7a23334eb865afc2d9b\",\n  \"comments\": []\n}"
+      },
+      {
+        "text": "*request*: POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨 → POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \"\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨 → POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \"\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨"
+      },
+      {
+        "footer": "오지환",
+        "id": 3,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633847288,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Read-Item-5b2479bfd4344a86bda42d1a1e49e6b7?n=activity_block_edited&amp;n=slack|Read Item>*",
+    "ts": "1633847261.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"6156d6413334eb865afc2d7b\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"6156d6403334eb865afc2d6f\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"comments\": []\n} → 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",{item_id},\"\n    }],\n    \"edit\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",{item_id},\"\n    }]\n  },\n  \"_id\": \"6156d6413334eb865afc2d7b\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"6156d6403334eb865afc2d6f\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",{item_id},{item_id},\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"comments\": []\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"6156d6413334eb865afc2d7b\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"6156d6403334eb865afc2d6f\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"comments\": []\n} → 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",{item_id},\"\n    }],\n    \"edit\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",{item_id},\"\n    }]\n  },\n  \"_id\": \"6156d6413334eb865afc2d7b\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"6156d6403334eb865afc2d6f\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",{item_id},{item_id},\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"comments\": []\n}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633847261,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Search-Items-e1a3c2d4df3f400e9428947418b9eefa?n=activity_block_edited&amp;n=slack|Search Items>*",
+    "ts": "1633847231.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 200 OK\n[\n  {\n    \"_id\": \"6156d6413334eb865afc2d7b\",\n    \"title\": \"Handover\",\n    \"type\": \"cabinet\",\n    \"owner\": {\n      \"_id\": \"6156d6403334eb865afc2d6f\",\n      \"name\": \"조나단\",\n      \"rank\": \"병장\"\n    },\n    \"path\": \",Handover,\",\n    \"tags\": [],\n    \"history\": [],\n    \"status\": \"published\"\n  }, { ... }\n] → 200 OK\n[\n  {\n    \"_id\": \"6156d6413334eb865afc2d7b\",\n    \"title\": \"Handover\",\n    \"type\": \"cabinet\",\n    \"owner\": {\n      \"_id\": \"6156d6403334eb865afc2d6f\",\n      \"name\": \"조나단\",\n      \"rank\": \"병장\"\n    },\n    \"path\": \",{item_id},\",\n    \"tags\": [],\n    \"history\": [],\n    \"status\": \"published\"\n  }, { ... }\n]",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n[\n  {\n    \"_id\": \"6156d6413334eb865afc2d7b\",\n    \"title\": \"Handover\",\n    \"type\": \"cabinet\",\n    \"owner\": {\n      \"_id\": \"6156d6403334eb865afc2d6f\",\n      \"name\": \"조나단\",\n      \"rank\": \"병장\"\n    },\n    \"path\": \",Handover,\",\n    \"tags\": [],\n    \"history\": [],\n    \"status\": \"published\"\n  }, { ... }\n] → 200 OK\n[\n  {\n    \"_id\": \"6156d6413334eb865afc2d7b\",\n    \"title\": \"Handover\",\n    \"type\": \"cabinet\",\n    \"owner\": {\n      \"_id\": \"6156d6403334eb865afc2d6f\",\n      \"name\": \"조나단\",\n      \"rank\": \"병장\"\n    },\n    \"path\": \",{item_id},\",\n    \"tags\": [],\n    \"history\": [],\n    \"status\": \"published\"\n  }, { ... }\n]"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633847231,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Create-group-5c72b52fe2ac4a0c8344d9da93c07458?n=activity_block_edited&amp;n=slack|Create group>*",
+    "ts": "1633847217.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 201 Created\n{\n  \"name\": \"test\",\n  \"path\": \",test,\",\n  \"admins\": [\n    \"615322a5a9ad29007c5a7598\"\n  ],\n  \"inspectors\": [\n    \"61507eaab51b4983b5fb8f1a\"\n  ],\n  \"_id\": \"615324a4a9ad29007c5a75af\"\n} → 201 Created\n{\n  \"name\": \"test\",\n  \"path\": \",{group_id},{group_id}\",\n  \"admins\": [\n    \"615322a5a9ad29007c5a7598\"\n  ],\n  \"inspectors\": [\n    \"61507eaab51b4983b5fb8f1a\"\n  ],\n  \"_id\": \"615324a4a9ad29007c5a75af\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 201 Created\n{\n  \"name\": \"test\",\n  \"path\": \",test,\",\n  \"admins\": [\n    \"615322a5a9ad29007c5a7598\"\n  ],\n  \"inspectors\": [\n    \"61507eaab51b4983b5fb8f1a\"\n  ],\n  \"_id\": \"615324a4a9ad29007c5a75af\"\n} → 201 Created\n{\n  \"name\": \"test\",\n  \"path\": \",{group_id},{group_id}\",\n  \"admins\": [\n    \"615322a5a9ad29007c5a7598\"\n  ],\n  \"inspectors\": [\n    \"61507eaab51b4983b5fb8f1a\"\n  ],\n  \"_id\": \"615324a4a9ad29007c5a75af\"\n}"
+      },
+      {
+        "text": "*request*: POST /group\n{\n\"name\": \"test\",\n\"path\": \",test,\",\n\"admins\": [],\n\"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}\nadmins의 값을 별도로 넣어주지 않으면, 현재 로그인한 유저가 자동으로 기입 → POST /group\n{\n\"name\": \"test\",\n\"path\": \",{group_id},\",\n\"admins\": [],\n\"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}\nadmins의 값을 별도로 넣어주지 않으면, 현재 로그인한 유저가 자동으로 기입",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: POST /group\n{\n\"name\": \"test\",\n\"path\": \",test,\",\n\"admins\": [],\n\"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}\nadmins의 값을 별도로 넣어주지 않으면, 현재 로그인한 유저가 자동으로 기입 → POST /group\n{\n\"name\": \"test\",\n\"path\": \",{group_id},\",\n\"admins\": [],\n\"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}\nadmins의 값을 별도로 넣어주지 않으면, 현재 로그인한 유저가 자동으로 기입"
+      },
+      {
+        "footer": "오지환",
+        "id": 3,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633847217,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 해커톤 개발 계획서>*",
+    "ts": "1633777132.000100",
+    "bot_id": "B02DE2U73JS",
+    "attachments": [
+      {
+        "text": "Handover는 군 내의 인수인계를 효율적이고 편리하게 진행할 수 있도록 돕는 Web 서비스입니다.",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "Handover는 군 내의 인수인계를 효율적이고 편리하게 진행할 수 있도록 돕는 Web 서비스입니다."
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633777132,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "teewon kim edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633598489.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n} → 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n}  ",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n} → 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n}  "
+      },
+      {
+        "footer": "teewon kim",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AAuE7mC8nD_mnRyHkyI2ylPGyOqKJPZBsnw6wQuuPg1z7A",
+        "ts": 1633598488,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Algolia-Search-22e1d277aef945f1bd52a12555453551?n=activity_block_edited&amp;n=slack|Algolia Search>*",
+    "ts": "1633442122.000800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: Empty → 알고리아 검색",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: Empty → 알고리아 검색"
+      },
+      {
+        "text": "*status*: Empty → 수정 필요",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 수정 필요"
+      },
+      {
+        "text": "*response*: Empty → 200 OK\n[\n  {\n    \"title\": \"Cabinet\",\n    \"type\": \"cabinet\",\n    \"owner\": \"615c4e4248091d1a7a4f4169\",\n    \"tags\": [],\n    \"contributors\": [],\n    \"accessGroups\": {\n      \"read\": [],\n      \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-05T13:11:42.936Z\",\n  \"files\": [],\n  \"comments\": [],\n  \"path\": \",615c4f0ed6364734111302f0,\",\n  \"objectID\": \"615c4f0ed6364734111302f0\",\n  \"_highlightResult\": {\n    \"title\": {\n      \"value\": \"&lt;em&gt;Cabinet&lt;/em&gt;\",\n      \"matchLevel\": \"full\",\n      \"fullyHighlighted\": true,\n      \"matchedWords\": [\"cabinet\"]\n    },\n    \"type\": {\n        \"value\": \"&lt;em&gt;cabinet&lt;/em&gt;\",\n        \"matchLevel\": \"full\",\n        \"fullyHighlighted\": true,\n        \"matchedWords\": [\"cabinet\"]\n      },\n      \"owner\": {\n        \"value\": \"615c4e4248091d1a7a4f4169\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      },\n      \"status\": {\n        \"value\": \"published\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      },\n      \"created\": {\n        \"value\": \"2021-10-05T13:11:42.936Z\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      },\n      \"path\": {\n        \"value\": \",615c4f0ed6364734111302f0,\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      }\n    }\n  }\n]",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 200 OK\n[\n  {\n    \"title\": \"Cabinet\",\n    \"type\": \"cabinet\",\n    \"owner\": \"615c4e4248091d1a7a4f4169\",\n    \"tags\": [],\n    \"contributors\": [],\n    \"accessGroups\": {\n      \"read\": [],\n      \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-05T13:11:42.936Z\",\n  \"files\": [],\n  \"comments\": [],\n  \"path\": \",615c4f0ed6364734111302f0,\",\n  \"objectID\": \"615c4f0ed6364734111302f0\",\n  \"_highlightResult\": {\n    \"title\": {\n      \"value\": \"&lt;em&gt;Cabinet&lt;/em&gt;\",\n      \"matchLevel\": \"full\",\n      \"fullyHighlighted\": true,\n      \"matchedWords\": [\"cabinet\"]\n    },\n    \"type\": {\n        \"value\": \"&lt;em&gt;cabinet&lt;/em&gt;\",\n        \"matchLevel\": \"full\",\n        \"fullyHighlighted\": true,\n        \"matchedWords\": [\"cabinet\"]\n      },\n      \"owner\": {\n        \"value\": \"615c4e4248091d1a7a4f4169\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      },\n      \"status\": {\n        \"value\": \"published\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      },\n      \"created\": {\n        \"value\": \"2021-10-05T13:11:42.936Z\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      },\n      \"path\": {\n        \"value\": \",615c4f0ed6364734111302f0,\",\n        \"matchLevel\": \"none\",\n        \"matchedWords\": []\n      }\n    }\n  }\n]"
+      },
+      {
+        "text": "*request*: Empty → GET /item/algolia/:query ",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → GET /item/algolia/:query "
+      },
+      {
+        "text": "*Method*: Empty → GET",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Method*: Empty → GET"
+      },
+      {
+        "text": "<https://www.notion.so/Algolia-Search-22e1d277aef945f1bd52a12555453551|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/Algolia-Search-22e1d277aef945f1bd52a12555453551|Show 1 more edit…>"
+      },
+      {
+        "footer": "오지환",
+        "id": 7,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633442122,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 created *<https://www.notion.so/Algolia-Search-22e1d277aef945f1bd52a12555453551?n=activity_collection_row_created&amp;n=slack|Algolia Search>* in *<https://www.notion.so/cdfb812f25b4438ca10c1ad93fe403d7?n=activity_collection_row_created&amp;n=slack|Item @오지환 >*",
+    "ts": "1633441815.000700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633441815,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/logout-08ba5c559fee4a548ad4658cfc1912a5?n=activity_block_edited&amp;n=slack|/logout>*",
+    "ts": "1633440125.000600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 201 created\n{\n\"result\": \"OK\"\n} → 200 OK\n{\n\"result\": \"OK\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 201 created\n{\n\"result\": \"OK\"\n} → 200 OK\n{\n\"result\": \"OK\"\n}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633440125,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/login-229b01994b0e414cb445a0cdb3772d9b?n=activity_block_edited&amp;n=slack|/login>*",
+    "ts": "1633440107.000500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: {\n\"result\": \"OK\",\n\"user\": {\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615c23ab3f6b35eb51bd23e9\",\n\"serviceNumber\": \"tttt\",\n\"password\": \"14873710f1e59d0261683a3986bb034d887e2923854bf8a4dd370b9d7645ef61\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n},\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTVjMjNhYjNmNmIzNWViNTFiZDIzZTkiLCJzZXJ2aWNlTnVtYmVyIjoidHR0dCIsImlhdCI6MTYzMzQzMDIyNSwiZXhwIjoxNjMzNDMzODI1fQ.YCZ5TYnE0A1r6yIQGHgarLOWKK-eA2C5hzdCAVTDvqc\"\n} → 200 OK\n\n{\n\"result\": \"OK\",\n\"user\": {\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615c23ab3f6b35eb51bd23e9\",\n\"serviceNumber\": \"tttt\",\n\"password\": \"14873710f1e59d0261683a3986bb034d887e2923854bf8a4dd370b9d7645ef61\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n},\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTVjMjNhYjNmNmIzNWViNTFiZDIzZTkiLCJzZXJ2aWNlTnVtYmVyIjoidHR0dCIsImlhdCI6MTYzMzQzMDIyNSwiZXhwIjoxNjMzNDMzODI1fQ.YCZ5TYnE0A1r6yIQGHgarLOWKK-eA2C5hzdCAVTDvqc\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: {\n\"result\": \"OK\",\n\"user\": {\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615c23ab3f6b35eb51bd23e9\",\n\"serviceNumber\": \"tttt\",\n\"password\": \"14873710f1e59d0261683a3986bb034d887e2923854bf8a4dd370b9d7645ef61\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n},\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTVjMjNhYjNmNmIzNWViNTFiZDIzZTkiLCJzZXJ2aWNlTnVtYmVyIjoidHR0dCIsImlhdCI6MTYzMzQzMDIyNSwiZXhwIjoxNjMzNDMzODI1fQ.YCZ5TYnE0A1r6yIQGHgarLOWKK-eA2C5hzdCAVTDvqc\"\n} → 200 OK\n\n{\n\"result\": \"OK\",\n\"user\": {\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615c23ab3f6b35eb51bd23e9\",\n\"serviceNumber\": \"tttt\",\n\"password\": \"14873710f1e59d0261683a3986bb034d887e2923854bf8a4dd370b9d7645ef61\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n},\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTVjMjNhYjNmNmIzNWViNTFiZDIzZTkiLCJzZXJ2aWNlTnVtYmVyIjoidHR0dCIsImlhdCI6MTYzMzQzMDIyNSwiZXhwIjoxNjMzNDMzODI1fQ.YCZ5TYnE0A1r6yIQGHgarLOWKK-eA2C5hzdCAVTDvqc\"\n}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633440107,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Update-User-b402d1e3076b4d4cb186b8b49e24d9d6?n=activity_block_edited&amp;n=slack|Update User>*",
+    "ts": "1633440082.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: 201 Created\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n} → 200 OK\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: 201 Created\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n} → 200 OK\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633440082,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/check-service-number-e90d66aca4e241e0bc8c59ecbd392fd8?n=activity_block_edited&amp;n=slack|/check-service-number>*",
+    "ts": "1633430946.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /check-servic-e/{serviceNumber} → GET /check-service-number/{serviceNumber}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /check-servic-e/{serviceNumber} → GET /check-service-number/{serviceNumber}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633430946,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/logout-08ba5c559fee4a548ad4658cfc1912a5?n=activity_block_edited&amp;n=slack|/logout>*",
+    "ts": "1633430661.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → POST api/logout",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → POST api/logout"
+      },
+      {
+        "text": "*response*: Empty → 201 created\n{\n\"result\": \"OK\"\n}",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 201 created\n{\n\"result\": \"OK\"\n}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633430661,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/login-229b01994b0e414cb445a0cdb3772d9b?n=activity_block_edited&amp;n=slack|/login>*",
+    "ts": "1633430610.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → POST api/login\n\n{\n\"serviceNumber\": \"1234\",\n\"password\": \"t\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → POST api/login\n\n{\n\"serviceNumber\": \"1234\",\n\"password\": \"t\"\n}"
+      },
+      {
+        "text": "*response*: Empty → {\n\"result\": \"OK\",\n\"user\": {\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615c23ab3f6b35eb51bd23e9\",\n\"serviceNumber\": \"tttt\",\n\"password\": \"14873710f1e59d0261683a3986bb034d887e2923854bf8a4dd370b9d7645ef61\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n},\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTVjMjNhYjNmNmIzNWViNTFiZDIzZTkiLCJzZXJ2aWNlTnVtYmVyIjoidHR0dCIsImlhdCI6MTYzMzQzMDIyNSwiZXhwIjoxNjMzNDMzODI1fQ.YCZ5TYnE0A1r6yIQGHgarLOWKK-eA2C5hzdCAVTDvqc\"\n}",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → {\n\"result\": \"OK\",\n\"user\": {\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615c23ab3f6b35eb51bd23e9\",\n\"serviceNumber\": \"tttt\",\n\"password\": \"14873710f1e59d0261683a3986bb034d887e2923854bf8a4dd370b9d7645ef61\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n},\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTVjMjNhYjNmNmIzNWViNTFiZDIzZTkiLCJzZXJ2aWNlTnVtYmVyIjoidHR0dCIsImlhdCI6MTYzMzQzMDIyNSwiZXhwIjoxNjMzNDMzODI1fQ.YCZ5TYnE0A1r6yIQGHgarLOWKK-eA2C5hzdCAVTDvqc\"\n}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633430610,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Search-User-by-Name-383683ee05a74cc9838c5ac898ee278c?n=activity_permissions_edited&amp;n=slack|Search User by Name>*",
+    "ts": "1633387651.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633387651,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Search-User-by-ID-8b306933fc0d4a99967d63ba295232e8?n=activity_block_edited&amp;n=slack|Search User by ID>*",
+    "ts": "1633359510.008600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: Empty → 200 ok\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b13ced452113d111f78a4\",\n\"serviceNumber\": \"tttt\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 200 ok\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b13ced452113d111f78a4\",\n\"serviceNumber\": \"tttt\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": []\n}"
+      },
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "text": "*Description*: User id로 상세검색 → User id로 상세검색\n\n본인, 관리자, 소속된 그룹 관리자는 모든 정보 열람 가능\n\n그 외 사람은 _id, name, rank, status,\ngroup, email, tel, lastLogin 만 조회",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*Description*: User id로 상세검색 → User id로 상세검색\n\n본인, 관리자, 소속된 그룹 관리자는 모든 정보 열람 가능\n\n그 외 사람은 _id, name, rank, status,\ngroup, email, tel, lastLogin 만 조회"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 4,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633359510,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Search-User-e3ea19fdc7f342aabdf7d3c9465371c4?n=activity_block_edited&amp;n=slack|Search User>*",
+    "ts": "1633359398.008500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: Empty → 200 ok\n\n[\n{\n\"_id\": \"615b0694d452113d111f787d\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"status\": \"admin\",\n\"group\": \"615b0694d452113d111f788f\"\n},\n{\n\"_id\": \"615b0694d452113d111f787f\",\n\"name\": \"박현준\",\n\"rank\": \"상병\",\n\"status\": \"active\"\n},\n{\n\"_id\": \"615b0694d452113d111f7881\",\n\"name\": \"오지환\",\n\"rank\": \"일병\",\n\"status\": \"active\"\n},\n{\n\"_id\": \n]",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 200 ok\n\n[\n{\n\"_id\": \"615b0694d452113d111f787d\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"status\": \"admin\",\n\"group\": \"615b0694d452113d111f788f\"\n},\n{\n\"_id\": \"615b0694d452113d111f787f\",\n\"name\": \"박현준\",\n\"rank\": \"상병\",\n\"status\": \"active\"\n},\n{\n\"_id\": \"615b0694d452113d111f7881\",\n\"name\": \"오지환\",\n\"rank\": \"일병\",\n\"status\": \"active\"\n},\n{\n\"_id\": \n]"
+      },
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "text": "*Description*: User 검색\nname, group으로 조회 가능 → User 검색\nname, group으로 조회 가능\n\n_id, name, rank, status,\ngroup, email, tel, lastLogin 만 조회",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*Description*: User 검색\nname, group으로 조회 가능 → User 검색\nname, group으로 조회 가능\n\n_id, name, rank, status,\ngroup, email, tel, lastLogin 만 조회"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 4,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633359398,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Delete-User-3b7b2719d0134598b709d4d59fe5b4d3?n=activity_block_edited&amp;n=slack|Delete User>*",
+    "ts": "1633359283.008400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: Empty → 204 no content",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 204 no content"
+      },
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633359282,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Update-User-b402d1e3076b4d4cb186b8b49e24d9d6?n=activity_block_edited&amp;n=slack|Update User>*",
+    "ts": "1633359280.008300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: Empty → 201 Created\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 201 Created\n\n{\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0694d452113d111f787d\",\n\"serviceNumber\": \"ntcho\",\n\"password\": \"\",\n\"name\": \"현준현준\",\n\"rank\": \"병장\",\n\"title\": \"팀장\",\n\"status\": \"admin\",\n\"bookmarks\": [],\n\"group\": \"615b0694d452113d111f788f\"\n}"
+      },
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633359280,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/check-service-number-e90d66aca4e241e0bc8c59ecbd392fd8?n=activity_block_edited&amp;n=slack|/check-service-number>*",
+    "ts": "1633359233.008200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /check-service-number/{serviceNumber} → GET /check-servic-e/{serviceNumber}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /check-service-number/{serviceNumber} → GET /check-servic-e/{serviceNumber}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633359233,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/check-service-number-e90d66aca4e241e0bc8c59ecbd392fd8?n=activity_block_edited&amp;n=slack|/check-service-number>*",
+    "ts": "1633358552.008100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /checkservicename/{serviceNumber} → GET /check-service-number/{serviceNumber}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /checkservicename/{serviceNumber} → GET /check-service-number/{serviceNumber}"
+      },
+      {
+        "text": "*status*: 시작전 → 완료",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: 시작전 → 완료"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358552,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Delete-User-3b7b2719d0134598b709d4d59fe5b4d3?n=activity_block_edited&amp;n=slack|Delete User>*",
+    "ts": "1633358512.008000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → DELETE /api/user/{seq}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → DELETE /api/user/{seq}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358512,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Update-User-b402d1e3076b4d4cb186b8b49e24d9d6?n=activity_block_edited&amp;n=slack|Update User>*",
+    "ts": "1633358503.007900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → PUT /api/user/{seq}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → PUT /api/user/{seq}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358503,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Search-User-by-ID-8b306933fc0d4a99967d63ba295232e8?n=activity_block_edited&amp;n=slack|Search User by ID>*",
+    "ts": "1633358483.007800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → GET /api/user/{seq}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → GET /api/user/{seq}"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358483,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Search-User-e3ea19fdc7f342aabdf7d3c9465371c4?n=activity_block_edited&amp;n=slack|Search User>*",
+    "ts": "1633358415.007700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → GET /api/user",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → GET /api/user"
+      },
+      {
+        "text": "*Description*: User 전체 검색 → User 검색\nname, group으로 조회 가능",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*Description*: User 전체 검색 → User 검색\nname, group으로 조회 가능"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358415,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park deleted *<https://www.notion.so/Search-User-by-Name-383683ee05a74cc9838c5ac898ee278c?n=activity_collection_row_deleted&amp;n=slack|Search User by Name>* in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=activity_collection_row_deleted&amp;n=slack|User>*",
+    "ts": "1633358145.007600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "hyunjune park",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358144,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Search-User-by-ID-8b306933fc0d4a99967d63ba295232e8?n=activity_block_edited&amp;n=slack|Search User by ID>*",
+    "ts": "1633358132.007500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: User id로 검색 → User id로 상세검색",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: User id로 검색 → User id로 상세검색"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358132,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/Create-User-191231a27a7e40829ce72573b4e03bbb?n=activity_block_edited&amp;n=slack|Create User>*",
+    "ts": "1633358025.007400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: Empty → 201 created\n\n{\n\"serviceNumber\": \"tt\",\n\"password\": \"\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": [],\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0e91d452113d111f789d\"\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 201 created\n\n{\n\"serviceNumber\": \"tt\",\n\"password\": \"\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\",\n\"bookmarks\": [],\n\"subscriptions\": {\n\"users\": [],\n\"groups\": []\n},\n\"_id\": \"615b0e91d452113d111f789d\"\n}"
+      },
+      {
+        "text": "*request*: Empty → POST /api/user\n\n{\n\"serviceNumber\": \"tt\",\n\"password\": \"t\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\"\n}",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → POST /api/user\n\n{\n\"serviceNumber\": \"tt\",\n\"password\": \"t\",\n\"name\": \"avail\",\n\"rank\": \"admin\",\n\"title\": \"admin\",\n\"status\": \"avail\",\n\"group\": \"615b00f291d77ff3b3f38904\"\n}"
+      },
+      {
+        "text": "*status*: 시작전 → 완료",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*status*: 시작전 → 완료"
+      },
+      {
+        "text": "*Description*: User 생성 → User 생성\n군번, 비밀번호, 이름, 계급, 직무명, 상태 입력.\n\nstatus : ['admin','avail','active', 'inactive', 'retired', 'deleted'],\ndefault = avail임",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*Description*: User 생성 → User 생성\n군번, 비밀번호, 이름, 계급, 직무명, 상태 입력.\n\nstatus : ['admin','avail','active', 'inactive', 'retired', 'deleted'],\ndefault = avail임"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 5,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633358025,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited property response in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=collection_property_edited&amp;n=slack|User>*",
+    "ts": "1633357655.007300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "hyunjune park",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633357655,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited property request in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=collection_property_edited&amp;n=slack|User>*",
+    "ts": "1633357652.007200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "hyunjune park",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633357651,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited property status in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=collection_property_edited&amp;n=slack|User>*",
+    "ts": "1633357641.007100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "hyunjune park",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633357641,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited property Route in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=collection_property_edited&amp;n=slack|User>*",
+    "ts": "1633357619.007000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "hyunjune park",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633357619,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "hyunjune park edited *<https://www.notion.so/check-service-number-e90d66aca4e241e0bc8c59ecbd392fd8?n=activity_block_edited&amp;n=slack|/check-service-number>*",
+    "ts": "1633357575.006900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Route*: /checkservicenumber → /check-service-number",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Route*: /checkservicenumber → /check-service-number"
+      },
+      {
+        "footer": "hyunjune park",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/-XRPx6MKcfkI/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBpO2Vnc2gyf1tAbrT6ZwICWAAJRw/photo.jpg",
+        "ts": 1633357575,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Create-group-5c72b52fe2ac4a0c8344d9da93c07458?n=activity_block_edited&amp;n=slack|Create group>*",
+    "ts": "1633355246.006800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*비고*: @Nathan Cho : request.path 와 /group/{path} 에서 같은 정보가 중복되는 것 같은데, POST /item 과 같이 필드 값으로 path 정보를 전달하는게 더 직관적일 것 같습니다. 내가 보낸 request body 가 서버에 그대로 저장된다는 면에서요.\n\n@오지환 : 그렇게 되면 URI 또한 굳이 /group/test1 일 필요가 없겠네요. 엄청난 Refactoring이 기다리고 있겠습니다 ㅠㅠ → @Nathan Cho : request.path 와 /group/{path} 에서 같은 정보가 중복되는 것 같은데, POST /item 과 같이 필드 값으로 path 정보를 전달하는게 더 직관적일 것 같습니다. 내가 보낸 request body 가 서버에 그대로 저장된다는 면에서요.\n\n@오지환 : 그렇게 되면 URI 또한 굳이 /group/test1 일 필요가 없겠네요. 엄청난 Refactoring이 기다리고 있겠습니다 ㅠㅠ\n\n그룹을 생성할 때는 아직 ObjectId가 생성되지 않은 상태이므로 path 값을 입력할 수 없다.\n때문에 최상위 그룹을 생성할 때는 path를 입력하지 않아도 된다.\n하지만 하위 그룹를 생성할 때는 상위 그룹의 path를 입력해줘야한다.",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*비고*: @Nathan Cho : request.path 와 /group/{path} 에서 같은 정보가 중복되는 것 같은데, POST /item 과 같이 필드 값으로 path 정보를 전달하는게 더 직관적일 것 같습니다. 내가 보낸 request body 가 서버에 그대로 저장된다는 면에서요.\n\n@오지환 : 그렇게 되면 URI 또한 굳이 /group/test1 일 필요가 없겠네요. 엄청난 Refactoring이 기다리고 있겠습니다 ㅠㅠ → @Nathan Cho : request.path 와 /group/{path} 에서 같은 정보가 중복되는 것 같은데, POST /item 과 같이 필드 값으로 path 정보를 전달하는게 더 직관적일 것 같습니다. 내가 보낸 request body 가 서버에 그대로 저장된다는 면에서요.\n\n@오지환 : 그렇게 되면 URI 또한 굳이 /group/test1 일 필요가 없겠네요. 엄청난 Refactoring이 기다리고 있겠습니다 ㅠㅠ\n\n그룹을 생성할 때는 아직 ObjectId가 생성되지 않은 상태이므로 path 값을 입력할 수 없다.\n때문에 최상위 그룹을 생성할 때는 path를 입력하지 않아도 된다.\n하지만 하위 그룹를 생성할 때는 상위 그룹의 path를 입력해줘야한다."
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633355244,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Search-groups-006d352c02294912b5d6cbc8a35eab93?n=activity_block_edited&amp;n=slack|Search groups>*",
+    "ts": "1633355197.006700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /group\n\nname, path, admin 으로 조회 가능 → GET /group\n\nname, path, admin 으로 조회 가능\n\npath : ,{group_id},{group_id},{group_id}, 형식\n\n하위 그룹들을 검색하는 방법:\nGET /group?path={group_id}\n",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /group\n\nname, path, admin 으로 조회 가능 → GET /group\n\nname, path, admin 으로 조회 가능\n\npath : ,{group_id},{group_id},{group_id}, 형식\n\n하위 그룹들을 검색하는 방법:\nGET /group?path={group_id}\n"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633355196,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Create-Item-4851cd58babd46af8561bdba18283f82?n=activity_block_edited&amp;n=slack|Create Item>*",
+    "ts": "1633354007.006600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*비고*: Empty → 아이템을 생성할 때는 아직 ObjectId가 생성되지 않은 상태이므로 path 값을 입력할 수 없다.\n때문에 cabinet(최상위)을 작성할 때는 path를 입력하지 않아도 된다.\n하지만 하위 문서를 작성할 때는 상위 문서의 path를 입력해줘야한다.\n따라서, document 를 작성할 때는 path: ,{cabinet_id}, 를\ncard 를 작성할 때는 path: ,{cabinet_id},{document_id}, 까지 입력해줘야한다.",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*비고*: Empty → 아이템을 생성할 때는 아직 ObjectId가 생성되지 않은 상태이므로 path 값을 입력할 수 없다.\n때문에 cabinet(최상위)을 작성할 때는 path를 입력하지 않아도 된다.\n하지만 하위 문서를 작성할 때는 상위 문서의 path를 입력해줘야한다.\n따라서, document 를 작성할 때는 path: ,{cabinet_id}, 를\ncard 를 작성할 때는 path: ,{cabinet_id},{document_id}, 까지 입력해줘야한다."
+      },
+      {
+        "text": "*request*: POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨 → POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨 → POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨"
+      },
+      {
+        "footer": "오지환",
+        "id": 3,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633354006,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Search-Items-e1a3c2d4df3f400e9428947418b9eefa?n=activity_block_edited&amp;n=slack|Search Items>*",
+    "ts": "1633353833.006500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*비고*: Empty → path : ,{item_id},{item_id},{item_id}, 형식\n첫 번째 item_id 는 cabinet일 수 밖에 없고,\n두 번째 item_id 는 document일 수 밖에 없고,\n세 번째 item_id 는 card일 수 밖에 없다.\n\ncabinet의 하위 문서들을 검색하는 방법:\nGET /item?path=,{cabinet_id},\n",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*비고*: Empty → path : ,{item_id},{item_id},{item_id}, 형식\n첫 번째 item_id 는 cabinet일 수 밖에 없고,\n두 번째 item_id 는 document일 수 밖에 없고,\n세 번째 item_id 는 card일 수 밖에 없다.\n\ncabinet의 하위 문서들을 검색하는 방법:\nGET /item?path=,{cabinet_id},\n"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633353833,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Remove-Group-e8e15911252f4e1f919168ce1bd5054b?n=activity_block_edited&amp;n=slack|Remove Group>*",
+    "ts": "1633334023.006400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: DELETE /group/{group_id} → DELETE /group/:group_id",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: DELETE /group/{group_id} → DELETE /group/:group_id"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633334023,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Update-group-0d8ce6faacad4f9295bb2a42b72a10df?n=activity_block_edited&amp;n=slack|Update group>*",
+    "ts": "1633334021.006300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: PUT /group/{group_id}\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n} → PUT /group/:group_id\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: PUT /group/{group_id}\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n} → PUT /group/:group_id\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633334020,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Read-Item-5b2479bfd4344a86bda42d1a1e49e6b7?n=activity_block_edited&amp;n=slack|Read Item>*",
+    "ts": "1633334009.006200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /item/item_id → GET /item/:item_id",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /item/item_id → GET /item/:item_id"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633334009,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633333861.006100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: GET /group/{group_id} → GET /group/:group_id",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /group/{group_id} → GET /group/:group_id"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633333861,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/5ad237f7a4184a7ca5e12b495fedb9a7?n=activity_permissions_edited&amp;n=slack|API Document>*",
+    "ts": "1633331105.006000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633331105,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Get-all-Items-a299bae512ea4c74ad3a7fd3c1f6c32a?n=activity_permissions_edited&amp;n=slack|Get all Items>*",
+    "ts": "1633331101.005900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633331101,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/a3668fb91b2c41fc8d0ff94607ff4f4b?n=activity_permissions_edited&amp;n=slack|User>*",
+    "ts": "1633331101.005800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633331101,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Create-User-57cb7d07c5ef4008a12a45e25f3c1acd?n=activity_permissions_edited&amp;n=slack|Create User>*",
+    "ts": "1633331099.005700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633331099,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/a6746bfde1f54dd5b478f8be0a9b6948?n=activity_permissions_edited&amp;n=slack|Item>*",
+    "ts": "1633331097.005600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633331097,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 deleted *<https://www.notion.so/22f6fe24adb34550a377e5dddc894b65?n=activity_collection_row_deleted&amp;n=slack|Untitled>* in *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_collection_row_deleted&amp;n=slack|File @오지환  >*",
+    "ts": "1633327572.005500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327572,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 deleted *<https://www.notion.so/88624dc28d0f4e2391dcce0929f2d803?n=activity_collection_row_deleted&amp;n=slack|Untitled>* in *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_collection_row_deleted&amp;n=slack|File @오지환  >*",
+    "ts": "1633327571.005400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327570,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 deleted *<https://www.notion.so/62529a2de89d443db045100ef396e8c2?n=activity_collection_row_deleted&amp;n=slack|Untitled>* in *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_collection_row_deleted&amp;n=slack|File @오지환  >*",
+    "ts": "1633327569.005300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327568,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 locked *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_page_locked&amp;n=slack|File @오지환  >*",
+    "ts": "1633327561.005200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327561,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=collection_edited&amp;n=slack|File @오지환  >*",
+    "ts": "1633327556.005100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327556,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 unlocked *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_page_unlocked&amp;n=slack|File @오지환  >*",
+    "ts": "1633327539.005000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327539,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Upload-File-703dacae48cb43718fd878a5445bf2be?n=activity_block_edited&amp;n=slack|Upload File>*",
+    "ts": "1633327519.004900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: 아이템 조회 → 파일 업로드",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: 아이템 조회 → 파일 업로드"
+      },
+      {
+        "text": "*비고*: Empty → MultipartFile upload 처리 가능",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*비고*: Empty → MultipartFile upload 처리 가능"
+      },
+      {
+        "text": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"6156d6413334eb865afc2d7b\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"6156d6403334eb865afc2d6f\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"comments\": []\n} → 201 Created\n[{\n  \"originalName\":\"test.png\",\n  \"fileName\":\"test-1633326989129.png\"\n}, { ... }]",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"6156d6403334eb865afc2d66\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"6156d6413334eb865afc2d7b\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"6156d6403334eb865afc2d6f\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"comments\": []\n} → 201 Created\n[{\n  \"originalName\":\"test.png\",\n  \"fileName\":\"test-1633326989129.png\"\n}, { ... }]"
+      },
+      {
+        "text": "*request*: GET /item/item_id → POST /file/upload",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /item/item_id → POST /file/upload"
+      },
+      {
+        "text": "*Method*: GET → POST",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Method*: GET → POST"
+      },
+      {
+        "text": "<https://www.notion.so/Upload-File-703dacae48cb43718fd878a5445bf2be|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/Upload-File-703dacae48cb43718fd878a5445bf2be|Show 1 more edit…>"
+      },
+      {
+        "footer": "오지환",
+        "id": 7,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327519,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 locked *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_page_locked&amp;n=slack|File @오지환  >*",
+    "ts": "1633327511.004800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327510,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 unlocked *<https://www.notion.so/d2aacea8619c4411971e34693e54c761?n=activity_page_unlocked&amp;n=slack|File @오지환  >*",
+    "ts": "1633327349.004700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327348,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Read-File-2c03018616ce4bd487205868bc76836b?n=activity_block_edited&amp;n=slack|Read File>*",
+    "ts": "1633327001.004600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: 아이템 검색 → 파일 조회",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: 아이템 검색 → 파일 조회"
+      },
+      {
+        "text": "*비고*: Empty → file_name의 형식은 다음과 같음\n`{original_name}-{timestamp}.ext`",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*비고*: Empty → file_name의 형식은 다음과 같음\n`{original_name}-{timestamp}.ext`"
+      },
+      {
+        "text": "*response*: 200 OK\n[\n  {\n    \"_id\": \"6156d6413334eb865afc2d7b\",\n    \"title\": \"Handover\",\n    \"type\": \"cabinet\",\n    \"owner\": {\n      \"_id\": \"6156d6403334eb865afc2d6f\",\n      \"name\": \"조나단\",\n      \"rank\": \"병장\"\n    },\n    \"path\": \",Handover,\",\n    \"tags\": [],\n    \"history\": [],\n    \"status\": \"published\"\n  }, { ... }\n] → 200 OK\n",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: 200 OK\n[\n  {\n    \"_id\": \"6156d6413334eb865afc2d7b\",\n    \"title\": \"Handover\",\n    \"type\": \"cabinet\",\n    \"owner\": {\n      \"_id\": \"6156d6403334eb865afc2d6f\",\n      \"name\": \"조나단\",\n      \"rank\": \"병장\"\n    },\n    \"path\": \",Handover,\",\n    \"tags\": [],\n    \"history\": [],\n    \"status\": \"published\"\n  }, { ... }\n] → 200 OK\n"
+      },
+      {
+        "text": "*request*: GET /item\n\ntitle, path, type, owner, group, page로 조회 가능 → GET /file/:file_name",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*request*: GET /item\n\ntitle, path, type, owner, group, page로 조회 가능 → GET /file/:file_name"
+      },
+      {
+        "text": "*Name*: Search Items → Read File",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Name*: Search Items → Read File"
+      },
+      {
+        "footer": "오지환",
+        "id": 6,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633327001,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/88624dc28d0f4e2391dcce0929f2d803?n=activity_block_edited&amp;n=slack|Untitled>*",
+    "ts": "1633326768.004500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: 아이템 삭제 → Empty",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: 아이템 삭제 → Empty"
+      },
+      {
+        "text": "*status*: 완료 → Empty",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: 완료 → Empty"
+      },
+      {
+        "text": "*response*: 204 OK → Empty",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: 204 OK → Empty"
+      },
+      {
+        "text": "*request*: DELETE /item/:item_id → Empty",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*request*: DELETE /item/:item_id → Empty"
+      },
+      {
+        "text": "*Method*: DELETE → Empty",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Method*: DELETE → Empty"
+      },
+      {
+        "text": "<https://www.notion.so/88624dc28d0f4e2391dcce0929f2d803|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/88624dc28d0f4e2391dcce0929f2d803|Show 1 more edit…>"
+      },
+      {
+        "footer": "오지환",
+        "id": 7,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633326768,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/22f6fe24adb34550a377e5dddc894b65?n=activity_block_edited&amp;n=slack|Untitled>*",
+    "ts": "1633326768.004400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: 아이템 생성 → Empty",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: 아이템 생성 → Empty"
+      },
+      {
+        "text": "*status*: 완료 → Empty",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: 완료 → Empty"
+      },
+      {
+        "text": "*response*: 201 OK\n{\n  \"title\": \"Handover Cabinet\",\n  \"type\": \"cabinet\",\n  \"owner\": \"6156d6403334eb865afc2d6f\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\n    \"tag01\",\n    \"tag02\"\n  ],\n  \"contributors\": [],\n  \"accessGroups\": {\n    \"read\": [],\n    \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T09:40:50.887Z\",\n  \"_id\": \"6156d7a23334eb865afc2d9b\",\n  \"comments\": []\n} → Empty",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: 201 OK\n{\n  \"title\": \"Handover Cabinet\",\n  \"type\": \"cabinet\",\n  \"owner\": \"6156d6403334eb865afc2d6f\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\n    \"tag01\",\n    \"tag02\"\n  ],\n  \"contributors\": [],\n  \"accessGroups\": {\n    \"read\": [],\n    \"edit\": []\n  },\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T09:40:50.887Z\",\n  \"_id\": \"6156d7a23334eb865afc2d9b\",\n  \"comments\": []\n} → Empty"
+      },
+      {
+        "text": "*request*: POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨 → Empty",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*request*: POST /item\n{\n  \"title\": \"Handover Cabinet\",\n  \"path\": \",Handover Cabinet,\",\n  \"content\": \"Handover Cabinet Content\",\n  \"tags\": [\"tag01\", \"tag02\"],\n  \"status\": \"published\",\n  \"type\": \"cabinet\"\n}\n\nowner field는 어떤 경우에도 현재 로그인 된 세션으로 기입됨 → Empty"
+      },
+      {
+        "text": "*Method*: POST → Empty",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Method*: POST → Empty"
+      },
+      {
+        "text": "<https://www.notion.so/22f6fe24adb34550a377e5dddc894b65|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/22f6fe24adb34550a377e5dddc894b65|Show 1 more edit…>"
+      },
+      {
+        "footer": "오지환",
+        "id": 7,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633326767,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/62529a2de89d443db045100ef396e8c2?n=activity_block_edited&amp;n=slack|Untitled>*",
+    "ts": "1633326767.004300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: 아이템 갱신 → Empty",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: 아이템 갱신 → Empty"
+      },
+      {
+        "text": "*status*: 완료 → Empty",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*status*: 완료 → Empty"
+      },
+      {
+        "text": "*response*: 204 OK → Empty",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: 204 OK → Empty"
+      },
+      {
+        "text": "*request*: PUT /item/:item_id\n{\n  \"content\": \"Handover_00 Updated\",\n  \"tags\": [\"tag02\"],\n  \"status\": \"published\"\n} → Empty",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*request*: PUT /item/:item_id\n{\n  \"content\": \"Handover_00 Updated\",\n  \"tags\": [\"tag02\"],\n  \"status\": \"published\"\n} → Empty"
+      },
+      {
+        "text": "*Method*: PUT → Empty",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Method*: PUT → Empty"
+      },
+      {
+        "text": "<https://www.notion.so/62529a2de89d443db045100ef396e8c2|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/62529a2de89d443db045100ef396e8c2|Show 1 more edit…>"
+      },
+      {
+        "footer": "오지환",
+        "id": 7,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633326767,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/checkservicenumber-e90d66aca4e241e0bc8c59ecbd392fd8?n=activity_block_edited&amp;n=slack|/checkservicenumber>*",
+    "ts": "1633262656.004200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: Empty → GET /checkservicename/{serviceNumber}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → GET /checkservicename/{serviceNumber}"
+      },
+      {
+        "text": "*Description*: Empty → 회원가입 시 군번의 사용자가 존재하는지 확인",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*Description*: Empty → 회원가입 시 군번의 사용자가 존재하는지 확인"
+      },
+      {
+        "text": "*response*: Empty → 존재할 경우\n200 OK\n{\n  \"exists\": true\n}\n\n존재하지 않을 경우\n200 OK\n{\n  \"exists\": false\n}",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 존재할 경우\n200 OK\n{\n  \"exists\": true\n}\n\n존재하지 않을 경우\n200 OK\n{\n  \"exists\": false\n}"
+      },
+      {
+        "text": "*status*: Empty → 시작전",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 시작전"
+      },
+      {
+        "text": "*Method*: Empty → GET",
+        "id": 5,
+        "color": "F0EFEF",
+        "fallback": "*Method*: Empty → GET"
+      },
+      {
+        "text": "<https://www.notion.so/checkservicenumber-e90d66aca4e241e0bc8c59ecbd392fd8|Show 1 more edit…>",
+        "id": 6,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/checkservicenumber-e90d66aca4e241e0bc8c59ecbd392fd8|Show 1 more edit…>"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 7,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262656,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited property response in *<https://www.notion.so/6e9fd45c3cfc4891aa570767da7eb00d?n=collection_property_edited&amp;n=slack|auth>*",
+    "ts": "1633262568.004100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262568,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited property request in *<https://www.notion.so/6e9fd45c3cfc4891aa570767da7eb00d?n=collection_property_edited&amp;n=slack|auth>*",
+    "ts": "1633262549.004000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262549,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited property status in *<https://www.notion.so/6e9fd45c3cfc4891aa570767da7eb00d?n=collection_property_edited&amp;n=slack|auth>*",
+    "ts": "1633262476.003900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262476,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/logout-08ba5c559fee4a548ad4658cfc1912a5?n=activity_block_edited&amp;n=slack|/logout>*",
+    "ts": "1633262459.003800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262459,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/login-229b01994b0e414cb445a0cdb3772d9b?n=activity_block_edited&amp;n=slack|/login>*",
+    "ts": "1633262443.003700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262443,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited property Method in *<https://www.notion.so/6e9fd45c3cfc4891aa570767da7eb00d?n=collection_property_edited&amp;n=slack|auth>*",
+    "ts": "1633262415.003600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262415,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/checkservicenumber-e90d66aca4e241e0bc8c59ecbd392fd8?n=activity_collection_row_created&amp;n=slack|/checkservicenumber>* in *<https://www.notion.so/6e9fd45c3cfc4891aa570767da7eb00d?n=activity_collection_row_created&amp;n=slack|auth>*",
+    "ts": "1633262405.003500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262405,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/Search-User-by-Name-383683ee05a74cc9838c5ac898ee278c?n=activity_block_edited&amp;n=slack|Search User by Name>*",
+    "ts": "1633262383.003400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*비고*: Empty → name 이 아닌 serviceNumber",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*비고*: Empty → name 이 아닌 serviceNumber"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262383,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited property 비고 in *<https://www.notion.so/d48f940cebda4c2280ce1a261eeda3c7?n=collection_property_edited&amp;n=slack|User>*",
+    "ts": "1633262350.003300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633262350,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Read-group-3128a83be945488fbe371d958b6a5086?n=activity_permissions_edited&amp;n=slack|Read group>*",
+    "ts": "1633247817.003200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247817,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/API-INFO-Template-233daacf60e64c90878f524a09d0997c?n=activity_permissions_edited&amp;n=slack|API INFO Template>*",
+    "ts": "1633247814.003100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247814,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/API-INFO-Template-233daacf60e64c90878f524a09d0997c?n=activity_collection_row_deleted&amp;n=slack|API INFO Template>* in *<https://www.notion.so/a6746bfde1f54dd5b478f8be0a9b6948?n=activity_collection_row_deleted&amp;n=slack|Item>*",
+    "ts": "1633247814.003000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247814,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Delete-User-6b5e451392ae4bb89fd8277bacfc7f31?n=activity_permissions_edited&amp;n=slack|Delete User>*",
+    "ts": "1633247813.002900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247813,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Update-User-31f89c57ffbb443ab0c8e4a0c7116dd7?n=activity_permissions_edited&amp;n=slack|Update User>*",
+    "ts": "1633247812.002800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247812,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Search-User-by-ID-cd07b3c2740d4605877c32d7f70ff5a7?n=activity_permissions_edited&amp;n=slack|Search User by ID>*",
+    "ts": "1633247810.002700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247809,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Search-User-64430b06719e478eba0a4619ae6241fa?n=activity_permissions_edited&amp;n=slack|Search User>*",
+    "ts": "1633247808.002600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247808,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/Search-User-by-Name-ea951d6736fc4105b3c385af849abf84?n=activity_permissions_edited&amp;n=slack|Search User by Name>*",
+    "ts": "1633247807.002500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247807,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/accept-a8bd7e1438a54b2c9bf43afac4e5a4cd?n=activity_permissions_edited&amp;n=slack|accept>*",
+    "ts": "1633247800.002400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247800,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/accept-c6d6ba2f82784a0f8e0e2c9532a4a055?n=activity_permissions_edited&amp;n=slack|accept>*",
+    "ts": "1633247797.002300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247797,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/1-f9693b78c50343bda16ea301a8b95183?n=activity_permissions_edited&amp;n=slack|페이지 1>*",
+    "ts": "1633247797.002200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247797,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/accept-a8bd7e1438a54b2c9bf43afac4e5a4cd?n=activity_collection_row_deleted&amp;n=slack|accept>* in *<https://www.notion.so/609267a0566c40899824ed8e5f13ee5e?n=activity_collection_row_deleted&amp;n=slack|Untitled>*",
+    "ts": "1633247797.002100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247797,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/accept-c6d6ba2f82784a0f8e0e2c9532a4a055?n=activity_collection_row_deleted&amp;n=slack|accept>* in *<https://www.notion.so/272439fd0aef45409616163282c8e5c4?n=activity_collection_row_deleted&amp;n=slack|Untitled>*",
+    "ts": "1633247796.002000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247796,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/1-f9693b78c50343bda16ea301a8b95183?n=activity_collection_row_deleted&amp;n=slack|페이지 1>* in *<https://www.notion.so/26b96b1eb6df4265a1f499a07098cf41?n=activity_collection_row_deleted&amp;n=slack|Untitled>*",
+    "ts": "1633247794.001900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247794,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/3-e338baef82ca4300847655478ae642c8?n=activity_permissions_edited&amp;n=slack|페이지 3>*",
+    "ts": "1633247792.001800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247792,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/2-4e773f4f73ba4db392cc86cfb69a6d5a?n=activity_permissions_edited&amp;n=slack|페이지 2>*",
+    "ts": "1633247792.001700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247792,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/3-e338baef82ca4300847655478ae642c8?n=activity_collection_row_deleted&amp;n=slack|페이지 3>* in *<https://www.notion.so/26b96b1eb6df4265a1f499a07098cf41?n=activity_collection_row_deleted&amp;n=slack|Untitled>*",
+    "ts": "1633247792.001600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247792,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/2-33577d627c8a47758046e0b51bde1e4c?n=activity_collection_row_deleted&amp;n=slack|페이지 2>* in *<https://www.notion.so/a3668fb91b2c41fc8d0ff94607ff4f4b?n=activity_collection_row_deleted&amp;n=slack|User>*",
+    "ts": "1633247790.001500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247790,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/2-4e773f4f73ba4db392cc86cfb69a6d5a?n=activity_collection_row_deleted&amp;n=slack|페이지 2>* in *<https://www.notion.so/26b96b1eb6df4265a1f499a07098cf41?n=activity_collection_row_deleted&amp;n=slack|Untitled>*",
+    "ts": "1633247790.001400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247790,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/2-33577d627c8a47758046e0b51bde1e4c?n=activity_permissions_edited&amp;n=slack|페이지 2>*",
+    "ts": "1633247788.001300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247788,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/2-34d8658de2a1443f964eb6fe745abba5?n=activity_collection_row_deleted&amp;n=slack|페이지 2>* in *<https://www.notion.so/5ad237f7a4184a7ca5e12b495fedb9a7?n=activity_collection_row_deleted&amp;n=slack|API Document>*",
+    "ts": "1633247787.001200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247787,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/3-bf40931033134588a5c78bd32155cd3d?n=activity_permissions_edited&amp;n=slack|페이지 3>*",
+    "ts": "1633247785.001100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247785,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/2-34d8658de2a1443f964eb6fe745abba5?n=activity_permissions_edited&amp;n=slack|페이지 2>*",
+    "ts": "1633247785.001000",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247785,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/3-bf40931033134588a5c78bd32155cd3d?n=activity_collection_row_deleted&amp;n=slack|페이지 3>* in *<https://www.notion.so/a3668fb91b2c41fc8d0ff94607ff4f4b?n=activity_collection_row_deleted&amp;n=slack|User>*",
+    "ts": "1633247785.000900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247785,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/1-05a81a2fdfe247b886e91d17ad6fc6db?n=activity_permissions_edited&amp;n=slack|페이지 1>*",
+    "ts": "1633247782.000800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247782,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Notion App edited permission *<https://www.notion.so/3-edcb15d37de4482092b04203bf05f344?n=activity_permissions_edited&amp;n=slack|페이지 3>*",
+    "ts": "1633247780.000700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": ": No access",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": ": No access"
+      },
+      {
+        "footer": "Notion App",
+        "id": 2,
+        "footer_icon": "https://s3.us-west-2.amazonaws.com/public.notion-static.com/5478707d-f8ea-46d8-902a-d6d932ac20da.png",
+        "ts": 1633247780,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/3-edcb15d37de4482092b04203bf05f344?n=activity_collection_row_deleted&amp;n=slack|페이지 3>* in *<https://www.notion.so/5ad237f7a4184a7ca5e12b495fedb9a7?n=activity_collection_row_deleted&amp;n=slack|API Document>*",
+    "ts": "1633247780.000600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247780,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/1-05a81a2fdfe247b886e91d17ad6fc6db?n=activity_collection_row_deleted&amp;n=slack|페이지 1>* in *<https://www.notion.so/5ad237f7a4184a7ca5e12b495fedb9a7?n=activity_collection_row_deleted&amp;n=slack|API Document>*",
+    "ts": "1633247778.000500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633247778,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633242328.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*status*: Empty → 완료",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*status*: Empty → 완료"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633242328,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/REST-API-Reference-04927a64687a47109bc304f6b66551a9?n=activity_block_edited&amp;n=slack|:game_die: REST API Reference >*",
+    "ts": "1633133680.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "▸ 이전 버전 테이블",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "▸ 이전 버전 테이블"
+      },
+      {
+        "text": "“이하 : 더 이상 사용하지 않는 테이블”",
+        "id": 2,
+        "color": "a30200",
+        "fallback": "“이하 : 더 이상 사용하지 않는 테이블”"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633133680,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho locked *<https://www.notion.so/7276ba93f8274487a750cc874ebd359a?n=activity_page_locked&amp;n=slack|Cabinet>*",
+    "ts": "1633133653.000200",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633133653,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho unlocked *<https://www.notion.so/7276ba93f8274487a750cc874ebd359a?n=activity_page_unlocked&amp;n=slack|Cabinet>*",
+    "ts": "1633133651.000100",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1633133651,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633098338.000900",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*response*: Empty → 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*response*: Empty → 200 OK\n{\n  \"accessGroups\": {\n    \"read\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }],\n    \"edit\": [{\n      \"_id\": \"615718d6260c41c33ba052e8\",\n      \"name\": \"handover\",\n      \"path\": \",handover,\"\n    }]\n  },\n  \"_id\": \"615718d6260c41c33ba052f5\",\n  \"title\": \"Handover\",\n  \"type\": \"cabinet\",\n  \"owner\": {\n    \"_id\": \"615718d5260c41c33ba052dc\",\n    \"name\": \"조나단\",\n    \"rank\": \"병장\"\n  },\n  \"path\": \",Handover,\",\n  \"content\": \"Handover Cabinet\",\n  \"tags\": [\n    \"Handover\"\n  ],\n  \"contributors\": [],\n  \"history\": [],\n  \"status\": \"published\",\n  \"created\": \"2021-10-01T14:19:02.219Z\",\n  \"comments\": []\n}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633098338,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Remove-Group-e8e15911252f4e1f919168ce1bd5054b?n=activity_block_edited&amp;n=slack|Remove Group>*",
+    "ts": "1633094426.000800",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: DELETE /group/test → DELETE /group/{group_id}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: DELETE /group/test → DELETE /group/{group_id}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633094426,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Update-group-0d8ce6faacad4f9295bb2a42b72a10df?n=activity_block_edited&amp;n=slack|Update group>*",
+    "ts": "1633094425.000700",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*request*: PUT /group/test\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n} → PUT /group/{group_id}\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*request*: PUT /group/test\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n} → PUT /group/{group_id}\n{\n  \"inspectors\": [\"61507eaab51b4983b5fb8f1a\"]\n}"
+      },
+      {
+        "footer": "오지환",
+        "id": 2,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633094424,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 edited *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_block_edited&amp;n=slack|Get group>*",
+    "ts": "1633094408.000600",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "text": "*Description*: Empty → 그룹 조회",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*Description*: Empty → 그룹 조회"
+      },
+      {
+        "text": "*request*: Empty → GET /group/{group_id}",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*request*: Empty → GET /group/{group_id}"
+      },
+      {
+        "text": "*Method*: Empty → GET",
+        "id": 3,
+        "color": "F0EFEF",
+        "fallback": "*Method*: Empty → GET"
+      },
+      {
+        "text": "*Name*: Empty → Get group",
+        "id": 4,
+        "color": "F0EFEF",
+        "fallback": "*Name*: Empty → Get group"
+      },
+      {
+        "footer": "오지환",
+        "id": 5,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633094408,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 deleted *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_collection_row_deleted&amp;n=slack|Get group>* in *<https://www.notion.so/db648ddd367444c4b2fd757df3666564?n=activity_collection_row_deleted&amp;n=slack|Group @오지환 >*",
+    "ts": "1633094373.000500",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633094372,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 created *<https://www.notion.so/Get-group-692c8c0e73d2423bbd29da575685eb48?n=activity_collection_row_created&amp;n=slack|Get group>* in *<https://www.notion.so/db648ddd367444c4b2fd757df3666564?n=activity_collection_row_created&amp;n=slack|Group @오지환 >*",
+    "ts": "1633094371.000400",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633094371,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "오지환 deleted *<https://www.notion.so/Read-group-3128a83be945488fbe371d958b6a5086?n=activity_collection_row_deleted&amp;n=slack|Read group>* in *<https://www.notion.so/db648ddd367444c4b2fd757df3666564?n=activity_collection_row_deleted&amp;n=slack|Group @오지환 >*",
+    "ts": "1633094343.000300",
+    "bot_id": "B02GBJBLSRZ",
+    "attachments": [
+      {
+        "footer": "오지환",
+        "id": 1,
+        "footer_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/bd3a075e-f992-4a90-aaf4-0a230e67bb88/50487467.jpg",
+        "ts": 1633094343,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Welcome to Notion! This channel is now integrated with the Notion page *<https://www.notion.so/REST-API-Reference-04927a64687a47109bc304f6b66551a9?n=slack&amp;n=slack_welcome|:game_die: REST API Reference >*. You will get notified about comments, mentions, and edits in this page or pages inside.",
+    "ts": "1633081772.000200",
+    "bot_id": "B02GBJBLSRZ"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://osam-handover.slack.com/services/B02GBJBLSRZ|Notion>",
+    "user": "U02DPCQH7J5",
+    "bot_id": "B02GBJBLSRZ",
+    "bot_link": "<https://osam-handover.slack.com/services/B02GBJBLSRZ|Notion>",
+    "ts": "1633081772.000100"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024503.000300",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/f885b82e5c9c4d9aa68150fdf4f5d11f?n=activity_block_edited&amp;n=slack|:technologist: 세부 기능 개발 및 멘토링 피드백 반영>*",
+    "ts": "1631715412.002500",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: September 12, 2021 → October 10, 2021 → September 12, 2021 → October 14, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: September 12, 2021 → October 10, 2021 → September 12, 2021 → October 14, 2021"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631715412,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/1cc0cd33c64641028d88e232a22aee72?n=activity_block_edited&amp;n=slack|:lower_left_paintbrush: 레이아웃 디자인>*",
+    "ts": "1631713947.002400",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*배정*: Empty → Nathan Cho, 안수겸",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*배정*: Empty → Nathan Cho, 안수겸"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631713947,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited property Property in *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=collection_property_edited&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1631713942.002300",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631713942,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e02f65d6ab504c849174e6f91ef6a8da?n=activity_block_edited&amp;n=slack|:checkered_flag: 개발 마무리>*",
+    "ts": "1631707634.002200",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: October 11, 2021 → October 24, 2021 → October 15, 2021 → October 20, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: October 11, 2021 → October 24, 2021 → October 15, 2021 → October 20, 2021"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631707634,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/f885b82e5c9c4d9aa68150fdf4f5d11f?n=activity_block_edited&amp;n=slack|:technologist: 세부 기능 개발 및 멘토링 피드백 반영>*",
+    "ts": "1631707606.002100",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: September 27, 2021 → October 10, 2021 → September 12, 2021 → October 10, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: September 27, 2021 → October 10, 2021 → September 12, 2021 → October 10, 2021"
+      },
+      {
+        "text": "*계획*: :four: 세부 기능 개발 및 멘토링 피드백 반영 → 세부 기능 개발 및 멘토링 피드백 반영",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*계획*: :four: 세부 기능 개발 및 멘토링 피드백 반영 → 세부 기능 개발 및 멘토링 피드백 반영"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631707606,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e44b60969adf482a8a18d15061ebd10c?n=activity_block_edited&amp;n=slack|:sparkles: 서비스 기획 마무리>*",
+    "ts": "1631707578.002000",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "▢ API 종류 생각해보기",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "▢ API 종류 생각해보기"
+      },
+      {
+        "text": "▢ 단순한 레이아웃 디자인 모두 마치기",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "▢ 단순한 레이아웃 디자인 모두 마치기"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631707578,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/1cc0cd33c64641028d88e232a22aee72?n=activity_block_edited&amp;n=slack|:lower_left_paintbrush: 레이아웃 디자인>*",
+    "ts": "1631707261.001900",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631707261,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e44b60969adf482a8a18d15061ebd10c?n=activity_block_edited&amp;n=slack|:sparkles: 서비스 기획 마무리>*",
+    "ts": "1631707255.001800",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: September 9, 2021 → September 28, 2021 → September 9, 2021 → September 19, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: September 9, 2021 → September 28, 2021 → September 9, 2021 → September 19, 2021"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631707255,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e44b60969adf482a8a18d15061ebd10c?n=activity_block_edited&amp;n=slack|:sparkles: 서비스 기획 마무리>*",
+    "ts": "1631705862.001700",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: September 13, 2021 → September 26, 2021 → September 9, 2021 → September 28, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: September 13, 2021 → September 26, 2021 → September 9, 2021 → September 28, 2021"
+      },
+      {
+        "text": "*계획*: :three: 서비스 기획 마무리, 디자인 및 기능 개발 시작 → 서비스 기획 마무리",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*계획*: :three: 서비스 기획 마무리, 디자인 및 기능 개발 시작 → 서비스 기획 마무리"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705862,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/203110cedc6c4d7083a9b267db7c997f?n=activity_block_edited&amp;n=slack|:pencil2: 선정한 기술 스택 학습 및 개발 계획 수립>*",
+    "ts": "1631705845.001600",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: September 1, 2021 → September 12, 2021 → September 1, 2021 → September 8, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: September 1, 2021 → September 12, 2021 → September 1, 2021 → September 8, 2021"
+      },
+      {
+        "text": "*계획*: :two: 선정한 기술 스택 학습, 세부적인 개발 계획 수립, 설문조사를 통한 기획 피드백 반영 → 선정한 기술 스택 학습 및 개발 계획 수립",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*계획*: :two: 선정한 기술 스택 학습, 세부적인 개발 계획 수립, 설문조사를 통한 기획 피드백 반영 → 선정한 기술 스택 학습 및 개발 계획 수립"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705845,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/9daaa05167de49959e1e2d07ffdf2357?n=activity_block_edited&amp;n=slack|:rocket: 팀 구성, 기획 구체화 및 개발 플랫폼 선정>*",
+    "ts": "1631705837.001500",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: August 30, 2021 → September 5, 2021 → August 30, 2021 → September 7, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: August 30, 2021 → September 5, 2021 → August 30, 2021 → September 7, 2021"
+      },
+      {
+        "text": "*계획*: :one: 팀 구성, 기획 구체화 및 개발 플랫폼 (Web 기반 또는 App 기반) 선정 → 팀 구성, 기획 구체화 및 개발 플랫폼 선정",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*계획*: :one: 팀 구성, 기획 구체화 및 개발 플랫폼 (Web 기반 또는 App 기반) 선정 → 팀 구성, 기획 구체화 및 개발 플랫폼 선정"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705837,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/1cc0cd33c64641028d88e232a22aee72?n=activity_block_edited&amp;n=slack|레이아웃 디자인>*",
+    "ts": "1631705821.001400",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: Empty → September 12, 2021 → September 25, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: Empty → September 12, 2021 → September 25, 2021"
+      },
+      {
+        "text": "*계획*: Empty → 레이아웃 디자인",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*계획*: Empty → 레이아웃 디자인"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705821,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/1cc0cd33c64641028d88e232a22aee72?n=activity_collection_row_created&amp;n=slack|레이아웃 디자인>* in *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=activity_collection_row_created&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1631705815.001300",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705815,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e02f65d6ab504c849174e6f91ef6a8da?n=activity_block_edited&amp;n=slack|:checkered_flag: 개발 마무리>*",
+    "ts": "1631705656.001200",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*테스트*",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*테스트*"
+      },
+      {
+        "text": "중요한 기능은 모두 작동하는지 확인",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "중요한 기능은 모두 작동하는지 확인"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705656,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e02f65d6ab504c849174e6f91ef6a8da?n=activity_block_edited&amp;n=slack|:checkered_flag: 개발 마무리>*",
+    "ts": "1631705614.001100",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705614,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_block_edited&amp;n=slack|:card_file_box: 산출물 제출 준비>*",
+    "ts": "1631705602.001000",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705602,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_block_edited&amp;n=slack|:card_file_box: 산출물 제출 준비>*",
+    "ts": "1631705560.000900",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_block_edited&amp;n=slack#844460bcd1344c9e81cf67c0542a3231|Image>",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_block_edited&amp;n=slack#844460bcd1344c9e81cf67c0542a3231|Image>"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705560,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_block_edited&amp;n=slack|산출물 제출 준비>*",
+    "ts": "1631705045.000800",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: October 11, 2021 → October 24, 2021 → October 11, 2021 → October 20, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: October 11, 2021 → October 24, 2021 → October 11, 2021 → October 20, 2021"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631705045,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/8f5503e7c6c040389b3514525cd3b1b4?n=activity_collection_row_deleted&amp;n=slack|Untitled>* in *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=activity_collection_row_deleted&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1631704697.000700",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704697,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/e02f65d6ab504c849174e6f91ef6a8da?n=activity_block_edited&amp;n=slack|개발 마무리>*",
+    "ts": "1631704690.000600",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*계획*: :five: 개발 마무리 및 발표 준비, 부대 내 베타 테스팅 진행 → 개발 마무리",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*계획*: :five: 개발 마무리 및 발표 준비, 부대 내 베타 테스팅 진행 → 개발 마무리"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704690,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_block_edited&amp;n=slack|산출물 제출 준비>*",
+    "ts": "1631704682.000500",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: Empty → October 11, 2021 → October 24, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: Empty → October 11, 2021 → October 24, 2021"
+      },
+      {
+        "text": "*계획*: Empty → 산출물 제출 준비",
+        "id": 2,
+        "color": "F0EFEF",
+        "fallback": "*계획*: Empty → 산출물 제출 준비"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 3,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704682,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/8f5503e7c6c040389b3514525cd3b1b4?n=activity_block_edited&amp;n=slack|Untitled>*",
+    "ts": "1631704665.000400",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "text": "*날짜*: Empty → October 11, 2021 → October 24, 2021",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "*날짜*: Empty → October 11, 2021 → October 24, 2021"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704664,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/8f5503e7c6c040389b3514525cd3b1b4?n=activity_collection_row_created&amp;n=slack|Untitled>* in *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=activity_collection_row_created&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1631704663.000300",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704663,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/6e7aea7e322544ce8bef36d647350409?n=activity_collection_row_created&amp;n=slack|산출물 제출 준비>* in *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=activity_collection_row_created&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1631704662.000200",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704662,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho created *<https://www.notion.so/6c412da79d404af89f5ca9ce8c160656?n=activity_collection_row_created&amp;n=slack|Untitled>* in *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=activity_collection_row_created&amp;n=slack|:spiral_calendar_pad: 개발 일정>*",
+    "ts": "1631704584.000100",
+    "bot_id": "B02DT1J48VA",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631704584,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho deleted *<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_top_level_block_deleted&amp;n=slack|:clipboard: 해커톤 개발 계획서>* in *<https://www.notion.so/space/1cf5ba21c2544084997b0d0d729c62ed?n=activity_top_level_block_deleted&amp;n=slack|Handover>*",
+    "ts": "1631340361.000600",
+    "bot_id": "B02DE2U73JS",
+    "attachments": [
+      {
+        "footer": "Nathan Cho",
+        "id": 1,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631340361,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 해커톤 개발 계획서>*",
+    "ts": "1631340356.000500",
+    "bot_id": "B02DE2U73JS",
+    "attachments": [
+      {
+        "text": "<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 해커톤 개발 계획서>",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 해커톤 개발 계획서>"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631340356,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Nathan Cho edited *<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 프로젝트 개요>*",
+    "ts": "1631256221.000100",
+    "bot_id": "B02DE2U73JS",
+    "attachments": [
+      {
+        "text": "<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 프로젝트 개요>",
+        "id": 1,
+        "color": "F0EFEF",
+        "fallback": "<https://www.notion.so/55ba463073844a73983f30e72c9378e5?n=activity_block_edited&amp;n=slack|:clipboard: 프로젝트 개요>"
+      },
+      {
+        "footer": "Nathan Cho",
+        "id": 2,
+        "footer_icon": "https://lh3.googleusercontent.com/a-/AOh14Giyxx504Vb15JGC1H5yrExhSgOAK36zYV2YSDqP",
+        "ts": 1631256221,
+        "color": "F0EFEF",
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_name",
+    "ts": "1631188593.000100",
+    "user": "U02DX5BFPPS",
+    "text": "has renamed the channel from \"notion-update\" to \"update-notion\"",
+    "old_name": "notion-update",
+    "name": "update-notion"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Welcome to Notion! This channel is now integrated with the Notion page *<https://www.notion.so/0e8970e8c91c4614ac89bd2f66a48246?n=slack&amp;n=slack_welcome|:hotel: 개발 일정>*. You will get notified about comments, mentions, and edits in this page or pages inside.",
+    "ts": "1631016454.001600",
+    "bot_id": "B02DT1J48VA"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://osam-handover.slack.com/services/B02DT1J48VA|Notion>",
+    "user": "U02DX5BFPPS",
+    "bot_id": "B02DT1J48VA",
+    "bot_link": "<https://osam-handover.slack.com/services/B02DT1J48VA|Notion>",
+    "ts": "1631016454.001500"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Welcome to Notion! This channel is now integrated with the Notion page *<https://www.notion.so/Project-Summary-55ba463073844a73983f30e72c9378e5?n=slack&amp;n=slack_welcome|:clipboard: Project Summary>*. You will get notified about comments, mentions, and edits in this page or pages inside.",
+    "ts": "1631016435.001400",
+    "bot_id": "B02DE2U73JS"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://osam-handover.slack.com/services/B02DE2U73JS|Notion>",
+    "user": "U02DX5BFPPS",
+    "bot_id": "B02DE2U73JS",
+    "bot_link": "<https://osam-handover.slack.com/services/B02DE2U73JS|Notion>",
+    "ts": "1631016434.001300"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631016326.001200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631016326.001000",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631016326.000800",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631016326.000600",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631016326.000400",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1631016323.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

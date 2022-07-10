@@ -1,0 +1,710 @@
+[
+  {
+    "id": "C02D0PW5X0W",
+    "name": "chatroom",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630591921,
+    "is_archived": false,
+    "is_general": true,
+    "unlinked": 0,
+    "name_normalized": "chatroom",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1630591921
+    },
+    "previous_names": [
+      "general"
+    ],
+    "num_members": 7
+  },
+  {
+    "id": "C02D7P9TUE7",
+    "name": "library",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630594643,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "library",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DBGVHT51",
+    "name": "schedule-share",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630667915,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "schedule-share",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "근무, 휴가, 훈련 등 프로젝트 참여에 차질이 있을 수 있는 각자의 일정을 공유하는 채팅방입니다.",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1630668536
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DDNUCBPE",
+    "name": "product-design",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630592054,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "product-design",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This *channel* is for working on a project. Hold meetings, share docs, and make decisions together with your team.",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1630592054
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DDQ2ATFW",
+    "name": "help",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630592548,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "help",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "도움이 필요한 사항이 있으면 언제든지 메시지를 보내주세요.",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1630592549
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DDQ422RJ",
+    "name": "announcement",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630592567,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "announcement",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DE2N1MF0",
+    "name": "update-notion",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1631016323,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "update-notion",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "notion-update"
+    ],
+    "num_members": 7
+  },
+  {
+    "id": "C02DHP7230D",
+    "name": "dev-backend",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1631015862,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "dev-backend",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DL575LKT",
+    "name": "random",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1630591921,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "random",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1630591921
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02DT0CRD4L",
+    "name": "dev-frontend",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1631015839,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "dev-frontend",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "dev-front"
+    ],
+    "num_members": 7
+  },
+  {
+    "id": "C02DWCX0JBU",
+    "name": "update-github",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1631188525,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "update-github",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02EFP8GHB2",
+    "name": "dev-design",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1631110787,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "dev-design",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02F3JCQ51A",
+    "name": "dev-record",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1632024908,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "dev-record",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "각자 오늘 한 일을 공유하는 채널입니다.",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1632024928
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C02HAFM957E",
+    "name": "submission",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1633773105,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "submission",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T02D0PW4F2A",
+    "parent_conversation": null,
+    "creator": "U02DX5BFPPS",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02D0PW4F2A"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "대회 제출용 산출물 제작 상황을 공유하는 채널입니다.",
+      "creator": "U02DX5BFPPS",
+      "last_set": 1633773106
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "D02J179RX9Q",
+    "created": 1634436543,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02JQSVM1KJ",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "googledrive (Google Drive)"
+  },
+  {
+    "id": "D02HY7JS1T7",
+    "created": 1634435875,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02JQSN82HW",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "polly (Polly)"
+  },
+  {
+    "id": "D02EUBH4M5K",
+    "created": 1632024271,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02FA0NJ8RF",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "gimdongwoo (gimdongwoo)"
+  },
+  {
+    "id": "D02E149T2UQ",
+    "created": 1630666742,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02D8EUAE69",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "ahn.avocado (Ahn)"
+  },
+  {
+    "id": "D02E0CUVC7J",
+    "created": 1630653338,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02DPCQH7J5",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "sapindus_hwan (오지환)"
+  },
+  {
+    "id": "D02DY7F4BU6",
+    "created": 1631415069,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02E1V1MSBF",
+    "is_user_deleted": true,
+    "priority": 0,
+    "name": "figma"
+  },
+  {
+    "id": "D02DX5TPMJL",
+    "created": 1630592109,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02D7GX0KGA",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "00cwooh (최우혁)"
+  },
+  {
+    "id": "D02DT1H26EQ",
+    "created": 1631016434,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02DHQA211T",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "notion (notion)"
+  },
+  {
+    "id": "D02DL5743UZ",
+    "created": 1630591920,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "USLACKBOT",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "slackbot (Slackbot)"
+  },
+  {
+    "id": "D02DDNH9B8C",
+    "created": 1630591921,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02DX5BFPPS",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "ntcho13 (Nathan Cho)"
+  },
+  {
+    "id": "D02DCGTPYPP",
+    "created": 1630850739,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02DMPF0HGU",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "github (GitHub)"
+  },
+  {
+    "id": "D02DBFYHPTL",
+    "created": 1630667093,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02DHN1UBHA",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "maxkim139 (teewon)"
+  },
+  {
+    "id": "D02D7RHV4BD",
+    "created": 1630595361,
+    "is_archived": false,
+    "is_im": true,
+    "is_org_shared": false,
+    "context_team_id": "T02D0PW4F2A",
+    "user": "U02DE2CLG0L",
+    "is_user_deleted": false,
+    "priority": 0,
+    "name": "phjppo0918 (박현준)"
+  }
+]

@@ -1,0 +1,736 @@
+[
+  {
+    "client_msg_id": "cabc9c20-f795-450d-a1a9-e4a7dfc971b2",
+    "type": "message",
+    "text": "Features\n• Metadata in `ItemPage` (created, collaborator)\n\n• Logo on left top, login, register\n\n• Route in `ItemPage` (/settings, /edit, /duplicate)\n• `CommentSection` for `ItemPage`\n• My cabinets `item?owner=userId?type=cabinet`\n• Tags (show &amp; edit)\n• Fix `SettingsPage`\n• Search (use `ItemListPage`\n• Component-ify `ItemListPage`\n• Util-ify dates, notifications\n\n• Image uploading, tag editing in `EditorPage`\nLogin links to buttons\n\nBug fixes\n• `/bookmarks` showing unbookmarked items\n\nTo-dos\n• svg logo (colored)\n\n• test `AboutPage`\n\n• replace Loading... to `Progress`",
+    "user": "U02DX5BFPPS",
+    "ts": "1634410931.006600",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1634411334.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Cl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Features\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Metadata in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ItemPage",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " (created, collaborator)\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Logo on left top"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", login, register"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Route in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ItemPage",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " (/settings, /edit, /duplicate)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "CommentSection",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " for "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ItemPage",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "My cabinets "
+                  },
+                  {
+                    "type": "text",
+                    "text": "item?owner=userId?type=cabinet",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Tags (show & edit)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Fix "
+                  },
+                  {
+                    "type": "text",
+                    "text": "SettingsPage",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Search (use "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ItemListPage",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Component-ify "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ItemListPage",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Util-ify dates, notifications\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Image uploading, tag editing in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "EditorPage",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Login links to buttons\n"
+              },
+              {
+                "type": "text",
+                "text": "\nBug fixes\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "/bookmarks",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " showing unbookmarked items\n\n"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "To-dos\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "svg logo (colored)\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "test "
+                  },
+                  {
+                    "type": "text",
+                    "text": "AboutPage",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "replace Loading... to "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Progress",
+                    "style": {
+                      "code": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ebcc58a9-d611-49fc-b9fc-77563ad638b2",
+    "type": "message",
+    "text": "TODO: PR from feature/backend, merge feature/ci-cd with develop",
+    "user": "U02DX5BFPPS",
+    "ts": "1634228921.000200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1634229035.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E/8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "TODO: PR from feature/backend, merge feature/ci-cd with develop"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7ec1a5de-0600-4a10-a48f-d6bf79b1538f",
+    "type": "message",
+    "text": "09.19 Meeting\n\nLink\n<http://meet.google.com/vge-zaoo-zhk|meet.google.com/vge-zaoo-zhk>\nwith PC if possible, with audio\n\nTopics\n• 멘토 연락 및 매주 회의 시간 결정\n• 현재 진행상황 공유 (준비해오도록)\n• 진행 계획 (시간 얼마 없음, 각자 투자해야될 시간 확실하게)\n• 배포 계획 (제공되는 azure 사용?)\n• codespaces 환경\n• 기타 의견",
+    "user": "U02DX5BFPPS",
+    "ts": "1631979961.003200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631980217.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6d+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "09.19 Meeting\n\nLink\n"
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/vge-zaoo-zhk",
+                "text": "meet.google.com/vge-zaoo-zhk"
+              },
+              {
+                "type": "text",
+                "text": "\nwith PC if possible, with audio\n\nTopics\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "멘토 연락 및 매주 회의 시간 결정"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "현재 진행상황 공유 (준비해오도록)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "진행 계획 (시간 얼마 없음, 각자 투자해야될 시간 확실하게)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "배포 계획 (제공되는 azure 사용?)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "codespaces 환경"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "기타 의견"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b5cdef31-feea-4b4d-9900-dd2ac5b4e167",
+    "type": "message",
+    "text": "<https://thinkster.io/tutorials/node-json-api/creating-the-user-model|https://thinkster.io/tutorials/node-json-api/creating-the-user-model>",
+    "user": "U02DX5BFPPS",
+    "ts": "1631581944.000200",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "Creating the User Model - Thinkster",
+        "title_link": "https://thinkster.io/tutorials/node-json-api/creating-the-user-model",
+        "text": "Learn how to use Mongoose to store and validate user data in MongoDB.",
+        "fallback": "Creating the User Model - Thinkster",
+        "thumb_url": "http://thinkster.io/assets/icon-b5f9e5bd1767dfe0b6f6d19df5f5ff3764aaf28bace674d55621163e2a92165c.png",
+        "from_url": "https://thinkster.io/tutorials/node-json-api/creating-the-user-model",
+        "thumb_width": 144,
+        "thumb_height": 144,
+        "service_icon": "https://thinkster.io/assets/icon-b5f9e5bd1767dfe0b6f6d19df5f5ff3764aaf28bace674d55621163e2a92165c.png",
+        "service_name": "thinkster.io",
+        "id": 1,
+        "original_url": "https://thinkster.io/tutorials/node-json-api/creating-the-user-model"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g3S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://thinkster.io/tutorials/node-json-api/creating-the-user-model",
+                "text": "https://thinkster.io/tutorials/node-json-api/creating-the-user-model"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3a988ac8-2216-4e74-9e2f-35690b389280",
+    "type": "message",
+    "text": "<https://slab.com/library/user-manuals/>",
+    "user": "U02DX5BFPPS",
+    "ts": "1631414926.000200",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "User Manuals - Slab Library",
+        "title_link": "https://slab.com/library/user-manuals/",
+        "text": "Discover why our easy creation, organization, and numerous integrations, make us so popular with non-technical and tech-savvy teams alike.",
+        "fallback": "User Manuals - Slab Library",
+        "image_url": "https://slab.com/static/og-75caecf71c9848ad68564f7dc27a6ff5.jpg",
+        "image_width": 500,
+        "image_height": 250,
+        "from_url": "https://slab.com/library/user-manuals/",
+        "image_bytes": 147019,
+        "service_name": "slab.com",
+        "id": 1,
+        "original_url": "https://slab.com/library/user-manuals/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IhL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://slab.com/library/user-manuals/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b9059c69-9433-4a89-b876-090808d2a33c",
+    "type": "message",
+    "text": "<https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/|https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/>",
+    "user": "U02DX5BFPPS",
+    "ts": "1631370930.000200",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Bloomfire",
+        "title": "The Ultimate Guide to a Modern Knowledge Management Strategy | Bloomfire",
+        "title_link": "https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/",
+        "text": "Explore this in-depth guide to learn how your organization can gain a strategic advantage with modern knowledge management strategies.",
+        "fallback": "Bloomfire: The Ultimate Guide to a Modern Knowledge Management Strategy | Bloomfire",
+        "from_url": "https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/",
+        "service_icon": "https://i0.wp.com/bloomfire.com/wp-content/uploads/2021/08/cropped-favicon2020-32x32-1-180x180.png",
+        "id": 1,
+        "original_url": "https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fo+kh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/",
+                "text": "https://bloomfire.com/the-ultimate-guide-to-a-modern-knowledge-management-strategy/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "91f4e0b3-c92b-460d-b037-f88073a00a2b",
+    "type": "message",
+    "text": "Apply for team mentor\n<https://forms.gle/PaEidULx5N5rhgJU6>",
+    "user": "U02DX5BFPPS",
+    "ts": "1631273066.000200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631273129.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5pHQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Apply for team mentor\n"
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/PaEidULx5N5rhgJU6"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a672d2d4-a788-48af-8590-53aaa78fe789",
+    "type": "message",
+    "text": "Ask team size limit",
+    "user": "U02DX5BFPPS",
+    "ts": "1630676282.000900",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1630676292.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ng5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ask team size limit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "85d4446e-0dd2-43b2-911f-2372ffdbe73b",
+    "type": "message",
+    "text": "Configure GitHub repository",
+    "user": "U02DX5BFPPS",
+    "ts": "1630676276.000700",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1630676300.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0EOyu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Configure GitHub repository"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "859f2971-cb21-4010-986b-731a58144cc4",
+    "type": "message",
+    "text": "Configure Notion Bot",
+    "user": "U02DX5BFPPS",
+    "ts": "1630676262.000200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1630676266.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "liV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Configure Notion Bot"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

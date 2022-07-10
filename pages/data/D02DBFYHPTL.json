@@ -1,0 +1,3971 @@
+[
+  {
+    "client_msg_id": "aa05b320-9f24-43ae-a965-d8767a93d0f7",
+    "type": "message",
+    "text": "예를들면 CERT 서랍을 보고있으면 `CERT - Handover` 이런식으로요 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1634706037.005100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OUvN/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "예를들면 CERT 서랍을 보고있으면 "
+              },
+              {
+                "type": "text",
+                "text": "CERT - Handover",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 이런식으로요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "272808da-7c4a-4f2c-8cc8-ad3c1f73965f",
+    "type": "message",
+    "text": "지금 페이지 title 이 다 Handover 인데, 이걸 responsive 하게 바꿔주실 수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1634706019.004600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "57rIs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 페이지 title 이 다 Handover 인데, 이걸 responsive 하게 바꿔주실 수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "04db20d7-1a44-4963-93a3-621b83308417",
+    "type": "message",
+    "text": "넵 홈페이지도 마무리 지어서 잠시 소강상태입니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1634705977.003900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1OT98",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 홈페이지도 마무리 지어서 잠시 소강상태입니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "11d620e9-0c17-48cf-a94d-3452dbc1039f",
+    "type": "message",
+    "text": "음 지금 작업할게 없으신가요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634705942.003300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V74hN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 지금 작업할게 없으신가요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a1f567cd-8f97-492f-b4eb-6a983992476c",
+    "type": "message",
+    "text": "추가적으로 도움 필요하신 부분 있나요!",
+    "user": "U02DHN1UBHA",
+    "ts": "1634705919.002900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Sw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "추가적으로 도움 필요하신 부분 있나요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "97a5d9b8-8b46-4bba-b5d7-0c4f16dbeb07",
+    "type": "message",
+    "text": "음 recommend API 가 있던걸로 기억하는데.. 일단은 itemCache 에 있는걸 걍 다 보여줘도 될 것 같아요 ㅎㅎㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1634700002.002000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iXudr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 recommend API 가 있던걸로 기억하는데.. 일단은 itemCache 에 있는걸 걍 다 보여줘도 될 것 같아요 ㅎㅎㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7162cb4c-80bb-4a64-a2e5-a800818fa7a8",
+    "type": "message",
+    "text": "user item들만 보여주면 되겠죠? (recommend 기능이 없으므로)",
+    "user": "U02DHN1UBHA",
+    "ts": "1634699970.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NIej",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "user item들만 보여주면 되겠죠? (recommend 기능이 없으므로)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ea99b34e-e4ab-488c-9e98-8f2a4e8895a0",
+    "type": "message",
+    "text": "네넵 search page 랑 유사하게 작업해주세요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634699947.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DoI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네넵 search page 랑 유사하게 작업해주세요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e6bf3428-9349-4c72-950c-7c911eee82c2",
+    "type": "message",
+    "text": "나단님, recommend page 작업하고 있으면 될까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1634699923.000500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B=l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "나단님, recommend page 작업하고 있으면 될까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "65ada16f-79da-4011-b1e0-a33c28c66aa5",
+    "type": "message",
+    "text": "넵 알겠습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1634459314.008800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Yc5Xy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 알겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e2dfaf3f-13ba-478a-b9e9-1197f8017be9",
+    "type": "message",
+    "text": "음 랜딩페이지에서만 사용되는 폰트일 것 같은데, 일단 기본 폰트로 놔두고 나중에 필요하면 PNG 로 집어넣으면 될 것 같습니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1634459287.008500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y1Ca",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 랜딩페이지에서만 사용되는 폰트일 것 같은데, 일단 기본 폰트로 놔두고 나중에 필요하면 PNG 로 집어넣으면 될 것 같습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "87bd67ea-8da7-4dea-8b16-06e93e3e5ea9",
+    "type": "message",
+    "text": "랜딩페이지는 폰트가 BM HANNA여서 다른 페이지들과 적용되는 폰트가 다릅니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1634459245.007500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2wE3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "랜딩페이지는 폰트가 BM HANNA여서 다른 페이지들과 적용되는 폰트가 다릅니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "951efbed-d472-4ba6-8c87-3413d252d2ca",
+    "type": "message",
+    "text": "사이트 전체 폰트를 Google Fonts 등을 사용해서 적용할 생각이었는데 랜딩페이지에 다른 폰트가 필요한가요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1634459170.006800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J21Oi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "사이트 전체 폰트를 Google Fonts 등을 사용해서 적용할 생각이었는데 랜딩페이지에 다른 폰트가 필요한가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "91f6f518-893e-4211-958a-20299b882c99",
+    "type": "message",
+    "text": "```&lt;Typography sx={{\n        fontFamily: 'BM HANNA',\n        fontStyle: 'normal',\n        fontWeight: '400',\n        fontSize: '40px',\n        marginBottom: '50px',\n      }}```",
+    "user": "U02DHN1UBHA",
+    "ts": "1634459167.006600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pVX",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "<Typography sx={{\n        fontFamily: 'BM HANNA',\n        fontStyle: 'normal',\n        fontWeight: '400',\n        fontSize: '40px',\n        marginBottom: '50px',\n      }}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dbe70c0b-568c-42ff-99fc-998f3dba1b8b",
+    "type": "message",
+    "text": "음.... 어떤 부분인지 보여주실 수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1634459139.005900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1mly",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음.... 어떤 부분인지 보여주실 수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5b887532-ac66-41c4-8ffa-ad893066e235",
+    "type": "message",
+    "text": "나단님, 혹시 폰트 적용을 어떻게 해야 하는지 알 수 있을까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1634459101.005400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=qtV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "나단님, 혹시 폰트 적용을 어떻게 해야 하는지 알 수 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bfaba98c-b14d-4eff-9f15-9f763a953534",
+    "type": "message",
+    "text": "WelcomPage 먼저 작업해주실 수 있나요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634458130.004300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5KWF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "WelcomPage 먼저 작업해주실 수 있나요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "48bd20dd-c4b5-47a4-a492-9db5da6b9834",
+    "type": "message",
+    "text": "search 부분 작업하고 있어도 될까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1634457975.002300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WjNX1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "search 부분 작업하고 있어도 될까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9a6c8bec-142c-484d-8fbc-bf7359fdeabf",
+    "type": "message",
+    "text": "우선 발표자료에서 자기소개부분 추가 부탁드려요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634457724.001800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lkSf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "우선 발표자료에서 자기소개부분 추가 부탁드려요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d1409108-7b8a-4795-825c-8ae7b6376e51",
+    "type": "message",
+    "text": "도움 필요하신 부분 말씀해주시면 바로 작업 진행하겠스빈다",
+    "user": "U02DHN1UBHA",
+    "ts": "1634457688.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GIWNm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "도움 필요하신 부분 말씀해주시면 바로 작업 진행하겠스빈다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1b7e8a41-d7fc-4ce7-a085-de14a33724bd",
+    "type": "message",
+    "text": "나단님, 방금 피드백이 끝나서 이제 참여 가능합니다.",
+    "user": "U02DHN1UBHA",
+    "ts": "1634457671.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WNA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "나단님, 방금 피드백이 끝나서 이제 참여 가능합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e0c70a2f-6f6c-4cea-9b3e-1a2834b4b45b",
+    "type": "message",
+    "text": "로그아웃 문제는 fix했습니다(알고보니 routingpage에 useEffect dependency를 추가안했던것...)",
+    "user": "U02DHN1UBHA",
+    "ts": "1634293996.001000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GYk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "로그아웃 문제는 fix했습니다(알고보니 routingpage에 useEffect dependency를 추가안했던것...)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "748bdcb8-4150-45bb-bc0c-62c8ec650d46",
+    "type": "message",
+    "text": "오류를 보니까 group 을 가져오려고 시도하는데 로그인이 안된 상태라 403이 뜨고, 거기에서 넘어가질 않아서 redirect 가 안되는 것 같습니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1634283816.002700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xs+S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오류를 보니까 group 을 가져오려고 시도하는데 로그인이 안된 상태라 403이 뜨고, 거기에서 넘어가질 않아서 redirect 가 안되는 것 같습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "17040188-6096-4344-9639-096763959093",
+    "type": "message",
+    "text": "아하아하 알겠습니다 저녁 먹고 확인해보겠습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1634283815.002600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3NiR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아하아하 알겠습니다 저녁 먹고 확인해보겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fdb53b02-d0ad-4afb-abbb-0832ceb2b25d",
+    "type": "message",
+    "text": "/login 페이지로 redirect 가 안되는 오류입니다. admin 계정에서는 정상적으로 되는데, ntcho 계정에서는 이런 오류가 나더라구요 :sweat:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634283760.001200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1634283768.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vPgcK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "/login 페이지로 redirect 가 안되는 오류입니다. admin 계정에서는 정상적으로 되는데, ntcho 계정에서는 이런 오류가 나더라구요 "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "unicode": "1f613"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1E704B1F-AD9B-4EEF-B730-3C8B778A3830",
+    "type": "message",
+    "text": "어떤 오류인가요??",
+    "user": "U02DHN1UBHA",
+    "ts": "1634283691.000600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K/rF=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "어떤 오류인가요??"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02J95BP2Q1",
+        "created": 1634283678,
+        "timestamp": 1634283678,
+        "name": "Image from iOS.png",
+        "title": "Image from iOS",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DHN1UBHA",
+        "editable": false,
+        "size": 299864,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": false,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J95BP2Q1/image_from_ios.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J95BP2Q1/download/image_from_ios.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_360.png",
+        "thumb_360_w": 202,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_480.png",
+        "thumb_480_w": 270,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_720.png",
+        "thumb_720_w": 405,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_800.png",
+        "thumb_800_w": 450,
+        "thumb_800_h": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_960.png",
+        "thumb_960_w": 540,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J95BP2Q1-bf862a7b04/image_from_ios_1024.png",
+        "thumb_1024_w": 576,
+        "thumb_1024_h": 1024,
+        "image_exif_rotation": 1,
+        "original_w": 750,
+        "original_h": 1334,
+        "thumb_tiny": "AwAwABqgGJ6gkUu7A+6fzpgH+zmjH+yfzoAXeOwIpN1BB64IFNoAl2x4GM5700qPSngnjpSjd7UAR4HpRgU85/vY/GmnrQAZxjBo3H1pdq0bE9aAE3H1pM07YvrSbRQB/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DHN1UBHA/F02J95BP2Q1/image_from_ios.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J95BP2Q1-9323e5e5a4",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": true,
+    "user": "U02DHN1UBHA",
+    "display_as_bot": false,
+    "ts": "1634283682.000200",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U0wl",
+        "elements": []
+      }
+    ],
+    "client_msg_id": "A7A413E7-3B6F-41A1-99A9-778861524A8F"
+  },
+  {
+    "client_msg_id": "ffd856a5-1482-4987-a652-35b6d3f97cad",
+    "type": "message",
+    "text": "삭제가 되었기 때문에 더이상 표시할 필요가 없는 component 니까요 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959627.010300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IHH7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "삭제가 되었기 때문에 더이상 표시할 필요가 없는 component 니까요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8ed3a39e-b4a6-4591-8ca4-d9f25582b568",
+    "type": "message",
+    "text": "넵넵 알겠습니다!",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959619.010100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dYUfR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵넵 알겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "32ca8f8b-547d-4fb3-8741-6fc9c5542531",
+    "type": "message",
+    "text": "그렇게 처리해주셔도 될 거같아요",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959613.009700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wa3MW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그렇게 처리해주셔도 될 거같아요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ba808308-f651-4242-8eec-78d836b8a49c",
+    "type": "message",
+    "text": "이런식으로 아예 null 을 리턴해버리면 리액트에서 렌더링을 안해서",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959608.009400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y+jg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이런식으로 아예 null 을 리턴해버리면 리액트에서 렌더링을 안해서"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c354e4ee-2fd5-4398-aff2-3f09e49ebc87",
+    "type": "message",
+    "text": "넵넵 알겠습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959604.009300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cmAf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵넵 알겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9830000a-022c-4169-853d-54a6a70e71f4",
+    "type": "message",
+    "text": "아 만약그게 undefined면 밑에 코드들을 실행하지 않도록 한다는 말씀이시죠",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959598.008900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cCe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아 만약그게 undefined면 밑에 코드들을 실행하지 않도록 한다는 말씀이시죠"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "44b1917a-801c-436e-aad2-829d4d154871",
+    "type": "message",
+    "text": "```return isNull ? null : &lt;div .../&gt;;```",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959590.008400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S5BNy",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "return isNull ? null : <div .../>;"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a5437279-a55c-406f-9066-700f1ecb750b",
+    "type": "message",
+    "text": "boolean 값으로 찾은다음에 예를들면",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959554.007200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bL5mX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "boolean 값으로 찾은다음에 예를들면"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "92fedc52-0b81-4d40-bd78-949541d0b3c8",
+    "type": "message",
+    "text": "음 그러면 렌더링이 오류가 나는 state를 찾아서",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959544.006900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pvod",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 그러면 렌더링이 오류가 나는 state를 찾아서"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a02f9731-d722-41f4-81d0-2f84f14ab2a0",
+    "type": "message",
+    "text": "item을 지워서 Id가 사라져서 렌더링이 더이상 안됩니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959486.006400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4bX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "item을 지워서 Id가 사라져서 렌더링이 더이상 안됩니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7abb84b6-48db-4f5a-8bf1-a1bfb1cb66b8",
+    "type": "message",
+    "text": "네네",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959482.006200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Oeq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네네"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6a6c8d09-c8b9-4b52-b8ac-e580d4e41a37",
+    "type": "message",
+    "text": "Card({Id}) 로 렌더링을 하게 되는데",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959470.005600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fCLk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Card({Id}) 로 렌더링을 하게 되는데"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a4bcc39b-41c1-425c-9985-926711fb142d",
+    "type": "message",
+    "text": "왜 props 가 undefined 가 되나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959450.004900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PcYB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "왜 props 가 undefined 가 되나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "560c1785-1be9-40ab-ad46-e9a0cf394eeb",
+    "type": "message",
+    "text": "네 어떻게 하는게 좋을까요",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959437.004300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UOT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네 어떻게 하는게 좋을까요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f092d918-17bf-4153-85bd-efb943b6bb37",
+    "type": "message",
+    "text": "음 네네",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959428.004000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WiM70",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 네네"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b8b3e9c7-779a-45b2-a398-ce22d0107532",
+    "type": "message",
+    "text": "최대한 delete 함수를 card component 안에서 해결하고 싶은데",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959405.003600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NXt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "최대한 delete 함수를 card component 안에서 해결하고 싶은데"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b8a7e59f-eeae-4dbd-ad09-3aaf292c9909",
+    "type": "message",
+    "text": "api 요청까지는 잘 되는데, api 요청을 하고 나면 Card component의 props가 unidentified가 되면서 에러가 납니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959362.002600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LRla",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "api 요청까지는 잘 되는데, api 요청을 하고 나면 Card component의 props가 unidentified가 되면서 에러가 납니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7a333409-de4a-49de-93d3-9b58bb5ff279",
+    "type": "message",
+    "text": "제가 지금 card delete를 짜고 있는데",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959289.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IlE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 지금 card delete를 짜고 있는데"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "98dac6b7-01a9-4d6a-861a-f8792f5fa7b4",
+    "type": "message",
+    "text": "네넵",
+    "user": "U02DX5BFPPS",
+    "ts": "1633959282.000500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ylGE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네넵"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0fbb50c8-31e7-481d-953b-563ad5ee5f00",
+    "type": "message",
+    "text": "나단님! 질문 하남나 드려도 될까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1633959274.000300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xUoj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "나단님! 질문 하남나 드려도 될까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3edbc7d8-cc61-4e2c-8809-2fbbfe0211db",
+    "type": "message",
+    "text": "넵넵 감사합니다!",
+    "user": "U02DHN1UBHA",
+    "ts": "1633307169.021700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RmK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵넵 감사합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5f5c06d8-e5c8-484e-ad80-940ebb92acca",
+    "type": "message",
+    "text": "넵 일단 여기까지 하고 더 궁금한거 있으시면 언제든지 알려주세요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633307160.021500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "stdZM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 일단 여기까지 하고 더 궁금한거 있으시면 언제든지 알려주세요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3d36edfa-575a-44a3-bb32-33ac25ca61ed",
+    "type": "message",
+    "text": "좋은 정보 감사합니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633307139.021000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zbW=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "좋은 정보 감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "02e6e74a-629d-4228-adaf-3b76e6a79234",
+    "type": "message",
+    "text": "그 Source Control 창 밑에 여러개 탭이 추가된게 그 extension 입니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633307110.020700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y=91V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그 Source Control 창 밑에 여러개 탭이 추가된게 그 extension 입니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "74065990-4c96-49b2-a62f-2568336755d8",
+    "type": "message",
+    "text": "그리고 방금 설치한 Git Lens 도 설치해두시면 commit 별로 뭐가 바뀌었는지 편하게 볼 수 있으니 참고하시면 편할겁니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633307078.020200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ueo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그리고 방금 설치한 Git Lens 도 설치해두시면 commit 별로 뭐가 바뀌었는지 편하게 볼 수 있으니 참고하시면 편할겁니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "804e6359-de87-4838-847f-3a3e371b74d2",
+    "type": "message",
+    "text": "감사합니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633307066.019800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SYAW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "65cd514c-e579-47dd-b13e-f3cfe442c462",
+    "type": "message",
+    "text": "그리고 다른분들이 작업하시던거도 바로바로 볼 수 있구요",
+    "user": "U02DX5BFPPS",
+    "ts": "1633307038.019300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j2A6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그리고 다른분들이 작업하시던거도 바로바로 볼 수 있구요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e931eaaa-40bb-4eae-af22-03e9a42ba8d9",
+    "type": "message",
+    "text": "push 하기 전에 한번씩 눌러주시면 나중에 merge 로 일어나는 사고를 예방할 수 있습니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633307027.019000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2=Uc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "push 하기 전에 한번씩 눌러주시면 나중에 merge 로 일어나는 사고를 예방할 수 있습니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9b58f2a6-c155-4622-900a-df102627aa77",
+    "type": "message",
+    "text": "현재 branch 에서 마지막으로 수정된 파일들을 불러올 수 있어서",
+    "user": "U02DX5BFPPS",
+    "ts": "1633307006.018500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iIm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "현재 branch 에서 마지막으로 수정된 파일들을 불러올 수 있어서"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "00cdc895-d899-4e35-9622-e2347af87b4a",
+    "type": "message",
+    "text": "왼쪽 밑에 있는 새로고침 아이콘을 클릭하시면",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306997.018200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4x9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "왼쪽 밑에 있는 새로고침 아이콘을 클릭하시면"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "be8279e9-b82e-428b-a359-0be970626745",
+    "type": "message",
+    "text": "몇가지 팁 드릴게요! 화면 공유 해주실수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306921.017800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cZ2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "몇가지 팁 드릴게요! 화면 공유 해주실수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "36ab797c-17f5-4e9f-af79-d8d124049862",
+    "type": "message",
+    "text": "그 git 사용하실때",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306911.017400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zqei",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그 git 사용하실때"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "80687352-b674-40da-a0b3-67559ecbd65a",
+    "type": "message",
+    "text": "`docker exec -it back npm install`",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306905.017200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BEXkh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker exec -it back npm install",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "caaae51f-6b5d-4fc3-85c0-ffb37325a95a",
+    "type": "message",
+    "text": "와우 감사합니다....",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306888.016900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cy1r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "와우 감사합니다...."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b79ba7ba-6dd8-4bac-85fa-519b72023edb",
+    "type": "message",
+    "text": "<https://www.notion.so/osam-handover/00807e3b037e43d1bcff54d2c6b591f1>",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306854.016600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ETtMe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/osam-handover/00807e3b037e43d1bcff54d2c6b591f1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "87f304cb-197c-4d98-a347-6f985472c12c",
+    "type": "message",
+    "text": "한번 다시 입력해주실수있ㅇ르까요",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306835.016400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D12+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "한번 다시 입력해주실수있ㅇ르까요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "809292d1-2f01-4de0-8555-d7efe1df07cf",
+    "type": "message",
+    "text": "혹시 그 docker에서 dependency 다시 깔 때 사용했던 명령어",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306828.016100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aTw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 그 docker에서 dependency 다시 깔 때 사용했던 명령어"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "68cc039f-47d9-4b8d-9f65-ba34502a28ef",
+    "type": "message",
+    "text": "앗 넵 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306809.015500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ERu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "앗 넵 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7112792f-e795-4c4a-9352-29e7dccc8ae4",
+    "type": "message",
+    "text": "상관없습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306793.015100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NHV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "상관없습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d73631ce-77bb-4941-809a-5a1b43c07689",
+    "type": "message",
+    "text": "아 커밋 안했던 그냥 이름 한두개 바꾼거가 날아간거라",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306787.014700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pNTh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아 커밋 안했던 그냥 이름 한두개 바꾼거가 날아간거라"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "04c3aaf5-731d-4b43-bc50-587c9950f53d",
+    "type": "message",
+    "text": "엇 마지막으로 작업한게 날라간건가요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306763.014100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pMlGh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "엇 마지막으로 작업한게 날라간건가요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d191b5cd-781e-46a1-9813-cc7c4efd144e",
+    "type": "message",
+    "text": "진짜 조금 수정한 부분들 몇개 날아간거 말고는 넵넵",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306762.014000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t+0tn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "진짜 조금 수정한 부분들 몇개 날아간거 말고는 넵넵"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3986bc1c-d33c-4a30-ac5f-a11b08ff3f37",
+    "type": "message",
+    "text": "거의 다 남아 있습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306749.013500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vnt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "거의 다 남아 있습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a913ac41-0089-4301-ad46-c1aa7ea9f760",
+    "type": "message",
+    "text": "앗 죄송합니다 ㅠㅠ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306744.013300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lmn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "앗 죄송합니다 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "63a34d3e-326d-43c9-8270-7716ebf2ead3",
+    "type": "message",
+    "text": "아 목소리 들리시는줄 알았습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306740.012900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YjF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아 목소리 들리시는줄 알았습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "99465f19-eab5-4e6e-9f25-9f9667c4a92b",
+    "type": "message",
+    "text": "지금 수정해주신거 날라간건가요 아니면 그대로 있나요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306647.012400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "naW4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 수정해주신거 날라간건가요 아니면 그대로 있나요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "question",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2cfd117a-f63a-4140-814d-6a7251771904",
+    "type": "message",
+    "text": "보여주실 수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306598.012100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jVa3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "보여주실 수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b56cd941-0733-4c62-ae12-13c963b65513",
+    "type": "message",
+    "text": "혹시 작업하시던 파일이 어떤건가요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306589.011900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uqiw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 작업하시던 파일이 어떤건가요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fd5e1301-f046-4cf9-849f-42a4f3bc48c1",
+    "type": "message",
+    "text": "오 넵",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306372.011600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pkz0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오 넵"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d6ef3ccc-c2b2-482b-a3ca-37fa6f54ce4d",
+    "type": "message",
+    "text": "넵",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306369.011400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PRyg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dae39e9c-5095-4e7d-918a-0466d360bbae",
+    "type": "message",
+    "text": "오른쪽 위에 채팅창인가요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306349.011000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "95lIY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오른쪽 위에 채팅창인가요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2cec7073-5d4c-4521-9c47-4979413b7d44",
+    "type": "message",
+    "text": "최대한 숨겨주시면 감사하겠습니다 ㅋㅋㅋㅋ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306338.010800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Be",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "최대한 숨겨주시면 감사하겠습니다 ㅋㅋㅋㅋ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "14ae7596-8f8b-4a17-a774-ee0602138328",
+    "type": "message",
+    "text": "여기서 그 창 뒤에 있는게 안보여서",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306329.010600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rhQg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "여기서 그 창 뒤에 있는게 안보여서"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ea0eb676-e70b-49a5-89b1-10c6373f9343",
+    "type": "message",
+    "text": "아닙니다 ㅎㅎ 한번 봐드릴게용",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306280.010100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UNFvD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아닙니다 ㅎㅎ 한번 봐드릴게용"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d3c17cf4-bf11-480a-a02d-3da36d12035d",
+    "type": "message",
+    "text": "아이고..죄송합니다 git이 익숙치가 않네요 ㅠㅜ",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306270.009900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jy5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아이고..죄송합니다 git이 익숙치가 않네요 ㅠㅜ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b995d2ff-cb9e-42ee-85dc-bea158dd2475",
+    "type": "message",
+    "text": "지금 merge 가 거꾸로 된것 같습니다 ㅠㅠ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306253.009400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X/H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 merge 가 거꾸로 된것 같습니다 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8af10b39-59cb-4879-a4a4-97a4e8cd3bb0",
+    "type": "message",
+    "text": "근데 merge 하고 나서부터 막혀서...",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306249.009300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JZG4Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "근데 merge 하고 나서부터 막혀서..."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b35f72ec-0c82-46c6-bce2-e5ef979adab4",
+    "type": "message",
+    "text": "아 원래는 로그인 하고 나서 안에 element들 클릭하면 다 찾아서 불러오도록 하는거 다듬고 있었습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633306235.008800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sixd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아 원래는 로그인 하고 나서 안에 element들 클릭하면 다 찾아서 불러오도록 하는거 다듬고 있었습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "14995c12-ffb1-4533-8303-662f5d0e0773",
+    "type": "message",
+    "text": "지금 브랜치에서 어떤거 작업하고 계셨나요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633306194.008000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Kn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 브랜치에서 어떤거 작업하고 계셨나요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "814b2d13-4a88-4ea0-9f69-4f7857dfa00d",
+    "type": "message",
+    "text": "음 서버 오류 500이 나옵니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633305894.007600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ylyu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 서버 오류 500이 나옵니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "714fb66c-b6d5-4ca9-adeb-b4f0452cd1e3",
+    "type": "message",
+    "text": "지금 /login 에서 initDB 회원가입 데이터로 테스트 해보실래요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633305831.007200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DfnM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 /login 에서 initDB 회원가입 데이터로 테스트 해보실래요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a613dfb6-6cb8-4acd-aa82-8dc9f54aeaa0",
+    "type": "message",
+    "text": "로그인 되면 안에 initDB 수정해서 작업하려고 했고요",
+    "user": "U02DHN1UBHA",
+    "ts": "1633305817.006900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tr+s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "로그인 되면 안에 initDB 수정해서 작업하려고 했고요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bf7490b8-47c4-4258-b3c2-f032bb5dd892",
+    "type": "message",
+    "text": "&gt;  root에서 npm install swagger-ui-express를 해서 설치가 됨에도 계속 모듈을 찾을 수 없다고 나옵니다\n지금 node_modules 가 Docker container 안에 있는 폴더라, docker 에 접속을 하셔서 npm install 을 해주셔야 됩니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1633305815.006600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yX5",
+        "elements": [
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": " root에서 npm install swagger-ui-express를 해서 설치가 됨에도 계속 모듈을 찾을 수 없다고 나옵니다"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 node_modules 가 Docker container 안에 있는 폴더라, docker 에 접속을 하셔서 npm install 을 해주셔야 됩니다."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a2193954-2b67-4a9b-a9d6-c061deb6abce",
+    "type": "message",
+    "text": "원래는 mock server에 요청보내는 거라 프론트만 빌드하고 했었고 merge 한 이후로부터는 전체 빌드하고 /login에 들어가서 로그인 시도하고 있었습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633305785.005800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1vO41",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "원래는 mock server에 요청보내는 거라 프론트만 빌드하고 했었고 merge 한 이후로부터는 전체 빌드하고 /login에 들어가서 로그인 시도하고 있었습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "36675ece-22dd-4407-8341-8af44067f7fa",
+    "type": "message",
+    "text": "지금 테스트는 어떻게 하고 계신가요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633305721.004400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rqT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 테스트는 어떻게 하고 계신가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b5be1138-c811-40df-94a1-eacdc0c52060",
+    "type": "message",
+    "text": "아 넵 들어와 있습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633305386.003900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DKqb4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아 넵 들어와 있습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "11014a7d-46c6-4aa5-b8f8-4776f83b7b89",
+    "type": "message",
+    "text": "```Attaching to back, db, front, nginx\nback   | \nback   | &gt; backend@0.0.1 start /app/backend\nback   | &gt; nodemon --watch . app.js\nback   | \nback   | [nodemon] 2.0.13\nback   | [nodemon] to restart at any time, enter `rs`\nback   | [nodemon] watching path(s): *.*\nback   | [nodemon] watching extensions: js,mjs,json\nback   | [nodemon] starting `node app.js`\nback   | internal/modules/cjs/loader.js:892\nback   |   throw err;\nback   |   ^\nback   | \nback   | Error: Cannot find module 'swagger-ui-express'\nback   | Require stack:\nback   | - /app/backend/swagger.js\nback   | - /app/backend/app.js\nback   |     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)\nback   |     at Function.Module._load (internal/modules/cjs/loader.js:745:27)\nback   |     at Module.require (internal/modules/cjs/loader.js:961:19)\nback   |     at require (internal/modules/cjs/helpers.js:92:18)\nback   |     at Object.&lt;anonymous&gt; (/app/backend/swagger.js:1:19)\nback   |     at Module._compile (internal/modules/cjs/loader.js:1072:14)\nback   |     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\nback   |     at Module.load (internal/modules/cjs/loader.js:937:32)\nback   |     at Function.Module._load (internal/modules/cjs/loader.js:778:12)\nback   |     at Module.require (internal/modules/cjs/loader.js:961:19) {\nback   |   code: 'MODULE_NOT_FOUND',\nback   |   requireStack: [ '/app/backend/swagger.js', '/app/backend/app.js' ]\nback   | }\nback   | [nodemon] app crashed - waiting for file changes before starting...```\n이건 제 로컬 브랜치에 initDB hotfix랑 등등 merge 하고 나서 npm run dev를 실행했을 떄 발생하는 오류입니다. root에서 npm install swagger-ui-express를 해서 설치가 됨에도 계속 모듈을 찾을 수 없다고 나옵니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1633305381.003700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wzts5",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Attaching to back, db, front, nginx\nback   | \nback   | > backend@0.0.1 start /app/backend\nback   | > nodemon --watch . app.js\nback   | \nback   | [nodemon] 2.0.13\nback   | [nodemon] to restart at any time, enter `rs`\nback   | [nodemon] watching path(s): *.*\nback   | [nodemon] watching extensions: js,mjs,json\nback   | [nodemon] starting `node app.js`\nback   | internal/modules/cjs/loader.js:892\nback   |   throw err;\nback   |   ^\nback   | \nback   | Error: Cannot find module 'swagger-ui-express'\nback   | Require stack:\nback   | - /app/backend/swagger.js\nback   | - /app/backend/app.js\nback   |     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)\nback   |     at Function.Module._load (internal/modules/cjs/loader.js:745:27)\nback   |     at Module.require (internal/modules/cjs/loader.js:961:19)\nback   |     at require (internal/modules/cjs/helpers.js:92:18)\nback   |     at Object.<anonymous> (/app/backend/swagger.js:1:19)\nback   |     at Module._compile (internal/modules/cjs/loader.js:1072:14)\nback   |     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\nback   |     at Module.load (internal/modules/cjs/loader.js:937:32)\nback   |     at Function.Module._load (internal/modules/cjs/loader.js:778:12)\nback   |     at Module.require (internal/modules/cjs/loader.js:961:19) {\nback   |   code: 'MODULE_NOT_FOUND',\nback   |   requireStack: [ '/app/backend/swagger.js', '/app/backend/app.js' ]\nback   | }\nback   | [nodemon] app crashed - waiting for file changes before starting..."
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이건 제 로컬 브랜치에 initDB hotfix랑 등등 merge 하고 나서 npm run dev를 실행했을 떄 발생하는 오류입니다. root에서 npm install swagger-ui-express를 해서 설치가 됨에도 계속 모듈을 찾을 수 없다고 나옵니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d5e24d22-a37e-4a52-9747-2f235b0fb6aa",
+    "type": "message",
+    "text": "지금 가능합니다! 줌으로 들어오실래요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633305373.003500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KqjF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 가능합니다! 줌으로 들어오실래요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d5d2584b-5cde-4ef8-bca9-c5069b9f4988",
+    "type": "message",
+    "text": "좀 있다가 가능한데 혹시 지금 먼저 어떤 오류가 나는지 보여주실 수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633305247.001900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a+g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "좀 있다가 가능한데 혹시 지금 먼저 어떤 오류가 나는지 보여주실 수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "90593644-3ed1-4d93-a5fd-4fa091db7130",
+    "type": "message",
+    "text": "넵",
+    "user": "U02DHN1UBHA",
+    "ts": "1633305179.001200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FWZNP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2fdd83af-8244-499e-ac2e-c7d9d610cdfb",
+    "type": "message",
+    "text": "PC 줌 설치 가능하신가요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1633305170.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Prk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "PC 줌 설치 가능하신가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fb53f166-a973-4b29-86a6-3b4594468bd6",
+    "type": "message",
+    "text": "지금 시간 되시나요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1633304755.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J1b/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 시간 되시나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "aa6e7b09-57f0-4bde-a62c-388d93374caa",
+    "type": "message",
+    "text": "줌으로 들어가겠습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1632492689.008400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q21gG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "줌으로 들어가겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "78e93d45-d049-4cb9-a5ac-4fc5faa5a13f",
+    "type": "message",
+    "text": "<https://bit.ly/osam-handover-zoom> 웹으로 들어오셔도 되고 아니면 슬랙 채팅으로 하셔도 됩니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1632492581.007800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qfzWB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-zoom"
+              },
+              {
+                "type": "text",
+                "text": " 웹으로 들어오셔도 되고 아니면 슬랙 채팅으로 하셔도 됩니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "748d88e5-73a0-42a4-a7a2-b65c5edf6838",
+    "type": "message",
+    "text": "음 그러면 webpack 이 build 가 제대로 안된 경우인데, 혹시 화면 공유해주실 수 있나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1632492473.007300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LM6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 그러면 webpack 이 build 가 제대로 안된 경우인데, 혹시 화면 공유해주실 수 있나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "df16cd36-e6a5-4653-9a53-92a4f594e4e1",
+    "type": "message",
+    "text": "docker-compoose up --build 를 하면 돌아가긴 하는데 왜인지 모르겠지만 frontend 파일의 수정사항이 반영이 되지 않습니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1632492420.006700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FwiI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker-compoose up --build 를 하면 돌아가긴 하는데 왜인지 모르겠지만 frontend 파일의 수정사항이 반영이 되지 않습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2feef6c2-3e15-4179-8041-cebb6bd0e9d6",
+    "type": "message",
+    "text": "아니면 저기에서 sudo npm install webpack 해보셔도 되구요",
+    "user": "U02DX5BFPPS",
+    "ts": "1632492156.005800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5eu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아니면 저기에서 sudo npm install webpack 해보셔도 되구요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "90ef5863-95c8-408a-bed5-efc640802d15",
+    "type": "message",
+    "text": "docker를 다시 build 하면 npm install 이 다시 실행되서 다시 설치될것 같은데..",
+    "user": "U02DX5BFPPS",
+    "ts": "1632492136.005400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kWKF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "docker를 다시 build 하면 npm install 이 다시 실행되서 다시 설치될것 같은데.."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9780a872-6f3f-491b-bbfd-fa198a51694d",
+    "type": "message",
+    "text": "음 혹시 `docker-compose down` 한 다음에 `docker-compose up --build` 해보셨나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1632492120.005000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QgfD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 혹시 "
+              },
+              {
+                "type": "text",
+                "text": "docker-compose down",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 한 다음에 "
+              },
+              {
+                "type": "text",
+                "text": "docker-compose up --build",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 해보셨나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e25ccda9-9945-4546-8dc1-ae6cfe9aa1e7",
+    "type": "message",
+    "text": "웹팩을 다운받으려고 하니 write acess 가 없다고 나와서...",
+    "user": "U02DHN1UBHA",
+    "ts": "1632492078.004400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BxDf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "웹팩을 다운받으려고 하니 write acess 가 없다고 나와서..."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02FRDW662G",
+        "created": 1632492059,
+        "timestamp": 1632492059,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DHN1UBHA",
+        "editable": false,
+        "size": 55785,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": false,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FRDW662G/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FRDW662G/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 193,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 258,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 387,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FRDW662G-d9c009ab74/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 430,
+        "original_w": 806,
+        "original_h": 433,
+        "thumb_tiny": "AwAZADCnuycYAxx9aTJ9qAcFqCfQ0AGT7UZPtRk+oo3H1FACbjQTmjcfWgknrQAq9T160v50i/fNO70AITj1pMj3p3eg/dNADCaSlNJQB//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DHN1UBHA/F02FRDW662G/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02FRDW662G-b11599a35f",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DHN1UBHA",
+    "display_as_bot": false,
+    "ts": "1632492062.003900",
+    "client_msg_id": "75cdcfc3-a52e-490d-bc39-5636cfffcff9"
+  },
+  {
+    "client_msg_id": "b053e643-3a29-4637-b7bc-c2e7b1e6a56e",
+    "type": "message",
+    "text": "아하 webpack 이 설치가 안되있다고 하네요",
+    "user": "U02DX5BFPPS",
+    "ts": "1632492061.003700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w3Vxx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아하 webpack 이 설치가 안되있다고 하네요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02FK7C55UK",
+        "created": 1632492029,
+        "timestamp": 1632492029,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DHN1UBHA",
+        "editable": false,
+        "size": 36866,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": false,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FK7C55UK/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FK7C55UK/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FK7C55UK-861469b9ef/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FK7C55UK-861469b9ef/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FK7C55UK-861469b9ef/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 150,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FK7C55UK-861469b9ef/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 200,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FK7C55UK-861469b9ef/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FK7C55UK-861469b9ef/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 300,
+        "original_w": 782,
+        "original_h": 326,
+        "thumb_tiny": "AwAUADCmPTv9aQ8f/roH3jQRz0H50AGaTNKR7frSYNABk+tJS4PpSUAOHXNL+ApKWmhB+ApOPQUtJQxoGAABptPb7oplID//2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02DHN1UBHA/F02FK7C55UK/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02FK7C55UK-cf0df6dd87",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DHN1UBHA",
+    "display_as_bot": false,
+    "ts": "1632492032.003200",
+    "client_msg_id": "55acebfe-1e54-4507-95de-3cc2c1b3c425"
+  },
+  {
+    "client_msg_id": "674730f8-cce7-4da7-9c2c-1ffa018f4dac",
+    "type": "message",
+    "text": "스크린샷으로 보내주셔도 됩니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1632491997.003100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "grq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "스크린샷으로 보내주셔도 됩니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dc2564d6-4d5e-4b85-bb6e-f57070c95900",
+    "type": "message",
+    "text": "엇... 어떤 에러가 나는지 알 수 있을까요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1632491901.002600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oCf9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "엇... 어떤 에러가 나는지 알 수 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "72ea6ab0-8c05-4185-b180-64ab9748ed99",
+    "type": "message",
+    "text": "제가 우혁씨가 만든 브랜치에서 수정 파일들을 합치고 있었는데 여기서 페이지 렌더링이 제대로 되는지 확인하려고 서버를 키려고 하는데 어떤 방법으로 하는지 잘 모르겠습니다...docker-compose up을 사용하니 페이지가 나오긴 나오는데 수정된 사항들이 반영이 되지 않고, npm run dev + npm run start는 에러가 납니다....혹시 어떤 식으로 서버를 키는지 알 수 있을까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1632491874.002200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4/N2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 우혁씨가 만든 브랜치에서 수정 파일들을 합치고 있었는데 여기서 페이지 렌더링이 제대로 되는지 확인하려고 서버를 키려고 하는데 어떤 방법으로 하는지 잘 모르겠습니다...docker-compose up을 사용하니 페이지가 나오긴 나오는데 수정된 사항들이 반영이 되지 않고, npm run dev + npm run start는 에러가 납니다....혹시 어떤 식으로 서버를 키는지 알 수 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "97482240-08ea-4b5f-bc5d-4988524bcd97",
+    "type": "message",
+    "text": "앗 넵!",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863299.011300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3nuk2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "앗 넵!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "40b62b56-e1db-4ce4-a710-1a6d8dce93a0",
+    "type": "message",
+    "text": "<#C02DDQ2ATFW|help> 채널에 에러 메시지 ``` 로 포맷해서 다시 올려주실 수 있나요? 다른분들도 같은 문제가 일어날 수 있으니 같이 공유하면 좋을 것 같네요 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631863244.010900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/rB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "channel",
+                "channel_id": "C02DDQ2ATFW"
+              },
+              {
+                "type": "text",
+                "text": " 채널에 에러 메시지 ``` 로 포맷해서 다시 올려주실 수 있나요? 다른분들도 같은 문제가 일어날 수 있으니 같이 공유하면 좋을 것 같네요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cece77fb-41bf-4d59-89a0-c4ffbdea9782",
+    "type": "message",
+    "text": "안됩니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863159.010100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9YVcu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안됩니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8f44cde7-5050-4300-bb84-83bf72769724",
+    "type": "message",
+    "text": "그 mongodb 플러그인에서 연결 되시나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1631863146.009900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fVBTJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그 mongodb 플러그인에서 연결 되시나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b8c3e5db-8f7b-44bb-afe1-92029be20afa",
+    "type": "message",
+    "text": "라고 뜹니다...",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863079.009600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e55p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "라고 뜹니다..."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1f42bf8d-cc68-4f0a-8acf-38fe1a8244a7",
+    "type": "message",
+    "text": "[nodemon] starting `node server/index.js`\nServer is listening on port 3000\n(node:24587) UnhandledPromiseRejectionWarning: MongooseError: Operation `counters.findOne()` buffering timed out after 10000ms\n    at Timeout.&lt;anonymous&gt; (/workspaces/Web_Handover_Handover/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(Use `node --trace-warnings ...` to show where the warning was created)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see <https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode>). (rejection id: 1)\n(node:24587) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.\nError connecting to database: connect ECONNREFUSED 127.0.0.1:27017\n(node:24587) UnhandledPromiseRejectionWarning: MongoTopologyClosedError: Topology is closed\n    at Topology.close (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:260:42)\n    at Object.callback (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:215:22)\n    at Timeout._onTimeout (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:326:33)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see <https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode>). (rejection id: 2)\n^C",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863065.009400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9IdS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[nodemon] starting `node server/index.js`\nServer is listening on port 3000\n(node:24587) UnhandledPromiseRejectionWarning: MongooseError: Operation `counters.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/workspaces/Web_Handover_Handover/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(Use `node --trace-warnings ...` to show where the warning was created)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see "
+              },
+              {
+                "type": "link",
+                "url": "https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode"
+              },
+              {
+                "type": "text",
+                "text": "). (rejection id: 1)\n(node:24587) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.\nError connecting to database: connect ECONNREFUSED 127.0.0.1:27017\n(node:24587) UnhandledPromiseRejectionWarning: MongoTopologyClosedError: Topology is closed\n    at Topology.close (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:260:42)\n    at Object.callback (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:215:22)\n    at Timeout._onTimeout (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:326:33)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see "
+              },
+              {
+                "type": "link",
+                "url": "https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode"
+              },
+              {
+                "type": "text",
+                "text": "). (rejection id: 2)\n^C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "54bc3925-f470-4ac5-92ee-0fa8ab3d28fc",
+    "type": "message",
+    "text": "혹시 에러 문구나 화면 스크린샷 보내주실 수 있나요?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1631863046.009200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZDeeY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 에러 문구나 화면 스크린샷 보내주실 수 있나요?!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "26e59478-106d-4283-a967-72fbf668a941",
+    "type": "message",
+    "text": "오... 제가 그렇게만 하니까 몽고db가 connection refused가 떠서",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863014.008600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W2qyu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오... 제가 그렇게만 하니까 몽고db가 connection refused가 떠서"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "010f511b-bc6c-4509-93bd-ebadc3a39c7c",
+    "type": "message",
+    "text": "brew 다 깔고 apt-get 도 해봤는데 그냥 npm install 만으로도 되더라구요",
+    "user": "U02DX5BFPPS",
+    "ts": "1631862998.008200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bFmF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "brew 다 깔고 apt-get 도 해봤는데 그냥 npm install 만으로도 되더라구요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0ceaa06e-2369-4259-a110-52b7003f9a86",
+    "type": "message",
+    "text": "넵! 제가 설정할때는 그렇게 했습니다",
+    "user": "U02DX5BFPPS",
+    "ts": "1631862979.007500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UCQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵! 제가 설정할때는 그렇게 했습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e866803d-b5b6-46c8-8663-5f0b473071fa",
+    "type": "message",
+    "text": "npm install하고 그럼 npm run dev + npm start 로만 가능한가요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1631862968.007000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kVIkc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "npm install하고 그럼 npm run dev + npm start 로만 가능한가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e209f955-ed68-46e0-af8d-ea5b115a2f76",
+    "type": "message",
+    "text": "mongodb 는 컨테이너에 기본적으로 설치되어있을겁니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631862959.006800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZzCz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mongodb 는 컨테이너에 기본적으로 설치되어있을겁니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "788c0097-8970-455f-984a-0700061095db",
+    "type": "message",
+    "text": "엇 아뇨! brew 안깔고 npm install 만 해주시면 가능할겁니다",
+    "user": "U02DX5BFPPS",
+    "ts": "1631862922.005900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WMd3S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "엇 아뇨! brew 안깔고 npm install 만 해주시면 가능할겁니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a05ba937-f0cd-40ad-9515-0e175ed3e3f3",
+    "type": "message",
+    "text": "제가 그 올려주신 깃헙처럼 mongodb-community를 따로 설치하고 돌려야 하나요 (brew 써서)",
+    "user": "U02DHN1UBHA",
+    "ts": "1631862899.005000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gvYZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 그 올려주신 깃헙처럼 mongodb-community를 따로 설치하고 돌려야 하나요 (brew 써서)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ab746e84-b26d-4460-9e16-4b71c361267a",
+    "type": "message",
+    "text": "네! 안되는게 있으신가요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1631862848.003800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v+J2J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네! 안되는게 있으신가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "db872040-a077-4a10-adda-bd447c6a3b73",
+    "type": "message",
+    "text": "그 올려주신 <https://osam-handover.slack.com/archives/C02D0PW5X0W/p1631847092000800> 따라해보고 있었는데",
+    "user": "U02DHN1UBHA",
+    "ts": "1631862832.002800",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "from_url": "https://osam-handover.slack.com/archives/C02D0PW5X0W/p1631847092000800",
+        "fallback": "[September 16th, 2021 7:51 PM] ntcho13: GitHub repo 에서 바로 설정해서 웹 상에서 프리뷰까지 가능합니다",
+        "ts": "1631847092.000800",
+        "author_id": "U02DX5BFPPS",
+        "author_subname": "Nathan Cho",
+        "channel_id": "C02D0PW5X0W",
+        "channel_name": "chatroom",
+        "is_msg_unfurl": true,
+        "text": "GitHub repo 에서 바로 설정해서 웹 상에서 프리뷰까지 가능합니다",
+        "message_blocks": [
+          {
+            "team": "T02D0PW4F2A",
+            "channel": "C02D0PW5X0W",
+            "ts": "1631847092.000800",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "mJhAc",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "GitHub repo 에서 바로 설정해서 웹 상에서 프리뷰까지 가능합니다"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "author_name": "Nathan Cho",
+        "author_link": "https://osam-handover.slack.com/team/U02DX5BFPPS",
+        "author_icon": "https://avatars.slack-edge.com/2021-09-02/2449559074738_32e9dd3cb668597e8b5b_48.jpg",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "files": [
+          {
+            "id": "F02F4KERRKK",
+            "created": 1631847069,
+            "timestamp": 1631847069,
+            "name": "config.mp4",
+            "title": "config.mp4",
+            "mimetype": "video/mp4",
+            "filetype": "mp4",
+            "pretty_type": "MPEG 4 Video",
+            "user": "U02DX5BFPPS",
+            "editable": false,
+            "size": 5948143,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "transcription": {
+              "status": "none"
+            },
+            "mp4": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F4KERRKK-b891be2a84/config.mp4",
+            "url_private": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F4KERRKK-b891be2a84/config.mp4",
+            "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02F4KERRKK/download/config.mp4",
+            "hls": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F4KERRKK-b891be2a84/file.m3u8?_xcb=bf122",
+            "hls_embed": "data:application/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9ODQzMTUxLEFWRVJBR0UtQkFORFdJRFRIPTQ5MDk3OSxDT0RFQ1M9ImF2YzEuNGQ0MDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj0xMDc4eDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVJEQlFWelJHTWtFdFJqQXlSalJMUlZKU1Mwc3RZamc1TVdKbE1tRTROQzltYVd4bFgwaGZNalkwWHpFeU9EQjROekl3WHpZMU1EQkxRbEJUWHpBd01EQXhMblJ6Q2lORldGUkpUa1k2Tmk0d01EWXNDbWgwZEhCek9pOHZabWxzWlhNdWMyeGhZMnN1WTI5dEwyWnBiR1Z6TFhSdFlpOVVNREpFTUZCWE5FWXlRUzFHTURKR05FdEZVbEpMU3kxaU9Ea3hZbVV5WVRnMEwyWnBiR1ZmU0Y4eU5qUmZNVEk0TUhnM01qQmZOalV3TUV0Q1VGTmZNREF3TURJdWRITUtJMFZZVkVsT1JqbzJMakF3Tml3S2FIUjBjSE02THk5bWFXeGxjeTV6YkdGamF5NWpiMjB2Wm1sc1pYTXRkRzFpTDFRd01rUXdVRmMwUmpKQkxVWXdNa1kwUzBWU1VrdExMV0k0T1RGaVpUSmhPRFF2Wm1sc1pWOUlYekkyTkY4eE1qZ3dlRGN5TUY4Mk5UQXdTMEpRVTE4d01EQXdNeTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5UkRCUVZ6UkdNa0V0UmpBeVJqUkxSVkpTUzBzdFlqZzVNV0psTW1FNE5DOW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYelkxTURCTFFsQlRYekF3TURBMExuUnpDaU5GV0ZSSlRrWTZOaTR3TURZc0NtaDBkSEJ6T2k4dlptbHNaWE11YzJ4aFkyc3VZMjl0TDJacGJHVnpMWFJ0WWk5VU1ESkVNRkJYTkVZeVFTMUdNREpHTkV0RlVsSkxTeTFpT0RreFltVXlZVGcwTDJacGJHVmZTRjh5TmpSZk1USTRNSGczTWpCZk5qVXdNRXRDVUZOZk1EQXdNRFV1ZEhNS0kwVllWRWxPUmpvMkxqQXdOaXdLYUhSMGNITTZMeTltYVd4bGN5NXpiR0ZqYXk1amIyMHZabWxzWlhNdGRHMWlMMVF3TWtRd1VGYzBSakpCTFVZd01rWTBTMFZTVWt0TExXSTRPVEZpWlRKaE9EUXZabWxzWlY5SVh6STJORjh4TWpnd2VEY3lNRjgyTlRBd1MwSlFVMTh3TURBd05pNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlSREJRVnpSR01rRXRSakF5UmpSTFJWSlNTMHN0WWpnNU1XSmxNbUU0TkM5bWFXeGxYMGhmTWpZMFh6RXlPREI0TnpJd1h6WTFNREJMUWxCVFh6QXdNREEzTG5SekNpTkZXRlJKVGtZNk5pNHdNRFlzQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURKRU1GQlhORVl5UVMxR01ESkdORXRGVWxKTFN5MWlPRGt4WW1VeVlUZzBMMlpwYkdWZlNGOHlOalJmTVRJNE1IZzNNakJmTmpVd01FdENVRk5mTURBd01EZ3VkSE1LSTBWWVZFbE9Sam8yTGpBd05pd0thSFIwY0hNNkx5OW1hV3hsY3k1emJHRmpheTVqYjIwdlptbHNaWE10ZEcxaUwxUXdNa1F3VUZjMFJqSkJMVVl3TWtZMFMwVlNVa3RMTFdJNE9URmlaVEpoT0RRdlptbHNaVjlJWHpJMk5GOHhNamd3ZURjeU1GODJOVEF3UzBKUVUxOHdNREF3T1M1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVJEQlFWelJHTWtFdFJqQXlSalJMUlZKU1Mwc3RZamc1TVdKbE1tRTROQzltYVd4bFgwaGZNalkwWHpFeU9EQjROekl3WHpZMU1EQkxRbEJUWHpBd01ERXdMblJ6Q2lORldGUkpUa1k2Tmk0d01EWXNDbWgwZEhCek9pOHZabWxzWlhNdWMyeGhZMnN1WTI5dEwyWnBiR1Z6TFhSdFlpOVVNREpFTUZCWE5FWXlRUzFHTURKR05FdEZVbEpMU3kxaU9Ea3hZbVV5WVRnMEwyWnBiR1ZmU0Y4eU5qUmZNVEk0TUhnM01qQmZOalV3TUV0Q1VGTmZNREF3TVRFdWRITUtJMFZZVkVsT1JqbzJMakF3Tml3S2FIUjBjSE02THk5bWFXeGxjeTV6YkdGamF5NWpiMjB2Wm1sc1pYTXRkRzFpTDFRd01rUXdVRmMwUmpKQkxVWXdNa1kwUzBWU1VrdExMV0k0T1RGaVpUSmhPRFF2Wm1sc1pWOUlYekkyTkY4eE1qZ3dlRGN5TUY4Mk5UQXdTMEpRVTE4d01EQXhNaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5UkRCUVZ6UkdNa0V0UmpBeVJqUkxSVkpTUzBzdFlqZzVNV0psTW1FNE5DOW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYelkxTURCTFFsQlRYekF3TURFekxuUnpDaU5GV0ZSSlRrWTZOaTR3TURZc0NtaDBkSEJ6T2k4dlptbHNaWE11YzJ4aFkyc3VZMjl0TDJacGJHVnpMWFJ0WWk5VU1ESkVNRkJYTkVZeVFTMUdNREpHTkV0RlVsSkxTeTFpT0RreFltVXlZVGcwTDJacGJHVmZTRjh5TmpSZk1USTRNSGczTWpCZk5qVXdNRXRDVUZOZk1EQXdNVFF1ZEhNS0kwVllWRWxPUmpvMkxqQXdOaXdLYUhSMGNITTZMeTltYVd4bGN5NXpiR0ZqYXk1amIyMHZabWxzWlhNdGRHMWlMMVF3TWtRd1VGYzBSakpCTFVZd01rWTBTMFZTVWt0TExXSTRPVEZpWlRKaE9EUXZabWxzWlY5SVh6STJORjh4TWpnd2VEY3lNRjgyTlRBd1MwSlFVMTh3TURBeE5TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlSREJRVnpSR01rRXRSakF5UmpSTFJWSlNTMHN0WWpnNU1XSmxNbUU0TkM5bWFXeGxYMGhmTWpZMFh6RXlPREI0TnpJd1h6WTFNREJMUWxCVFh6QXdNREUyTG5SekNpTkZXRlJKVGtZNk5pNHdNRFlzQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURKRU1GQlhORVl5UVMxR01ESkdORXRGVWxKTFN5MWlPRGt4WW1VeVlUZzBMMlpwYkdWZlNGOHlOalJmTVRJNE1IZzNNakJmTmpVd01FdENVRk5mTURBd01UY3VkSE1LSTBWWVZFbE9Sam8yTGpBd05pd0thSFIwY0hNNkx5OW1hV3hsY3k1emJHRmpheTVqYjIwdlptbHNaWE10ZEcxaUwxUXdNa1F3VUZjMFJqSkJMVVl3TWtZMFMwVlNVa3RMTFdJNE9URmlaVEpoT0RRdlptbHNaVjlJWHpJMk5GOHhNamd3ZURjeU1GODJOVEF3UzBKUVUxOHdNREF4T0M1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVJEQlFWelJHTWtFdFJqQXlSalJMUlZKU1Mwc3RZamc1TVdKbE1tRTROQzltYVd4bFgwaGZNalkwWHpFeU9EQjROekl3WHpZMU1EQkxRbEJUWHpBd01ERTVMblJ6Q2lORldGUkpUa1k2Tmk0d01EWXNDbWgwZEhCek9pOHZabWxzWlhNdWMyeGhZMnN1WTI5dEwyWnBiR1Z6TFhSdFlpOVVNREpFTUZCWE5FWXlRUzFHTURKR05FdEZVbEpMU3kxaU9Ea3hZbVV5WVRnMEwyWnBiR1ZmU0Y4eU5qUmZNVEk0TUhnM01qQmZOalV3TUV0Q1VGTmZNREF3TWpBdWRITUtJMFZZVkVsT1JqbzJMakF3Tml3S2FIUjBjSE02THk5bWFXeGxjeTV6YkdGamF5NWpiMjB2Wm1sc1pYTXRkRzFpTDFRd01rUXdVRmMwUmpKQkxVWXdNa1kwUzBWU1VrdExMV0k0T1RGaVpUSmhPRFF2Wm1sc1pWOUlYekkyTkY4eE1qZ3dlRGN5TUY4Mk5UQXdTMEpRVTE4d01EQXlNUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5UkRCUVZ6UkdNa0V0UmpBeVJqUkxSVkpTUzBzdFlqZzVNV0psTW1FNE5DOW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYelkxTURCTFFsQlRYekF3TURJeUxuUnpDaU5GV0ZSSlRrWTZOaTR3TURZc0NtaDBkSEJ6T2k4dlptbHNaWE11YzJ4aFkyc3VZMjl0TDJacGJHVnpMWFJ0WWk5VU1ESkVNRkJYTkVZeVFTMUdNREpHTkV0RlVsSkxTeTFpT0RreFltVXlZVGcwTDJacGJHVmZTRjh5TmpSZk1USTRNSGczTWpCZk5qVXdNRXRDVUZOZk1EQXdNak11ZEhNS0kwVllWRWxPUmpvMkxqQXdOaXdLYUhSMGNITTZMeTltYVd4bGN5NXpiR0ZqYXk1amIyMHZabWxzWlhNdGRHMWlMMVF3TWtRd1VGYzBSakpCTFVZd01rWTBTMFZTVWt0TExXSTRPVEZpWlRKaE9EUXZabWxzWlY5SVh6STJORjh4TWpnd2VEY3lNRjgyTlRBd1MwSlFVMTh3TURBeU5DNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlSREJRVnpSR01rRXRSakF5UmpSTFJWSlNTMHN0WWpnNU1XSmxNbUU0TkM5bWFXeGxYMGhmTWpZMFh6RXlPREI0TnpJd1h6WTFNREJMUWxCVFh6QXdNREkxTG5SekNpTkZXRlJKVGtZNk5pNHdNRFlzQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURKRU1GQlhORVl5UVMxR01ESkdORXRGVWxKTFN5MWlPRGt4WW1VeVlUZzBMMlpwYkdWZlNGOHlOalJmTVRJNE1IZzNNakJmTmpVd01FdENVRk5mTURBd01qWXVkSE1LSTBWWVZFbE9Sam96TGpNd015d0thSFIwY0hNNkx5OW1hV3hsY3k1emJHRmpheTVqYjIwdlptbHNaWE10ZEcxaUwxUXdNa1F3VUZjMFJqSkJMVVl3TWtZMFMwVlNVa3RMTFdJNE9URmlaVEpoT0RRdlptbHNaVjlJWHpJMk5GOHhNamd3ZURjeU1GODJOVEF3UzBKUVUxOHdNREF5Tnk1MGN3b2pSVmhVTFZndFJVNUVURWxUVkFvPQojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NTIwNjE1LEFWRVJBR0UtQkFORFdJRFRIPTM0NzQ3MSxDT0RFQ1M9ImF2YzEuNGQ0MDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj0xMDc4eDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDAyRDBQVzRGMkEtRjAyRjRLRVJSS0stYjg5MWJlMmE4NC9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTLm0zdTgKI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTI0ODQxMixBVkVSQUdFLUJBTkRXSURUSD0yMDIxMzQsQ09ERUNTPSJhdmMxLjRkNDAxZixtcDRhLjQwLjUiLFJFU09MVVRJT049NTQweDM2MCxGUkFNRS1SQVRFPTI5Ljk3MApodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDAyRDBQVzRGMkEtRjAyRjRLRVJSS0stYjg5MWJlMmE4NC9maWxlX0hfMjY0XzY0MHgzNjBfNjAwS0JQUy5tM3U4Cg==",
+            "duration_ms": 159459,
+            "media_display_type": "video",
+            "thumb_video": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02F4KERRKK-b891be2a84/config_thumb_video.jpeg",
+            "thumb_video_w": 1270,
+            "thumb_video_h": 848,
+            "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02F4KERRKK/config.mp4",
+            "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02F4KERRKK-90238ee2a5",
+            "comments_count": 0,
+            "is_starred": false,
+            "shares": {
+              "private": {
+                "D02DBFYHPTL": [
+                  {
+                    "reply_users": [],
+                    "reply_users_count": 0,
+                    "reply_count": 0,
+                    "ts": "1631862832.002800",
+                    "share_user_id": "U02DHN1UBHA"
+                  }
+                ]
+              },
+              "public": {
+                "C02D0PW5X0W": [
+                  {
+                    "reply_users": [],
+                    "reply_users_count": 0,
+                    "reply_count": 0,
+                    "ts": "1631847092.000800",
+                    "channel_name": "chatroom",
+                    "team_id": "T02D0PW4F2A",
+                    "share_user_id": "U02DX5BFPPS"
+                  }
+                ]
+              }
+            },
+            "channels": [
+              "C02D0PW5X0W"
+            ],
+            "groups": [],
+            "ims": [
+              "D02DBFYHPTL"
+            ],
+            "has_rich_preview": false
+          }
+        ],
+        "id": 1,
+        "original_url": "https://osam-handover.slack.com/archives/C02D0PW5X0W/p1631847092000800",
+        "footer": "Posted in #chatroom"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "snaK2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그 올려주신 "
+              },
+              {
+                "type": "link",
+                "url": "https://osam-handover.slack.com/archives/C02D0PW5X0W/p1631847092000800"
+              },
+              {
+                "type": "text",
+                "text": " 따라해보고 있었는데"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "efd5c974-5b82-4df1-b410-6209a52b2fe4",
+    "type": "message",
+    "text": "넵! 또 필요하신 것 있으시면 언제든지 연락주세요 :grin:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631616244.003800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QBz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵! 또 필요하신 것 있으시면 언제든지 연락주세요 "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "unicode": "1f601"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "20b7d2fc-5024-4a14-8e4d-8ce4c28994e3",
+    "type": "message",
+    "text": "*감사합니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1631616228.003400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jIcE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "*감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "395fbdea-695b-4281-aad8-17d9f5496f5b",
+    "type": "message",
+    "text": "아 아제 됩니다! 감사합ㄴ디ㅏ",
+    "user": "U02DHN1UBHA",
+    "ts": "1631616224.003000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qG7Mj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아 아제 됩니다! 감사합ㄴ디ㅏ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b20a1a63-f2f2-45e0-bcff-ca61d749fceb",
+    "type": "message",
+    "text": "방금 이메일로 초대드렸어요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1631616222.002900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ms=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "방금 이메일로 초대드렸어요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "18baeda1-2490-4d0c-8af3-750286ba41e0",
+    "type": "message",
+    "text": "넵...invites are disabled 라고 나옵니다",
+    "user": "U02DHN1UBHA",
+    "ts": "1631616183.002500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RXlh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵...invites are disabled 라고 나옵니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4ba605c5-5b0a-4c2a-8484-84bcfbbf2386",
+    "type": "message",
+    "text": "위에 링크로 안되나요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1631616012.002100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vyO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "위에 링크로 안되나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c2fe1bcd-746b-4677-9aba-aeede2b29886",
+    "type": "message",
+    "text": "이메일로도 초대해드렸습니당",
+    "user": "U02DX5BFPPS",
+    "ts": "1631615995.001900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lof",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이메일로도 초대해드렸습니당"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "82f3e3f5-413d-4c24-858f-f533cad54228",
+    "type": "message",
+    "text": "<https://www.notion.so/osam-handover/invite/7f1e51f0241374fb40cca7174d7a03a4cfbaec3c>",
+    "user": "U02DX5BFPPS",
+    "ts": "1631615982.001600",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Notion",
+        "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "title_link": "https://www.notion.so/osam-handover/invite/7f1e51f0241374fb40cca7174d7a03a4cfbaec3c",
+        "text": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+        "fallback": "Notion: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "image_url": "https://www.notion.so/images/meta/default.png",
+        "from_url": "https://www.notion.so/osam-handover/invite/7f1e51f0241374fb40cca7174d7a03a4cfbaec3c",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 80585,
+        "service_icon": "https://www.notion.so/images/logo-ios.png",
+        "id": 1,
+        "original_url": "https://www.notion.so/osam-handover/invite/7f1e51f0241374fb40cca7174d7a03a4cfbaec3c"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uGk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/osam-handover/invite/7f1e51f0241374fb40cca7174d7a03a4cfbaec3c"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ff26022f-5360-4dfa-a681-3eb3df5ab97e",
+    "type": "message",
+    "text": "앗! 넵 잠시만요",
+    "user": "U02DX5BFPPS",
+    "ts": "1631615972.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qbP8b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "앗! 넵 잠시만요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "139d636f-5d5d-402b-8bf9-42bef0d474f8",
+    "type": "message",
+    "text": "안녕하세요! 제가 현재 노션 access가 없어서 그러는데 <mailto:maxkim139@kaist.ac.kr|maxkim139@kaist.ac.kr> 로 열람 권한 주실 수 있을까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1631615956.001000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7BK9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 제가 현재 노션 access가 없어서 그러는데 "
+              },
+              {
+                "type": "link",
+                "url": "mailto:maxkim139@kaist.ac.kr",
+                "text": "maxkim139@kaist.ac.kr",
+                "unsafe": true
+              },
+              {
+                "type": "text",
+                "text": " 로 열람 권한 주실 수 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "joiner_notification_for_inviter",
+    "ts": "1630667213.000100",
+    "user": "U02DHN1UBHA",
+    "text": "teewon accepted your invitation to join Slack — take a second to say hello."
+  }
+]

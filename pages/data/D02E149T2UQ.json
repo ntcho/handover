@@ -1,0 +1,123 @@
+[
+  {
+    "client_msg_id": "6873fbb3-80d6-4b08-898b-6dfd693a5feb",
+    "type": "message",
+    "text": "알겠습니다!",
+    "user": "U02D8EUAE69",
+    "ts": "1632038514.002000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gmKLr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "알겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ff58bdaf-0675-4611-b627-ff0fef365dd1",
+    "type": "message",
+    "text": "넵! ㅎㅎ 아니면 로고 디자인부터 해도 될 것 같아요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1632038461.001800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aFtn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵! ㅎㅎ 아니면 로고 디자인부터 해도 될 것 같아요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b6900524-2b4a-48df-aa09-66b7d6ac2cd7",
+    "type": "message",
+    "text": "제가 식기분대를 가야되서 프로필페이지 디자인은 조금 나중에 해야될거 같아요 ㅠㅠ 그래도 오늘내에 작업을 해보겠습니다",
+    "user": "U02D8EUAE69",
+    "ts": "1632038439.001300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MUs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 식기분대를 가야되서 프로필페이지 디자인은 조금 나중에 해야될거 같아요 ㅠㅠ 그래도 오늘내에 작업을 해보겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "joiner_notification_for_inviter",
+    "ts": "1630666969.000300",
+    "user": "U02D8EUAE69",
+    "text": "Ahn accepted your invitation to join Slack — take a second to say hello."
+  },
+  {
+    "client_msg_id": "47af1909-7527-4dd8-8d73-aa5aa19bcb15",
+    "type": "message",
+    "text": "안녕하세요! :man-raising-hand:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630666949.000200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S5Vo2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "man-raising-hand",
+                "unicode": "1f64b-200d-2642-fe0f"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

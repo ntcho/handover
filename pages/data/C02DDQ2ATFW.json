@@ -1,0 +1,2860 @@
+[
+  {
+    "client_msg_id": "aeab7a3b-d291-4959-9ab3-345a2b1a7f0a",
+    "type": "message",
+    "text": "제가 get요청을 보낼때 한글과 함께 보내면 한글이 꺠지는 문제를 겪고 있습니다\nex) /api/item/algolia/백업\n으로 검색함녀 뒷부분이 완전히 깨져서 나옵니다. 해결방법을 아시는 분 있으신가요!",
+    "user": "U02DHN1UBHA",
+    "ts": "1634644001.002000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lTwAH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 get요청을 보낼때 한글과 함께 보내면 한글이 꺠지는 문제를 겪고 있습니다\nex) /api/item/algolia/백업\n으로 검색함녀 뒷부분이 완전히 깨져서 나옵니다. 해결방법을 아시는 분 있으신가요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634644001.002000",
+    "reply_count": 8,
+    "reply_users_count": 2,
+    "latest_reply": "1634650250.003600",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "<@U02FA0NJ8RF> 님, 혹시 Git branch history 를 visualize 할 수 있는 도구 추천해주실 수 있나요? 지금 VS Code 에서 Git Graph Extension 을 쓰고 있는데, 혹시 좀 더 좋은 톨을 알고계시나 해서 여쭤봅니다 ㅎㅎ",
+    "files": [
+      {
+        "id": "F02HUM2MHTQ",
+        "created": 1634456296,
+        "timestamp": 1634456296,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 134558,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HUM2MHTQ/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HUM2MHTQ/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_360.png",
+        "thumb_360_w": 354,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_480.png",
+        "thumb_480_w": 472,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_720.png",
+        "thumb_720_w": 708,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 813,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUM2MHTQ-237952ae4f/image_960.png",
+        "thumb_960_w": 945,
+        "thumb_960_h": 960,
+        "original_w": 981,
+        "original_h": 997,
+        "thumb_tiny": "AwAwAC+kSeOaU009BTvwoAbn3ozSkUn40AJRS0lACntTjx6U09qdmgBpNJS4pKACiiigBTTjSUp+tADSKSlz9KKAEopaSgD/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02HUM2MHTQ/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HUM2MHTQ-3243b79f9c",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1634456349.001600",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lPpR2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02FA0NJ8RF"
+              },
+              {
+                "type": "text",
+                "text": " 님, 혹시 Git branch history 를 visualize 할 수 있는 도구 추천해주실 수 있나요? 지금 VS Code 에서 Git Graph Extension 을 쓰고 있는데, 혹시 좀 더 좋은 톨을 알고계시나 해서 여쭤봅니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "4dbeb6ee-bfc7-4071-bcf2-56ba1621cb41",
+    "thread_ts": "1634456349.001600",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1634464128.003300",
+    "reply_users": [
+      "U02FA0NJ8RF",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634464128.003300"
+  },
+  {
+    "type": "message",
+    "text": "첫 번째 사진처럼 group object들을 불러오려 하는데 왜 undefined가 출력될까요.... response는 잘 오는 것 같은데.. :sob:",
+    "files": [
+      {
+        "id": "F02HUH2FCV7",
+        "created": 1634034287,
+        "timestamp": 1634034287,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D7GX0KGA",
+        "editable": false,
+        "size": 24096,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HUH2FCV7/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HUH2FCV7/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 105,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 140,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 210,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HUH2FCV7-7777bdf9df/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 233,
+        "original_w": 802,
+        "original_h": 234,
+        "thumb_tiny": "AwAOADDR796OKXv0ox7CgBOPWlz70tFACZHrS5HrRRQB/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02HUH2FCV7/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HUH2FCV7-b24ca8ce1d",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02J5JQTCGY",
+        "created": 1634034318,
+        "timestamp": 1634034318,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D7GX0KGA",
+        "editable": false,
+        "size": 26869,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J5JQTCGY/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J5JQTCGY/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 125,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 167,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 250,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J5JQTCGY-3447714863/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 278,
+        "original_w": 848,
+        "original_h": 295,
+        "thumb_tiny": "AwAQADDQyB60vUcUzEmfur+dPTdzuAH0NACY+tO20tFACbfelxRRQB//2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02J5JQTCGY/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J5JQTCGY-66741012ae",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02D7GX0KGA",
+    "ts": "1634034332.000700",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=wJ9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "첫 번째 사진처럼 group object들을 불러오려 하는데 왜 undefined가 출력될까요.... response는 잘 오는 것 같은데.. "
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "24a5b79d-6b0e-4707-a62a-d9d8b7be99ef",
+    "thread_ts": "1634034332.000700",
+    "reply_count": 36,
+    "reply_users_count": 2,
+    "latest_reply": "1634047229.010200",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634047229.010200",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "지금 다들 codespace 로딩 잘 되시나요? 사지방 컴퓨터가 블루스크린 뜬 이후로 로딩화면에서 넘어가지를 않네요....",
+    "files": [
+      {
+        "id": "F02H31TKE7K",
+        "created": 1633443979,
+        "timestamp": 1633443979,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DHN1UBHA",
+        "editable": false,
+        "size": 22432,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02H31TKE7K/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02H31TKE7K/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H31TKE7K-68e194e810/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H31TKE7K-68e194e810/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H31TKE7K-68e194e810/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 184,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H31TKE7K-68e194e810/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 245,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02H31TKE7K-68e194e810/image_160.png",
+        "original_w": 510,
+        "original_h": 260,
+        "thumb_tiny": "AwAYADDTzTST2xSilwKAEOe2Kjl83jyyo9c1L3owPQUAQxibeN5G2pA3PJH5U6mkf7J/OgQ6jFFFAwxSEUtI3SgAApMew/OlWloA/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DHN1UBHA/F02H31TKE7K/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02H31TKE7K-d3678c7fa1",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DHN1UBHA",
+    "display_as_bot": false,
+    "ts": "1633443983.001300",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZKSR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지금 다들 codespace 로딩 잘 되시나요? 사지방 컴퓨터가 블루스크린 뜬 이후로 로딩화면에서 넘어가지를 않네요...."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "cb4919d3-b299-4ee1-92a4-87155df48f69",
+    "thread_ts": "1633443983.001300",
+    "reply_count": 7,
+    "reply_users_count": 3,
+    "latest_reply": "1633444671.003300",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633444671.003300"
+  },
+  {
+    "client_msg_id": "d5a9f18f-6529-4a24-8bad-650cdd8c7f5b",
+    "type": "message",
+    "text": "module not found 에러가 발생하는데, 해결하기 위해 docker exec -it front npm install 를 하니 다음과 같은 에러가 나옵니다...어떻게 하면 좋을까요\n```Error response from daemon: Container 684cdb522bc6de8abf070b7d24db2f6161105ed3b3d2700770c8668b87c4bdbd is not running```",
+    "user": "U02DHN1UBHA",
+    "ts": "1633356156.036100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=t1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "module not found 에러가 발생하는데, 해결하기 위해 docker exec -it front npm install 를 하니 다음과 같은 에러가 나옵니다...어떻게 하면 좋을까요\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Error response from daemon: Container 684cdb522bc6de8abf070b7d24db2f6161105ed3b3d2700770c8668b87c4bdbd is not running"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633356156.036100",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1633422894.000300",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633422894.000300"
+  },
+  {
+    "client_msg_id": "97ab8ba6-95e6-4993-a330-c8b967017c32",
+    "type": "message",
+    "text": "codespace가 자꾸 혼자 연결이 끊기는데 이런 문제 있으셨던 분 없었나요 :meow_code:",
+    "user": "U02D7GX0KGA",
+    "ts": "1633344836.033100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iPo=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "codespace가 자꾸 혼자 연결이 끊기는데 이런 문제 있으셨던 분 없었나요 "
+              },
+              {
+                "type": "emoji",
+                "name": "meow_code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633344836.033100",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1633345113.034900",
+    "reply_users": [
+      "U02DE2CLG0L",
+      "U02DX5BFPPS",
+      "U02DPCQH7J5",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633345113.034900",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "<@U02DX5BFPPS>",
+    "files": [
+      {
+        "id": "F02GW313E81",
+        "created": 1633330620,
+        "timestamp": 1633330620,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 157313,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GW313E81/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GW313E81/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 216,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 289,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 433,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 481,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 577,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GW313E81-45118d04ae/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 616,
+        "original_w": 1680,
+        "original_h": 1010,
+        "thumb_tiny": "AwAcADDQx6YzSYkPdPyNOFKetAxm1/8AY/Kja/8AsflT/wADS0Bcj2v/ALH5GjbJ/sfkakooC40Uo6mkA5pT1oELRSZpaACiiigD/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02GW313E81/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02GW313E81-5aac094449",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1633330623.029300",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eauK/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DX5BFPPS"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "96f5bca9-f47c-4810-b390-110e1c956b4d",
+    "thread_ts": "1633330623.029300",
+    "reply_count": 6,
+    "reply_users_count": 2,
+    "latest_reply": "1633330898.031000",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633330898.031000",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2da0a980-2b46-410d-88e2-5aa502abde7a",
+    "type": "message",
+    "text": "저 혼자만 못 찾고 있는 것 같지만.. cabinet, document 파일의 구조가 어떻게 생겼는지 어디서 볼 수 있나요?? Notion의 REST API Reference에 적혀 있는 값들은 <@U02DHN1UBHA> 님이 만들어 두신 Card 컴포넌트의 props를 모두 갖고 있지 않아 에러가 나는데...:cry: dummy cabinet, document 값들을 만들고 싶은데 어디를 참고하면 될까요?",
+    "user": "U02D7GX0KGA",
+    "ts": "1633308458.025300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mFqBf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저 혼자만 못 찾고 있는 것 같지만.. cabinet, document 파일의 구조가 어떻게 생겼는지 어디서 볼 수 있나요?? Notion의 REST API Reference에 적혀 있는 값들은 "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DHN1UBHA"
+              },
+              {
+                "type": "text",
+                "text": " 님이 만들어 두신 Card 컴포넌트의 props를 모두 갖고 있지 않아 에러가 나는데..."
+              },
+              {
+                "type": "emoji",
+                "name": "cry",
+                "unicode": "1f622"
+              },
+              {
+                "type": "text",
+                "text": " dummy cabinet, document 값들을 만들고 싶은데 어디를 참고하면 될까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633308458.025300",
+    "reply_count": 10,
+    "reply_users_count": 3,
+    "latest_reply": "1633319042.029000",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633319042.029000"
+  },
+  {
+    "client_msg_id": "298aa5e9-06d6-4332-b175-0e2fd468b15f",
+    "type": "message",
+    "text": "<@U02DX5BFPPS>",
+    "user": "U02DPCQH7J5",
+    "ts": "1633267946.022000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cusj9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DX5BFPPS"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633267946.022000",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1633268053.022600",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633268053.022600",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e749abff-7169-4984-a5dd-b84685ecc72a",
+    "type": "message",
+    "text": "&gt;  #52에 merge 후에 docker-compose up 하니 이런 에러가 뜨는데 해결방법 아시는 분 계신가요ㅠㅠ\nInitDB쪽에서 나는 에러로 알고 있습니다.\n존재하지 않는 controller를 접근하려해서 나는 에러인데, initDB에서 User,Group,Item collection을 drop하기 때문에 그렇습니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1633240683.021600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7JpXo",
+        "elements": [
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": " #52에 merge 후에 docker-compose up 하니 이런 에러가 뜨는데 해결방법 아시는 분 계신가요ㅠㅠ"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "InitDB쪽에서 나는 에러로 알고 있습니다.\n존재하지 않는 controller를 접근하려해서 나는 에러인데, initDB에서 User,Group,Item collection을 drop하기 때문에 그렇습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b642082b-782d-4230-a225-d08f04bc7eec",
+    "type": "message",
+    "text": "```backend_1   | MongoServerError: ns not found\nbackend_1   |     at MessageStream.messageHandler (/app/backend/node_modules/mongodb/lib/cmap/connection.js:467:30)\nbackend_1   |     at MessageStream.emit (events.js:400:28)\nbackend_1   |     at processIncomingData (/app/backend/node_modules/mongodb/lib/cmap/message_stream.js:108:16)\nbackend_1   |     at MessageStream._write (/app/backend/node_modules/mongodb/lib/cmap/message_stream.js:28:9)\nbackend_1   |     at writeOrBuffer (internal/streams/writable.js:358:12)\nbackend_1   |     at MessageStream.Writable.write (internal/streams/writable.js:303:10)\nbackend_1   |     at Socket.ondata (internal/streams/readable.js:726:22)\nbackend_1   |     at Socket.emit (events.js:400:28)\nbackend_1   |     at addChunk (internal/streams/readable.js:290:12)\nbackend_1   |     at readableAddChunk (internal/streams/readable.js:265:9) {\nbackend_1   |   ok: 0,\nbackend_1   |   code: 26,\nbackend_1   |   codeName: 'NamespaceNotFound'\nbackend_1   | }\nbackend_1   | (node:33) UnhandledPromiseRejectionWarning: ValidationError: User validation failed: group: Path `group` is required.\nbackend_1   |     at model.Document.invalidate (/app/backend/node_modules/mongoose/lib/document.js:2879:32)\nbackend_1   |     at /app/backend/node_modules/mongoose/lib/document.js:2670:17\nbackend_1   |     at /app/backend/node_modules/mongoose/lib/schematype.js:1267:9\nbackend_1   |     at processTicksAndRejections (internal/process/task_queues.js:77:11)```\n#52에 merge 후에 docker-compose up 하니 이런 에러가 뜨는데 해결방법 아시는 분 계신가요ㅠㅠ",
+    "user": "U02DE2CLG0L",
+    "ts": "1633180952.015200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sst",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "backend_1   | MongoServerError: ns not found\nbackend_1   |     at MessageStream.messageHandler (/app/backend/node_modules/mongodb/lib/cmap/connection.js:467:30)\nbackend_1   |     at MessageStream.emit (events.js:400:28)\nbackend_1   |     at processIncomingData (/app/backend/node_modules/mongodb/lib/cmap/message_stream.js:108:16)\nbackend_1   |     at MessageStream._write (/app/backend/node_modules/mongodb/lib/cmap/message_stream.js:28:9)\nbackend_1   |     at writeOrBuffer (internal/streams/writable.js:358:12)\nbackend_1   |     at MessageStream.Writable.write (internal/streams/writable.js:303:10)\nbackend_1   |     at Socket.ondata (internal/streams/readable.js:726:22)\nbackend_1   |     at Socket.emit (events.js:400:28)\nbackend_1   |     at addChunk (internal/streams/readable.js:290:12)\nbackend_1   |     at readableAddChunk (internal/streams/readable.js:265:9) {\nbackend_1   |   ok: 0,\nbackend_1   |   code: 26,\nbackend_1   |   codeName: 'NamespaceNotFound'\nbackend_1   | }\nbackend_1   | (node:33) UnhandledPromiseRejectionWarning: ValidationError: User validation failed: group: Path `group` is required.\nbackend_1   |     at model.Document.invalidate (/app/backend/node_modules/mongoose/lib/document.js:2879:32)\nbackend_1   |     at /app/backend/node_modules/mongoose/lib/document.js:2670:17\nbackend_1   |     at /app/backend/node_modules/mongoose/lib/schematype.js:1267:9\nbackend_1   |     at processTicksAndRejections (internal/process/task_queues.js:77:11)"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#52에 merge 후에 docker-compose up 하니 이런 에러가 뜨는데 해결방법 아시는 분 계신가요ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633180952.015200",
+    "reply_count": 19,
+    "reply_users_count": 2,
+    "latest_reply": "1633182687.019700",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DE2CLG0L"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633182687.019700"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "몇시간의 삽질 끝에 Nginx reverse proxy 를 설정했습니다! 각자 작업하시던 branch 에서 `feature/nginx-reverse-proxy` 를 merge 해주신 다음 작업해주시면 front + back 작업이 가능합니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1633176399.013900",
+    "thread_ts": "1633153700.006600",
+    "root": {
+      "client_msg_id": "43a9e0d3-202e-4508-8d3e-383c9391e602",
+      "type": "message",
+      "text": "현재 프론트엔드는 80번 포트, 백엔드는 3000번 포트를 사용하고 있는데, GitHub codespaces 와 주최측에서 제공한 VM 에서 백엔드에 접근을 할 수 없는 문제가 있습니다.\n• Codespaces 의 preview URL 이 `web-handover-...-[PORT].githubpreview.dev` 형식이라서 frontend 코드에서 `<http://host.com:3000|host.com:3000>` 식으로 접근을 할 수가 없습니다.\n• VM 에서 개방된 포트도 22, 80, 443 등으로 제한되어있어서 `<http://host.com:3000|host.com:3000>` 형식으로 접근을 할 수 없습니다.\n여러가지 방법을 찾아본 결과, 두개의 `app.js` 파일을 하나로 합친 후 80 포트로 listen 하는 방법이 있는 것 같습니다. (frontend 는 `/` 에서, backend 는 `/api` 에서 serve 하는 방식)\n하지만 이렇게 된다면 지금까지 작업했던 각 모듈 (frontend, backend) 의 `package.json` 의 dependency 가 꼬이는 문제가 발생할 것 같은데, 혹시 이 문제를 어떻게 해결하면 좋을까요?\n\n<@U02DPCQH7J5> 님 한번 확인해주시고 의견 부탁드립니다.\n<@U02FA0NJ8RF> 님도 가능하시다면 의견 주시면 감사하겠습니다! :smiling_face_with_tear:",
+      "user": "U02DX5BFPPS",
+      "ts": "1633153700.006600",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NkYe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "현재 프론트엔드는 80번 포트, 백엔드는 3000번 포트를 사용하고 있는데, GitHub codespaces 와 주최측에서 제공한 VM 에서 백엔드에 접근을 할 수 없는 문제가 있습니다.\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Codespaces 의 preview URL 이 "
+                    },
+                    {
+                      "type": "text",
+                      "text": "web-handover-...-[PORT].githubpreview.dev",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " 형식이라서 frontend 코드에서 "
+                    },
+                    {
+                      "type": "text",
+                      "text": "host.com:3000",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " 식으로 접근을 할 수가 없습니다."
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "VM 에서 개방된 포트도 22, 80, 443 등으로 제한되어있어서 "
+                    },
+                    {
+                      "type": "text",
+                      "text": "host.com:3000",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " 형식으로 접근을 할 수 없습니다."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "여러가지 방법을 찾아본 결과, 두개의 "
+                },
+                {
+                  "type": "text",
+                  "text": "app.js",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 파일을 하나로 합친 후 80 포트로 listen 하는 방법이 있는 것 같습니다. (frontend 는 "
+                },
+                {
+                  "type": "text",
+                  "text": "/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 에서, backend 는 "
+                },
+                {
+                  "type": "text",
+                  "text": "/api",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 에서 serve 하는 방식)\n하지만 이렇게 된다면 지금까지 작업했던 각 모듈 (frontend, backend) 의 "
+                },
+                {
+                  "type": "text",
+                  "text": "package.json",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 의 dependency 가 꼬이는 문제가 발생할 것 같은데, 혹시 이 문제를 어떻게 해결하면 좋을까요?\n\n"
+                },
+                {
+                  "type": "user",
+                  "user_id": "U02DPCQH7J5"
+                },
+                {
+                  "type": "text",
+                  "text": " 님 한번 확인해주시고 의견 부탁드립니다.\n"
+                },
+                {
+                  "type": "user",
+                  "user_id": "U02FA0NJ8RF"
+                },
+                {
+                  "type": "text",
+                  "text": " 님도 가능하시다면 의견 주시면 감사하겠습니다! "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smiling_face_with_tear",
+                  "unicode": "1f972"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1633153700.006600",
+      "reply_count": 7,
+      "reply_users_count": 3,
+      "latest_reply": "1633176399.013900",
+      "reply_users": [
+        "U02FA0NJ8RF",
+        "U02DX5BFPPS",
+        "U02DPCQH7J5"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1633176399.013900"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yDaCq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "몇시간의 삽질 끝에 Nginx reverse proxy 를 설정했습니다! 각자 작업하시던 branch 에서 "
+              },
+              {
+                "type": "text",
+                "text": "feature/nginx-reverse-proxy",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 를 merge 해주신 다음 작업해주시면 front + back 작업이 가능합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "927af2ca-7c13-433b-a7bb-169e1282c742",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DHN1UBHA",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5"
+        ],
+        "count": 3
+      },
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cf6fe7ff-d5a6-4799-84d3-1ff2b4dc6546",
+    "type": "message",
+    "text": "postman의 Mock server를 사용하고 있었는데, 무료 계정으로는 api 요청 횟수에 제한이 있다는 것을 이제야 깨달아 버렸습니다. 혹시 이를 대체할 수 있는 무료 어플/사이트가 있을까요?",
+    "user": "U02DHN1UBHA",
+    "ts": "1633160717.013700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iI2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "postman의 Mock server를 사용하고 있었는데, 무료 계정으로는 api 요청 횟수에 제한이 있다는 것을 이제야 깨달아 버렸습니다. 혹시 이를 대체할 수 있는 무료 어플/사이트가 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "43a9e0d3-202e-4508-8d3e-383c9391e602",
+    "type": "message",
+    "text": "현재 프론트엔드는 80번 포트, 백엔드는 3000번 포트를 사용하고 있는데, GitHub codespaces 와 주최측에서 제공한 VM 에서 백엔드에 접근을 할 수 없는 문제가 있습니다.\n• Codespaces 의 preview URL 이 `web-handover-...-[PORT].githubpreview.dev` 형식이라서 frontend 코드에서 `<http://host.com:3000|host.com:3000>` 식으로 접근을 할 수가 없습니다.\n• VM 에서 개방된 포트도 22, 80, 443 등으로 제한되어있어서 `<http://host.com:3000|host.com:3000>` 형식으로 접근을 할 수 없습니다.\n여러가지 방법을 찾아본 결과, 두개의 `app.js` 파일을 하나로 합친 후 80 포트로 listen 하는 방법이 있는 것 같습니다. (frontend 는 `/` 에서, backend 는 `/api` 에서 serve 하는 방식)\n하지만 이렇게 된다면 지금까지 작업했던 각 모듈 (frontend, backend) 의 `package.json` 의 dependency 가 꼬이는 문제가 발생할 것 같은데, 혹시 이 문제를 어떻게 해결하면 좋을까요?\n\n<@U02DPCQH7J5> 님 한번 확인해주시고 의견 부탁드립니다.\n<@U02FA0NJ8RF> 님도 가능하시다면 의견 주시면 감사하겠습니다! :smiling_face_with_tear:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633153700.006600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NkYe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "현재 프론트엔드는 80번 포트, 백엔드는 3000번 포트를 사용하고 있는데, GitHub codespaces 와 주최측에서 제공한 VM 에서 백엔드에 접근을 할 수 없는 문제가 있습니다.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Codespaces 의 preview URL 이 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "web-handover-...-[PORT].githubpreview.dev",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " 형식이라서 frontend 코드에서 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "host.com:3000",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " 식으로 접근을 할 수가 없습니다."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "VM 에서 개방된 포트도 22, 80, 443 등으로 제한되어있어서 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "host.com:3000",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " 형식으로 접근을 할 수 없습니다."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "여러가지 방법을 찾아본 결과, 두개의 "
+              },
+              {
+                "type": "text",
+                "text": "app.js",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 파일을 하나로 합친 후 80 포트로 listen 하는 방법이 있는 것 같습니다. (frontend 는 "
+              },
+              {
+                "type": "text",
+                "text": "/",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 에서, backend 는 "
+              },
+              {
+                "type": "text",
+                "text": "/api",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 에서 serve 하는 방식)\n하지만 이렇게 된다면 지금까지 작업했던 각 모듈 (frontend, backend) 의 "
+              },
+              {
+                "type": "text",
+                "text": "package.json",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 의 dependency 가 꼬이는 문제가 발생할 것 같은데, 혹시 이 문제를 어떻게 해결하면 좋을까요?\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02DPCQH7J5"
+              },
+              {
+                "type": "text",
+                "text": " 님 한번 확인해주시고 의견 부탁드립니다.\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02FA0NJ8RF"
+              },
+              {
+                "type": "text",
+                "text": " 님도 가능하시다면 의견 주시면 감사하겠습니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "unicode": "1f972"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633153700.006600",
+    "reply_count": 7,
+    "reply_users_count": 3,
+    "latest_reply": "1633176399.013900",
+    "reply_users": [
+      "U02FA0NJ8RF",
+      "U02DX5BFPPS",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633176399.013900",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3dfa7942-46c5-460d-a553-a7f6d57b79e2",
+    "type": "message",
+    "text": "혹시 저처럼 postman mock server에서 response body가 계속 null이라고 떠서 고생하는 사람이 있을까봐 글 남깁니다.\n<https://github.com/HomoEfficio/dev-tips/blob/master/Request%20Body%EB%A1%9C%20%EB%B3%B4%EB%82%B4%EC%A7%80%EB%8A%94%20JSON%EC%9D%98%20%ED%96%89%EB%B0%A9%20%EB%B6%88%EB%AA%85.md|https://github.com/HomoEfficio/dev-tips/blob/master/Request%20Body%EB%A1%9C%20%EB%[…]94%20JSON%EC%9D%98%20%ED%96%89%EB%B0%A9%20%EB%B6%88%EB%AA%85.md>\n를 참고하면 Content-Type 를 application/x-www-form-urlencoded; charset=UTF-8 로 해줘야지 한다고 하네요....디폴트 값이 application/json인데 이거로 하면 response의 json body가 사라지는 마법을 볼 수 있습니다. ㅎㅎㅎ 진짜 이거땜에 정신 나가는줄 알았네요 ㅠㅜ",
+    "user": "U02DHN1UBHA",
+    "ts": "1632911527.002300",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "fallback": "895x432px image",
+        "image_url": "https://camo.githubusercontent.com/237628884175be9426ebbf3815313d4d6842e076fe24a28968a8201529bb26a4/687474703a2f2f692e696d6775722e636f6d2f58567863646e732e706e67",
+        "image_width": 895,
+        "image_height": 432,
+        "image_bytes": 59722,
+        "text": "*Request Body로 보내지는 JSON의 행방 불명*\n*문제*\n\napi 테스트 시 Postman을 자주 사용하는데, 다음과 같이 JSON을 서버에 보내면,\n\n<https://camo.githubusercontent.com/237628884175be9426ebbf3815313d4d6842e076fe24a28968a8201529bb26a4/687474703a2f2f692e696d6775722e636f6d2f58567863646e732e706e67|Imgur>\n\n서버의 Request에서 JSON 정보를 찾을 수 없다.\n\n<https://camo.githubusercontent.com/ba1ab7079b1b29257013f476b3a9c8f77f46e1c99adb0958d4f4b76db66a1167/687474703a2f2f692e696d6775722e636f6d2f7a644c6f4579302e706e67|Imgur>\n\n*해결*\n\n하지만 동일한 json 데이터를 postman이 아니라 다음과 같이 실제로 ajax로 호출하는 코드를 통해 서버로 보내면 서버의 Request에서 JSON 정보가 잘 나온다.\n\n```\n&lt;html&gt;\n&lt;body&gt;\n&lt;button id='tester'&gt;JSON Request Test&lt;/button&gt;\n&lt;script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"&gt;&lt;/script&gt;\n&lt;script&gt;\nvar tester = document.getElementById('tester');\ntester.addEventListener('click', function(e) {\n\t(function($) {\n\t    $.ajax({\n\t        url: 'http://---------/v1/logs/view/33/55',\n//\t        contentType: 'application/json',\n\t        method: 'POST',\n\t        crossDomain: true,\n\t        data: {\n\t            url: \"++++++++++++++++++++++++++++++++++++\",\n\t            ref: \"====================================\",\n\t            items: [\n\t                {id: \"1198708089\",\n\t                title:\"나이키 에어맥스\",\n\t                image:\"%%%%%%%%%%%%%%%%%%%%%/1197829883_B_V2.jpg\",\n\t                price: 12000,\n\t                currency:\"KRW\",\n\t                catalog: [\"catalog_id\"],\n\t                is_now_delivery: 0,\n\t                adult_only: 0,\n\t                is_hidden: 0}\n\t            ],\n\t            user: { gender: \"F\", birthyear:\"1980\", mid:\"8371920381\"}\n\t        }\n\t    });\n\t})(jQuery);\n});\n&lt;/script&gt;\n&lt;/body&gt;\n&lt;/html&gt;\n```\n\n둘의 결정적인 차이는 ContentType 헤더의 값이다.\n\nPostman에서 보낼 떄는 ContentType을 `application/json`으로 보냈고, 그 때문에 request에서 찾을 수 없었다.\n\njQuery의 ajax로 보낼 때 ContentType을 명시하지 않으면 디폴트로 `application/x-www-form-urlencoded; charset=UTF-8`로 지정되며(<http://api.jquery.com/jQuery.ajax/|여기 참고>), Request 요청을 브라우저에서 살펴봐도 아래와 같이 Request Body에 포함되고,\n\n<https://camo.githubusercontent.com/afb64e632e8ed06f4ebafeec753839193408ffb97254c1c160d85b3f7f86fa6d/687474703a2f2f692e696d6775722e636f6d2f335a417454366e2e706e67|Imgur>\n\n서버의 Request에서도 확인이 가능하다.\n\n<https://camo.githubusercontent.com/0ea8ae3844922bbe8c61e3d77b432819ca25be496680bdd8f450f63146524947/687474703a2f2f692e696d6775722e636f6d2f744830446351472e706e67|Imgur>\n\n*진짜 해결 맞아?*\n\n서버에서 읽힌다고는 하지만, 아무리 그래도 데이터를 JSON으로 넘기는데, ContentType을 `application/json`이 아닌 `application/x-www-form-urlencoded; charset=UTF-8`으로 주는 건 좀 아닌 것 같다.\n\n그렇다고 ContentType을 강제로 `application/json`으로 주면 요청은 아래와 Form Data가 아니라 Payload로 날라가므로,\n\n<https://camo.githubusercontent.com/ca3001021fe9395496342d6a30edb7112f71ddfcb67accb9c02a789fd75f9b66/687474703a2f2f692e696d6775722e636f6d2f4d54453777454a2e706e67|Imgur>\n\n서버에서는 아래와 같이 `request.getParameterMap()`으로는 읽을 수 없고,\n\n<https://camo.githubusercontent.com/dee14d7c2dcec80f3c5c0f96c8bda958fa490ea408847b2365a02597f200a91d/687474703a2f2f692e696d6775722e636f6d2f736256624542392e706e67|Imgur>\n\n대신 아래와 같이 `request.getReader()`로는 읽을 수 있다.\n\n<https://camo.githubusercontent.com/64a48dcb947137dbf4d5fbeb5fcd4c82a1974048af3b235158dae37fc2ea49fe/687474703a2f2f692e696d6775722e636f6d2f6a5954326441472e706e67|Imgur>\n\n하지만 이걸 사용하려면 또 parsing을 해야하고, stream에서는 한 번만 읽을 수 있는 등 불편한점이 많아서 실무적이지 않다.\n\n*실무에서는?*\n\n실제로는 request를 직접 핸들링하는 방식 대신에 DTO를 만들고 request 안에 json으로 넘어온 정보를 Jackson 같은 라이브러리를 써서 DTO에 집어넣는 방식을 택한다.\n\n이때 프론트쪽에서 주의해야할 것이 있는데, jQuery의 ajax는 데이터를 문자열화 해주지 않기 때문에 아래와 같이 보내면,\n\n```\n$.ajax({\n    url: 'http://---------/v1/logs/view/33/55',\n    contentType: 'application/json',\n    method: 'POST',\n    crossDomain: true,\n    data: {\n        url: \"++++++++++++++++++++++++++++++++++++\",\n        ref: \"====================================\",\n        items: [\n            {id: \"1198708089\",\n            title:\"나이키 에어맥스\",\n            image:\"%%%%%%%%%%%%%%%%%%%%%/1197829883_B_V2.jpg\",\n            price: 12000,\n            currency:\"KRW\",\n            catalog: [\"catalog_id\"],\n            is_now_delivery: 0,\n            adult_only: 0,\n            is_hidden: 0}\n        ],\n        user: { gender: \"F\", birthyear:\"1980\", mid:\"8371920381\"}\n    }\n});\n```\n\n서버에서는 대략 아래와 같은 에러가 발생한다.\n\n```\norg.springframework.http.converter.HttpMessageNotReadableException: Could not read document: Unrecognized token 'url': was expecting ('true', 'false' or 'null')\n\n```\n\n이는 `url`이 JSON 객체 내의 key로 인식되지 않기 때문에 발생하는 문제로서, 이를 방지하려면 다음과 같이 `JSON.stringify()`를 통해 `url`이 key로 인식될 수 있도록 `\"url\"`와 같이 문자열로 만들어서 보내줘야 한다.\n\n```\n$.ajax({\n    url: 'http://---------/v1/logs/view/33/55',\n    contentType: 'application/json',\n    method: 'POST',\n    crossDomain: true,\n    data: JSON.stringify({\n        url: \"++++++++++++++++++++++++++++++++++++\",\n        ref: \"====================================\",\n        items: [\n            {id: \"1198708089\",\n            title:\"나이키 에어맥스\",\n            image:\"%%%%%%%%%%%%%%%%%%%%%/1197829883_B_V2.jpg\",\n            price: 12000,\n            currency:\"KRW\",\n            catalog: [\"catalog_id\"],\n            is_now_delivery: 0,\n            adult_only: 0,\n            is_hidden: 0}\n        ],\n        user: { gender: \"F\", birthyear:\"1980\", mid:\"8371920381\"}\n    })\n});\n```\n\n서버에서도 Spring을 예로 들면, controller 메서드의 파라미터에 JSON으로 받을 데이터를 매핑할 수 있는 DTO를 추가하고 앞에 `@RequestBody`를 꼭 붙여줘야 데이터가 DTO에 정상적으로 입력된다.\n\n*진짜 해결*\n\n• 프론트: JSON 데이터를 `application/json`으로 보내되, JSON 객체를 `JSON.stringify()`로 문자열화 해서 서버에 보내야 한다.\n• 스프링 백엔드: JSON 데이터와 구조가 같은 DTO를 만들고, 컨트롤러 메서드에 `@RequestBody`를 붙여서 DTO를 파라미터에 추가하면 Spring이 Jackson을 통해 JSON의 값을 읽어서 DTO에 잘 넣어준다.",
+        "title": "<https://github.com/HomoEfficio/dev-tips/blob/master/Request%20Body%EB%A1%9C%20%EB%B3%B4%EB%82%B4%EC%A7%80%EB%8A%94%20JSON%EC%9D%98%20%ED%96%89%EB%B0%A9%20%EB%B6%88%EB%AA%85.md | Request Body로 보내지는 JSON의 행방 불명.md>",
+        "footer": "<https://github.com/HomoEfficio/dev-tips|HomoEfficio/dev-tips>",
+        "id": 1,
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "color": "24292f",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "bot_id": "B02DU6375LH",
+        "app_unfurl_url": "https://github.com/HomoEfficio/dev-tips/blob/master/Request%20Body%EB%A1%9C%20%EB%B3%B4%EB%82%B4%EC%A7%80%EB%8A%94%20JSON%EC%9D%98%20%ED%96%89%EB%B0%A9%20%EB%B6%88%EB%AA%85.md",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y4hS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 저처럼 postman mock server에서 response body가 계속 null이라고 떠서 고생하는 사람이 있을까봐 글 남깁니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/HomoEfficio/dev-tips/blob/master/Request%20Body%EB%A1%9C%20%EB%B3%B4%EB%82%B4%EC%A7%80%EB%8A%94%20JSON%EC%9D%98%20%ED%96%89%EB%B0%A9%20%EB%B6%88%EB%AA%85.md",
+                "text": "https://github.com/HomoEfficio/dev-tips/blob/master/Request%20Body%EB%A1%9C%20%EB%[…]94%20JSON%EC%9D%98%20%ED%96%89%EB%B0%A9%20%EB%B6%88%EB%AA%85.md"
+              },
+              {
+                "type": "text",
+                "text": "\n를 참고하면 Content-Type 를 application/x-www-form-urlencoded; charset=UTF-8 로 해줘야지 한다고 하네요....디폴트 값이 application/json인데 이거로 하면 response의 json body가 사라지는 마법을 볼 수 있습니다. ㅎㅎㅎ 진짜 이거땜에 정신 나가는줄 알았네요 ㅠㅜ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "cry",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "61551b92-de47-4357-8400-eb037ba5b066",
+    "type": "message",
+    "text": "저희 cabinet-document-card 들의 관계가 동일 카드가 여러 document에 들어가거나 / 동일 document가 여러 cabinet 안에 들어갈 수 있는 관계인가요? 질문드리는 이유는 breadcrumb을 제작함에 있어 만약 search bar에서 검색을 통해 들어온다면 path를 어떻게 표시해야 할지 고민이 되어서 그럽니다.",
+    "user": "U02DHN1UBHA",
+    "ts": "1632737103.001100",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DHN1UBHA",
+      "ts": "1632737180.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PzL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저희 cabinet-document-card 들의 관계가 동일 카드가 여러 document에 들어가거나 / 동일 document가 여러 cabinet 안에 들어갈 수 있는 관계인가요? 질문드리는 이유는 breadcrumb을 제작함에 있어 만약 search bar에서 검색을 통해 들어온다면 path를 어떻게 표시해야 할지 고민이 되어서 그럽니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632737103.001100",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632786278.000100",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632786278.000100"
+  },
+  {
+    "client_msg_id": "eb63dc72-b12e-42f2-bc87-f657b45d0a22",
+    "type": "message",
+    "text": "grid blowout 해결방법 아시는분 있나요...grid에 item이 많아지면 width가 parent div를 부숴버리고 자꾸 탈출하네요.....",
+    "user": "U02DHN1UBHA",
+    "ts": "1632301910.002400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6jS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "grid blowout 해결방법 아시는분 있나요...grid에 item이 많아지면 width가 parent div를 부숴버리고 자꾸 탈출하네요....."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632301910.002400",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632304874.002700",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632304874.002700"
+  },
+  {
+    "client_msg_id": "5f8054c0-9cfd-4ff6-8705-4c3a0b22c14e",
+    "type": "message",
+    "text": "저는 Sass로 styling을 할 땐 .scss파일을 .css 파일로 compile해서 component들에 적용해야 한다고 알고 있는데, 우리 MERN boilerplate 프로젝트를 보면 딱히 .css 파일로 컴파일을 한건지 잘 모르겠네요 ㅠ 그래서 .scss 파일을 수정해도 바로바로 수정 사항이 반영돼서 웹에 나타나지도 않는 것처럼 보이는데 혹시 이 문제를 어떻게 해결할 수 있을까요? 김태원님께 지금까지 작업하신걸 올려주셨으면 좋겠다고 부탁했던 것도 이 부분이 궁금해서 부탁했던 거였어요 :pleading_face:",
+    "user": "U02D7GX0KGA",
+    "ts": "1632134731.005200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wSA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저는 Sass로 styling을 할 땐 .scss파일을 .css 파일로 compile해서 component들에 적용해야 한다고 알고 있는데, 우리 MERN boilerplate 프로젝트를 보면 딱히 .css 파일로 컴파일을 한건지 잘 모르겠네요 ㅠ 그래서 .scss 파일을 수정해도 바로바로 수정 사항이 반영돼서 웹에 나타나지도 않는 것처럼 보이는데 혹시 이 문제를 어떻게 해결할 수 있을까요? 김태원님께 지금까지 작업하신걸 올려주셨으면 좋겠다고 부탁했던 것도 이 부분이 궁금해서 부탁했던 거였어요 "
+              },
+              {
+                "type": "emoji",
+                "name": "pleading_face",
+                "unicode": "1f97a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632134731.005200",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1632136320.006100",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DHN1UBHA",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "af9c6a94-9b4a-459d-b705-aa44198954da",
+    "type": "message",
+    "text": "<@U02DPCQH7J5> 님, 저희 Nginx 같은 웹 서버는 따로 없이 nodejs 로만 구동하실 계획이신거죠?!",
+    "user": "U02DX5BFPPS",
+    "ts": "1632095861.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2oZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DPCQH7J5"
+              },
+              {
+                "type": "text",
+                "text": " 님, 저희 Nginx 같은 웹 서버는 따로 없이 nodejs 로만 구동하실 계획이신거죠?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632095861.000900",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632105778.001400",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632105778.001400"
+  },
+  {
+    "client_msg_id": "b12018ae-efd1-4115-867d-7f05ce254b63",
+    "type": "message",
+    "text": "폴더 이름도 `mongodb-data/data/db` 이런식으로 변경하면 어떨까요? `docker-config` 는 약간 안맞는 것 같아서요 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1632061449.007200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nKsh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "폴더 이름도 "
+              },
+              {
+                "type": "text",
+                "text": "mongodb-data/data/db",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 이런식으로 변경하면 어떨까요? "
+              },
+              {
+                "type": "text",
+                "text": "docker-config",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 는 약간 안맞는 것 같아서요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632061449.007200",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632061690.007600",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632061690.007600"
+  },
+  {
+    "client_msg_id": "336296be-c14f-4e2b-b0d3-13fb8a6ac529",
+    "type": "message",
+    "text": "하시면 될거같아요!!",
+    "user": "U02DE2CLG0L",
+    "ts": "1632061366.006100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yEFy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "하시면 될거같아요!!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b19616d3-5322-4c44-919f-3b54b8b81dfe",
+    "type": "message",
+    "text": "``` git rm -r --cached .\n git add .\n git commit -m \"gitignore 적용\"\n git push```\n",
+    "user": "U02DE2CLG0L",
+    "ts": "1632061355.005900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KFK",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": " git rm -r --cached .\n git add .\n git commit -m \"gitignore 적용\"\n git push"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "822e70cc-274a-45b1-80f2-fea8901bc9a6",
+    "type": "message",
+    "text": "develop 브랜치를 확인해보시면 .gitignore에 추가는 해놨는데.. 예전에 올라간 파일들은 날아가지가 않았네요..",
+    "user": "U02DPCQH7J5",
+    "ts": "1632061263.005000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f4XeB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "develop 브랜치를 확인해보시면 .gitignore에 추가는 해놨는데.. 예전에 올라간 파일들은 날아가지가 않았네요.."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "mongodb 컨테이너 volume 이 저기로 설정되어있는 것 같은데, 저 데이터 파일들은 `.gitignore` 로 ignore 하는게 맞지 않을까요...?",
+    "files": [
+      {
+        "id": "F02ER1HSCQ6",
+        "created": 1632061088,
+        "timestamp": 1632061088,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 13213,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02ER1HSCQ6/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02ER1HSCQ6/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ER1HSCQ6-041a253750/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ER1HSCQ6-041a253750/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ER1HSCQ6-041a253750/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 144,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ER1HSCQ6-041a253750/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 192,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02ER1HSCQ6-041a253750/image_160.png",
+        "original_w": 497,
+        "original_h": 199,
+        "thumb_tiny": "AwATADCkKQgUClz9KAG8dqKdu9qTOe1ACUUufaj8KAEooooAKKKKACiiigD/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02ER1HSCQ6/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02ER1HSCQ6-016716cace",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1632061142.004000",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Qwry",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mongodb 컨테이너 volume 이 저기로 설정되어있는 것 같은데, 저 데이터 파일들은 "
+              },
+              {
+                "type": "text",
+                "text": ".gitignore",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 로 ignore 하는게 맞지 않을까요...?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "016043ee-36d0-4234-8d53-8461cec7aca8",
+    "thread_ts": "1632061080.003400",
+    "parent_user_id": "U02DX5BFPPS",
+    "subtype": "thread_broadcast",
+    "root": {
+      "client_msg_id": "47eb7a0b-7bdf-405a-a406-1736715aa59d",
+      "type": "message",
+      "text": "<@U02DPCQH7J5> 님, <https://github.com/osamhack2021/Web_Handover_Handover/tree/develop/docker-config/mongodb>\n여기에 있는 파일들은 mongodb 에서 생성된 파일들인가요?",
+      "user": "U02DX5BFPPS",
+      "ts": "1632061080.003400",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tTf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U02DPCQH7J5"
+                },
+                {
+                  "type": "text",
+                  "text": " 님, "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/osamhack2021/Web_Handover_Handover/tree/develop/docker-config/mongodb"
+                },
+                {
+                  "type": "text",
+                  "text": "\n여기에 있는 파일들은 mongodb 에서 생성된 파일들인가요?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1632061080.003400",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1632061142.004000",
+      "reply_users": [
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1632061142.004000"
+    }
+  },
+  {
+    "client_msg_id": "166acdb5-f6a7-462d-b6fa-4a604bc57917",
+    "type": "message",
+    "text": "넵 그렇습니다 docker-compose up을 하면 자동으로 생성되는 파일들입니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1632061109.003800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/J/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 그렇습니다 docker-compose up을 하면 자동으로 생성되는 파일들입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "47eb7a0b-7bdf-405a-a406-1736715aa59d",
+    "type": "message",
+    "text": "<@U02DPCQH7J5> 님, <https://github.com/osamhack2021/Web_Handover_Handover/tree/develop/docker-config/mongodb>\n여기에 있는 파일들은 mongodb 에서 생성된 파일들인가요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1632061080.003400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tTf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02DPCQH7J5"
+              },
+              {
+                "type": "text",
+                "text": " 님, "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/osamhack2021/Web_Handover_Handover/tree/develop/docker-config/mongodb"
+              },
+              {
+                "type": "text",
+                "text": "\n여기에 있는 파일들은 mongodb 에서 생성된 파일들인가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632061080.003400",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1632061142.004000",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632061142.004000"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024503.001800",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "client_msg_id": "62f76ea6-70a6-4046-b37a-0035fd66cef2",
+    "type": "message",
+    "text": "[Web발신]\n[2021 군장병 온라인 해커톤]\n참여하시는 프로젝트의 원활한 개발진행에 도움이 되고자 VM 환경과 ML 환경을 지원하고자 합니다.\n공지사항을 확인하여주시기 바랍니다.\n* 해당 공지사항 : <https://bre.is/7nQb9gAJ|https://bre.is/7nQb9gAJ>\n\n<@U02DX5BFPPS>님 확인 하셨겠지만, 혹시 몰라서 한 번 올려봅니다. 배포서버로 사용하면 될 것 같습니다",
+    "user": "U02DPCQH7J5",
+    "ts": "1631983342.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6xEWQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[Web발신]\n[2021 군장병 온라인 해커톤]\r\n참여하시는 프로젝트의 원활한 개발진행에 도움이 되고자 VM 환경과 ML 환경을 지원하고자 합니다.\r\n공지사항을 확인하여주시기 바랍니다.\r\n* 해당 공지사항 : "
+              },
+              {
+                "type": "link",
+                "url": "https://bre.is/7nQb9gAJ",
+                "text": "https://bre.is/7nQb9gAJ"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02DX5BFPPS"
+              },
+              {
+                "type": "text",
+                "text": "님 확인 하셨겠지만, 혹시 몰라서 한 번 올려봅니다. 배포서버로 사용하면 될 것 같습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631983342.001400",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1632027610.001900",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632027610.001900",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "13fb8e21-92dd-4628-9bf2-73032d68cb43",
+    "type": "message",
+    "text": "timeout에러로 몽고디비에 접근하지 못하는 중입니다",
+    "user": "U02DPCQH7J5",
+    "ts": "1631863449.002500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MGRc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "timeout에러로 몽고디비에 접근하지 못하는 중입니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "aac6fcb2-93e2-447b-89a8-a75e7502e184",
+    "type": "message",
+    "text": "제가 npm run dev + npm start를 feature/#8에서 실행했을 떄 이런 에러가 발생합니다....혹시 해결방법을 아시는 분 있을까요!",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863390.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pfGx=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 npm run dev + npm start를 feature/#8에서 실행했을 떄 이런 에러가 발생합니다....혹시 해결방법을 아시는 분 있을까요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "de00fd5b-d9b9-4455-9873-ff333007ab44",
+    "type": "message",
+    "text": "```[nodemon] starting `node server/index.js`\nServer is listening on port 3000\n(node:24587) UnhandledPromiseRejectionWarning: MongooseError: Operation `counters.findOne()` buffering timed out after 10000ms\n    at Timeout.&lt;anonymous&gt; (/workspaces/Web_Handover_Handover/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(Use `node --trace-warnings ...` to show where the warning was created)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see <https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode>). (rejection id: 1)\n(node:24587) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.\nError connecting to database: connect ECONNREFUSED 127.0.0.1:27017\n(node:24587) UnhandledPromiseRejectionWarning: MongoTopologyClosedError: Topology is closed\n    at Topology.close (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:260:42)\n    at Object.callback (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:215:22)\n    at Timeout._onTimeout (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:326:33)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see <https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode>). (rejection id: 2)\n^C```",
+    "user": "U02DHN1UBHA",
+    "ts": "1631863341.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Li4/",
+        "elements": [
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[nodemon] starting `node server/index.js`\nServer is listening on port 3000\n(node:24587) UnhandledPromiseRejectionWarning: MongooseError: Operation `counters.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/workspaces/Web_Handover_Handover/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(Use `node --trace-warnings ...` to show where the warning was created)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see "
+              },
+              {
+                "type": "link",
+                "url": "https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode"
+              },
+              {
+                "type": "text",
+                "text": "). (rejection id: 1)\n(node:24587) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.\nError connecting to database: connect ECONNREFUSED 127.0.0.1:27017\n(node:24587) UnhandledPromiseRejectionWarning: MongoTopologyClosedError: Topology is closed\n    at Topology.close (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:260:42)\n    at Object.callback (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:215:22)\n    at Timeout._onTimeout (/workspaces/Web_Handover_Handover/node_modules/mongoose/node_modules/mongodb/lib/sdam/topology.js:326:33)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)\n(node:24587) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see "
+              },
+              {
+                "type": "link",
+                "url": "https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode"
+              },
+              {
+                "type": "text",
+                "text": "). (rejection id: 2)\n^C"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631863341.000400",
+    "reply_count": 10,
+    "reply_users_count": 2,
+    "latest_reply": "1631864323.004600",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631864323.004600"
+  },
+  {
+    "client_msg_id": "44cc5e5d-edd9-4c85-a706-3b7841e8f232",
+    "type": "message",
+    "text": ":slightly_smiling_face: 이제 한달여정도 남았는데, 앞으로의 계획을 sprint 단위로 한번 세워보겠습니당 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631704141.013900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b3q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              },
+              {
+                "type": "text",
+                "text": " 이제 한달여정도 남았는데, 앞으로의 계획을 sprint 단위로 한번 세워보겠습니당 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631704141.013900",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1631704224.014500",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631704224.014500",
+    "reactions": [
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3ab19aea-2951-45a7-bec4-d57819126a69",
+    "type": "message",
+    "text": "아직 갈길이 멀어보여서 마음이 조급합니다 ㅠㅠ",
+    "user": "U02DPCQH7J5",
+    "ts": "1631704070.013000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UUKd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아직 갈길이 멀어보여서 마음이 조급합니다 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "36174fe3-3f62-49f8-8d4f-2946dbe0b366",
+    "type": "message",
+    "text": "이거는 저희가 익숙하지 않은 부분이니, 멘토님께 물어봐도 좋을 것 같네요 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631704039.012400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "27+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이거는 저희가 익숙하지 않은 부분이니, 멘토님께 물어봐도 좋을 것 같네요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "작년 가디언즈 팀이 mongodb를 사용했네요",
+    "files": [
+      {
+        "id": "F02EW357JHF",
+        "created": 1631703793,
+        "timestamp": 1631703793,
+        "name": "Screenshot_20210915-200245_Samsung Internet.jpg",
+        "title": "Screenshot_20210915-200245_Samsung Internet.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 92930,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EW357JHF/screenshot_20210915-200245_samsung_internet.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EW357JHF/download/screenshot_20210915-200245_samsung_internet.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_360.jpg",
+        "thumb_360_w": 171,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_480.jpg",
+        "thumb_480_w": 227,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_720.jpg",
+        "thumb_720_w": 341,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1689,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_960.jpg",
+        "thumb_960_w": 455,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EW357JHF-2cb7a00e55/screenshot_20210915-200245_samsung_internet_1024.jpg",
+        "thumb_1024_w": 485,
+        "thumb_1024_h": 1024,
+        "original_w": 1080,
+        "original_h": 2280,
+        "thumb_tiny": "AwAwABal09KU9AeOfpW15a5+6v8A3yKURr/cX/vmgDC6+lGK3vLT+4v5UeWn9xfyoAWijJz0NLmgBM0Z+v5UuaWgBhcBsE/pS716+vtS7QGz3NLzQAgIYcUtAzRQB//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02EW357JHF/screenshot_20210915-200245_samsung_internet.jpg",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02EW357JHF-3fe8eaec0c",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1631703810.010600",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jJmLV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "작년 가디언즈 팀이 mongodb를 사용했네요"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "7aaf822b-8c78-41f0-9d0a-2ca85021dd6b"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "db 를 오픈소스 전체로 가져와서 수정하는 라이선스랑 사용하는 라이선스는 또 달라서 라이센스적인 제약이 훨씬 적을겁니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1631703582.009700",
+    "thread_ts": "1631703345.009000",
+    "root": {
+      "client_msg_id": "60e36f43-e983-4e8a-849f-f6f1b4b0103d",
+      "type": "message",
+      "text": "db를 다시 선정해야할 수도 있겠네요",
+      "user": "U02DPCQH7J5",
+      "ts": "1631703345.009000",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AF1mN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "db를 다시 선정해야할 수도 있겠네요"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631703345.009000",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1631703878.011200",
+      "reply_users": [
+        "U02DX5BFPPS",
+        "U02DPCQH7J5"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631703878.011200"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S6pd3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "db 를 오픈소스 전체로 가져와서 수정하는 라이선스랑 사용하는 라이선스는 또 달라서 라이센스적인 제약이 훨씬 적을겁니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "0d2422d6-a583-4596-92ef-33a6e734ad8c"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "&gt;  GPL, LGPL은 거른다.\n이 라이선스들이 이런 경우입니다 :scream:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631703366.009100",
+    "thread_ts": "1631703127.004300",
+    "root": {
+      "client_msg_id": "e250f859-d7e8-4a9a-b7fc-9b8aabad3cbb",
+      "type": "message",
+      "text": "어떤 라이선스에서는 본 오픈소스 코드를 사용하면 무조건 특정 라이선스를 사용해서 공개해라 라고 하는 경우도 있습니다.",
+      "user": "U02DX5BFPPS",
+      "ts": "1631703127.004300",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hHhDT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "어떤 라이선스에서는 본 오픈소스 코드를 사용하면 무조건 특정 라이선스를 사용해서 공개해라 라고 하는 경우도 있습니다."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631703127.004300",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1631703366.009100",
+      "reply_users": [
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631703366.009100"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sr2",
+        "elements": [
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": " GPL, LGPL은 거른다."
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이 라이선스들이 이런 경우입니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "scream",
+                "unicode": "1f631"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "91411f40-9284-4fc1-8315-1d2d66b4d7d9",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631703380.000000"
+    }
+  },
+  {
+    "client_msg_id": "60e36f43-e983-4e8a-849f-f6f1b4b0103d",
+    "type": "message",
+    "text": "db를 다시 선정해야할 수도 있겠네요",
+    "user": "U02DPCQH7J5",
+    "ts": "1631703345.009000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AF1mN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "db를 다시 선정해야할 수도 있겠네요"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631703345.009000",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1631703878.011200",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631703878.011200"
+  },
+  {
+    "client_msg_id": "adb03279-45de-498f-8760-113b971fd646",
+    "type": "message",
+    "text": "음 일단 기본적으로 제일 많이 사용되는 MIT 로 사용하려고 생각하고 있었습니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1631703338.008700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lB=6M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 일단 기본적으로 제일 많이 사용되는 MIT 로 사용하려고 생각하고 있었습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d51d9931-9a13-42b8-a15d-cb9096722cae",
+    "type": "message",
+    "text": "<#C02D7P9TUE7|library> 에 올라와있는 작년 수상자들 Notion에 보면 멘토링 기록이 있는데요, 멘토님께서 라이선스 관련해서 아래와 같이 조언하셨었습니다.\n• 라이센스는 MIT, BSD, APACHE 2.0 중 고르는 것을 추천.\n    ◦ MIT: 보증하지 않지만 말그대로 아무렇게나 갖다써도 됨.\n    ◦ BSD: 보증 책임은 없지만, 가져갈 때 저작권자 언급을 해야 함.\n    ◦ APACH는 주로 학술적으로 사용함.\n    ◦ GPL, LGPL은 거른다. 소스를 오픈하도록 전염(오염)시키기 때문...",
+    "user": "U02D7GX0KGA",
+    "ts": "1631703300.008200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d1To",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "channel",
+                "channel_id": "C02D7P9TUE7"
+              },
+              {
+                "type": "text",
+                "text": " 에 올라와있는 작년 수상자들 Notion에 보면 멘토링 기록이 있는데요, 멘토님께서 라이선스 관련해서 아래와 같이 조언하셨었습니다.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "라이센스는 MIT, BSD, APACHE 2.0 중 고르는 것을 추천."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "MIT: 보증하지 않지만 말그대로 아무렇게나 갖다써도 됨."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "BSD: 보증 책임은 없지만, 가져갈 때 저작권자 언급을 해야 함."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "APACH는 주로 학술적으로 사용함."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "GPL, LGPL은 거른다. 소스를 오픈하도록 전염(오염)시키기 때문..."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e22beac8-6d8c-44b7-a76c-731bedad1f68",
+    "type": "message",
+    "text": "음 어떤 라이선스를 사용할지 미리 대략적으로 결정해두어야 어떤 라이브러리를 사용할지 결정하기에 편하지 않을까요?",
+    "user": "U02D7GX0KGA",
+    "ts": "1631703284.007700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9uCq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음 어떤 라이선스를 사용할지 미리 대략적으로 결정해두어야 어떤 라이브러리를 사용할지 결정하기에 편하지 않을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cdc6ad33-cbe9-434c-b49c-f74c6d5b018c",
+    "type": "message",
+    "text": "<https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project>\n그냥 MIT 로 진행해도 큰 문제는 없을 것 같은데, 그래도 사용한 라이브러리마다 확인해봐야 할 것 같습니다. 대회측에서도 확인 절차를 거쳐서 선발하기 때문에 빠진 부분 없도록 꼼꼼히 체크해서 라이선스를 골러야할 것 같네요 :open_mouth:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631703234.006600",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Open Source Guides",
+        "title": "The Legal Side of Open Source",
+        "title_link": "https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project",
+        "text": "Everything you’ve ever wondered about the legal side of open source, and a few things you didn’t.",
+        "fallback": "Open Source Guides: The Legal Side of Open Source",
+        "image_url": "https://opensource.guide/assets/images/cards/legal.png",
+        "from_url": "https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project",
+        "image_width": 466,
+        "image_height": 250,
+        "image_bytes": 41749,
+        "service_icon": "https://github.githubassets.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Ks",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project"
+              },
+              {
+                "type": "text",
+                "text": "\n그냥 MIT 로 진행해도 큰 문제는 없을 것 같은데, 그래도 사용한 라이브러리마다 확인해봐야 할 것 같습니다. 대회측에서도 확인 절차를 거쳐서 선발하기 때문에 빠진 부분 없도록 꼼꼼히 체크해서 라이선스를 골러야할 것 같네요 "
+              },
+              {
+                "type": "emoji",
+                "name": "open_mouth",
+                "unicode": "1f62e"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e250f859-d7e8-4a9a-b7fc-9b8aabad3cbb",
+    "type": "message",
+    "text": "어떤 라이선스에서는 본 오픈소스 코드를 사용하면 무조건 특정 라이선스를 사용해서 공개해라 라고 하는 경우도 있습니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1631703127.004300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hHhDT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "어떤 라이선스에서는 본 오픈소스 코드를 사용하면 무조건 특정 라이선스를 사용해서 공개해라 라고 하는 경우도 있습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631703127.004300",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1631703366.009100",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631703366.009100"
+  },
+  {
+    "client_msg_id": "9d1620a2-69b1-48f9-8cd8-ad74783d7bb0",
+    "type": "message",
+    "text": "엇 아니요, 저희가 사용한 오픈소스에 따라서 달라집니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1631703080.003500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lNKP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "엇 아니요, 저희가 사용한 오픈소스에 따라서 달라집니다."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "485c7a59-1c97-4d67-9adc-14683e598d45",
+    "type": "message",
+    "text": "이윤을 챙기고자 하는게 아니니까요",
+    "user": "U02DPCQH7J5",
+    "ts": "1631703045.003100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BNyLF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이윤을 챙기고자 하는게 아니니까요"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "27498555-c7df-4e72-877d-1ebe443cfdcf",
+    "type": "message",
+    "text": "소스 전체를 공유해도 되기 때문에 라이선스가 크게 상관이 없으려나요?",
+    "user": "U02DPCQH7J5",
+    "ts": "1631703031.002800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4P6mI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "소스 전체를 공유해도 되기 때문에 라이선스가 크게 상관이 없으려나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7224e2a0-eb9f-463a-92e3-6cb5bfa2f89d",
+    "type": "message",
+    "text": "<https://github.com/osamhack2021/Web_Handover_Handover/issues/5>\n넵 맞습니다! 일단 사용할 라이브러리가 다 정해진 후에 고려해서 결정하려고 했었는데, 그 전에 고려해야할 사항이 있을까요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1631702778.001500",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "text": "Some resources from README.md\n\n☐ <https://olis.or.kr/license/compareGuide.do|라이선스 비교표(클릭)>\n☐ <https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository|Github 내 라이선스 키워드(클릭)>\n☐ <https://flyingsquirrel.medium.com/github-license%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%9E%EB%8A%94-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-ae29925e8ff4|[참조] Github license의 종류와 나에게 맞는 라이선스 선택하기(클릭)>",
+        "title": "<https://github.com/osamhack2021/Web_Handover_Handover/issues/5|#5 License: Update LICENSE.md to suitable license type>",
+        "footer": "<https://github.com/osamhack2021/Web_Handover_Handover|osamhack2021/Web_Handover_Handover>",
+        "id": 1,
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1631455020,
+        "color": "36a64f",
+        "fields": [
+          {
+            "title": "Assignees",
+            "value": "ntcho",
+            "short": true
+          }
+        ],
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "<https://github.com/osamhack2021/Web_Handover_Handover/issues/5|#5 License: Update LICENSE.md to suitable license type>",
+        "bot_id": "B02DU6375LH",
+        "app_unfurl_url": "https://github.com/osamhack2021/Web_Handover_Handover/issues/5",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QqCKs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/osamhack2021/Web_Handover_Handover/issues/5"
+              },
+              {
+                "type": "text",
+                "text": "\n넵 맞습니다! 일단 사용할 라이브러리가 다 정해진 후에 고려해서 결정하려고 했었는데, 그 전에 고려해야할 사항이 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4148ce3e-d9d5-48c2-a503-80ebb8de2130",
+    "type": "message",
+    "text": "라이센스를 고민해봐겨할 것 같습니다",
+    "user": "U02DPCQH7J5",
+    "ts": "1631702722.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mqo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "라이센스를 고민해봐겨할 것 같습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02EPJU14P6",
+        "created": 1631702708,
+        "timestamp": 1631702708,
+        "name": "Screenshot_20210915-194302_Samsung Internet.jpg",
+        "title": "Screenshot_20210915-194302_Samsung Internet.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 103819,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EPJU14P6/screenshot_20210915-194302_samsung_internet.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02EPJU14P6/download/screenshot_20210915-194302_samsung_internet.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 355,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 473,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 709,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 788,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 946,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02EPJU14P6-b24078017f/screenshot_20210915-194302_samsung_internet_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1009,
+        "original_w": 1080,
+        "original_h": 1064,
+        "thumb_tiny": "AwAvADDSIORg96btf+/+lIc5PX9aBnPf9aAHjIHJzS1Hz7/rRznv+tAElIRk5yaZz7/maVTyOv60AKVye1Jt+lIcZPTr7UnHt+QoAdtPqKNvPUYpCB6D8hSce36UASbR/k0BQOn86j+uPyFOX73b9KAA7cn5vwoG3ruzSlTk/wCNIVb/ACaAFyntRlPagKe5P4Gl2+5/OgBMp7UAr2xS7fc/nQFx3P50Af/Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02EPJU14P6/screenshot_20210915-194302_samsung_internet.jpg",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02EPJU14P6-260325da89",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1631702712.000100",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "plF8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "2e03eb8a-97fc-43b4-b545-a057b05fca8d"
+  },
+  {
+    "client_msg_id": "d829935f-90d9-4d3d-96a8-6984946b56ec",
+    "type": "message",
+    "text": "&lt;&lt;해결된 질문입니다&gt;&gt;\nreact 관련 질문을 여기에 올려도 될까요? :sweat_smile:\n<https://react.vlpt.us/basic/09-multiple-inputs.html>\n이 링크를 따라 InputSample.js를 작성했는데 TypeError: Object(...) is not a function 에러가 발생합니다.\n링크에 첫 번째로 작성되어있는 UI만 짜져있는 InputSample.js는 잘 컴파일이 되는데 useState 같은 함수들을 집어넣고 작성하니 에러가 발생합니다.\n구글링을 해봤지만 어떤 에러인지 잘 모르겠고 해결이 안되어서요,, 도움을 받고 싶습니다!",
+    "user": "U02D7GX0KGA",
+    "ts": "1631261431.002500",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02D7GX0KGA",
+      "ts": "1631271361.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ShT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "<<해결된 질문입니다>>\nreact 관련 질문을 여기에 올려도 될까요? "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://react.vlpt.us/basic/09-multiple-inputs.html"
+              },
+              {
+                "type": "text",
+                "text": "\n이 링크를 따라 InputSample.js를 작성했는데 TypeError: Object(...) is not a function 에러가 발생합니다.\n링크에 첫 번째로 작성되어있는 UI만 짜져있는 InputSample.js는 잘 컴파일이 되는데 useState 같은 함수들을 집어넣고 작성하니 에러가 발생합니다.\n구글링을 해봤지만 어떤 에러인지 잘 모르겠고 해결이 안되어서요,, 도움을 받고 싶습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631261431.002500",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1631263719.003700",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631263719.003700",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667213.000800",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630666970.000500",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630653338.000200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630623797.000100",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630594009.000600",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_purpose",
+    "ts": "1630592549.000300",
+    "user": "U02DX5BFPPS",
+    "text": "set the channel description: 도움이 필요한 사항이 있으면 언제든지 메시지를 보내주세요.",
+    "purpose": "도움이 필요한 사항이 있으면 언제든지 메시지를 보내주세요."
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630592548.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

@@ -1,0 +1,1125 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Drive notifications in Slack are turned off. For assistance, type \"*help*\".",
+    "ts": "1636120207.000300",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05"
+  },
+  {
+    "client_msg_id": "be10ad43-2aba-4d2a-83a5-bfd110272f09",
+    "type": "message",
+    "text": "stop",
+    "user": "U02DX5BFPPS",
+    "ts": "1636120205.000200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gw5IS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "stop"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "­이재훈 commented on",
+    "ts": "1636098368.000200",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "fallback": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1W_i47m-Od_umOT2R6zUexv-lVT5Pqc0p/edit?disco=AAAAQwl4ux4&ts=6184e13f&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_4.2. 시장진입 및 성과창출 전략_\n\"시공서비스 - 인력 충당을 할건지.\n커머스 - 기존의 제조업체 시장 네트워크에 어떤 경쟁력을 가질 것인지.  (ex. 퓨홈이라는 시장 형성­_이용자수 1만명 이상 됐을 때 도입 등)\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_4.2. 시장진입 및 성과창출 전략_\n\"시공서비스 - 인력 충당을 할건지.\n커머스 - 기존의 제조업체 시장 네트워크에 어떤 경쟁력을 가질 것인지.  (ex. 퓨홈이라는 시장 형성­_이용자수 1만명 이상 됐을 때 도입 등)\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "­이재훈 commented on",
+    "ts": "1636098252.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "fallback": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1W_i47m-Od_umOT2R6zUexv-lVT5Pqc0p/edit?disco=AAAAQwl4ux0&ts=6184e0cc&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_5.1. 팀원_\n\"군대에서 몇 시간씩 투자하여 일하고 있는지 설명 필요\n\n개발 환경이 얼마나 좋은지, (해커톤 경력)\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_5.1. 팀원_\n\"군대에서 몇 시간씩 투자하여 일하고 있는지 설명 필요\n\n개발 환경이 얼마나 좋은지, (해커톤 경력)\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "­이재훈 commented on",
+    "ts": "1636097903.000300",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "fallback": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1W_i47m-Od_umOT2R6zUexv-lVT5Pqc0p/edit?disco=AAAAQwl4uxw&ts=6184df6f&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_3. 시장성 및 사업성_\n\"3.1. 시장 규모 pitch deck 형식으로\n3.2. 법 관련된 외부 기회 요인 작성 필요\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_3. 시장성 및 사업성_\n\"3.1. 시장 규모 pitch deck 형식으로\n3.2. 법 관련된 외부 기회 요인 작성 필요\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "­이재훈 commented on",
+    "ts": "1636097764.000200",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "fallback": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1W_i47m-Od_umOT2R6zUexv-lVT5Pqc0p/edit?disco=AAAAQwl4uxo&ts=6184dee4&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_2. 아이템 사진 및 기술성_\n\"2.1. 사용자 맞춤형 서비스가 어떻게 제공되는지.\n2.2. 기술성\n사용자 맞춤형 기술 설명\n2.3. 개발 계획 (수정 X)\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_2. 아이템 사진 및 기술성_\n\"2.1. 사용자 맞춤형 서비스가 어떻게 제공되는지.\n2.2. 기술성\n사용자 맞춤형 기술 설명\n2.3. 개발 계획 (수정 X)\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "­이재훈 commented on",
+    "ts": "1636097564.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "fallback": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈­_v2.docx",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1W_i47m-Od_umOT2R6zUexv-lVT5Pqc0p/edit?disco=AAAAQwl4uxk&ts=6184de1c&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_1. 아이템 개요_\n\"1.1 아이템 개발 동기 요약\n1.2 고객한테 초점 (비용적인 측면, 시간 적인 측면 등의 사용자가 스마트홈을 이용했을 때 얻을 수 있는 가치 + 퓨홈을 이용했을 때 얻을 수 있는 가치)\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_1. 아이템 개요_\n\"1.1 아이템 개발 동기 요약\n1.2 고객한테 초점 (비용적인 측면, 시간 적인 측면 등의 사용자가 스마트홈을 이용했을 때 얻을 수 있는 가치 + 퓨홈을 이용했을 때 얻을 수 있는 가치)\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "MiYoung Kim commented on",
+    "ts": "1636095342.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Statement",
+        "fallback": "Statement",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1NsHHi2weZMqwn2mNWahfRq1xwHcCJxCbhzPbRGjGQ3Q/edit?disco=AAAAQSYaFPM&ts=6184d56e&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.document"
+      },
+      {
+        "author_name": "In reply to Nathan Cho:",
+        "callback_id": "comment",
+        "text": "\"awwwww hahah yes thank you\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"awwwww hahah yes thank you\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "­이재훈 resolved a comment in",
+    "ts": "1635759246.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈.docx",
+        "fallback": "제26회­_벤처창업경진대회­_참여신청서­_ArmyGarage­_이재훈.docx",
+        "id": 1,
+        "author_link": "https://docs.google.com/document/d/1E6EQhVkTbErcJ2YvpukD9aF1NlFpSfHa/edit?disco=AAAARXZFfHc&ts=617fb48e&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "callback_id": "comment",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634688062.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "thread_ts": "1634688062.000100",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634709138.000100",
+    "reply_users": [
+      "B02HY7S9J05"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAARA2JmsM&ts=616f5c3d&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_체계화된 인수인계 문서_\n\"문서 구조 그림의 경우 둥근 네모보다는 더 각진 네모로 그리는게 좋을 것 같아 임의로 조금 수정했습니다..!\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_체계화된 인수인계 문서_\n\"문서 구조 그림의 경우 둥근 네모보다는 더 각진 네모로 그리는게 좋을 것 같아 임의로 조금 수정했습니다..!\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634650033.000200",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "thread_ts": "1634650033.000200",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634712086.000300",
+    "reply_users": [
+      "B02HY7S9J05"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ9W7w7I&ts=616ec7b0&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_Tiptap Editor_\n\"Handover의 에디터 UI로 교체\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_Tiptap Editor_\n\"Handover의 에디터 UI로 교체\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634650012.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ9W7w7E&ts=616ec79c&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "\"대체할 이미지!!!\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"대체할 이미지!!!\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634468753.000200",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1c&ts=616c0391&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_보안성까지 고려한 Handover_\n\"수정 사항\n- 두 문단이 너무 가깝게 있어 가독성이 떨어져 떨어뜨려놓았습니다.\n- 레이아웃의 느낌을 알기 쉽도록 일단 예시 사진을 넣어뒀습니다.\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_보안성까지 고려한 Handover_\n\"수정 사항\n- 두 문단이 너무 가깝게 있어 가독성이 떨어져 떨어뜨려놓았습니다.\n- 레이아웃의 느낌을 알기 쉽도록 일단 예시 사진을 넣어뒀습니다.\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634468584.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1Y&ts=616c02e8&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_체계화된 인수인계 문서_\n\"수정 내용\n- 사진 크기 조절\n- 텍스트 수정\n- 텍스트 박스 줄 간격 수정 (기존 슬라이드는 줄 간격이 너무 좁아서 가독성이 안좋네요..)\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_체계화된 인수인계 문서_\n\"수정 내용\n- 사진 크기 조절\n- 텍스트 수정\n- 텍스트 박스 줄 간격 수정 (기존 슬라이드는 줄 간격이 너무 좁아서 가독성이 안좋네요..)\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634467498.001000",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1U&ts=616bfeaa&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_사용 기술_\n\"수정 사항\n- 기존 슬라이드의 경우 위 아래 여백이 너무 적어 답답한 느낌이 드는 것 같아 사진을 조금 줄였습니다.\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_사용 기술_\n\"수정 사항\n- 기존 슬라이드의 경우 위 아래 여백이 너무 적어 답답한 느낌이 드는 것 같아 사진을 조금 줄였습니다.\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634467311.000900",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1Q&ts=616bfdef&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "\"수정 제안\n- 지금의 알고리아 사진을 handover의 검색 결과 페이지 스크린샷으로 교체하는건 어떠신가요?\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"수정 제안\n- 지금의 알고리아 사진을 handover의 검색 결과 페이지 스크린샷으로 교체하는건 어떠신가요?\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634467265.000800",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1M&ts=616bfdc1&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_백엔드 개발_\n\"수정 내용\n- 일부 텍스트 수정, 강조색 추가\n- 텍스트 박스 resize\n- 사진 배치 및 사진 하나 제거 (3개는 현재 레이아웃으로 보여주면 너무 어지럽게 보이는 것 같습니다..)\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_백엔드 개발_\n\"수정 내용\n- 일부 텍스트 수정, 강조색 추가\n- 텍스트 박스 resize\n- 사진 배치 및 사진 하나 제거 (3개는 현재 레이아웃으로 보여주면 너무 어지럽게 보이는 것 같습니다..)\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634466680.000700",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1I&ts=616bfb78&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_프론트엔드 개발_\n\"수정사항\n- 일부 텍스트 강조색 추가\n- (ㅠㅠ 아까 전 이 슬라이드에 사진 하나만 넣자고 했던게 atomic design과 mern boilerplate의 사진이 아니라 노트북 사진을 말했던거였는데 소통이 잘 안되었네요 :disappointed_relieved: 명확히 말씀드리지 못해 죄송합니다..) 프론트엔드 개발이 마무리되면 Handover의 스크린샷을 노트북에 넣어서 슬라이드에 넣도록 수정\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_프론트엔드 개발_\n\"수정사항\n- 일부 텍스트 강조색 추가\n- (ㅠㅠ 아까 전 이 슬라이드에 사진 하나만 넣자고 했던게 atomic design과 mern boilerplate의 사진이 아니라 노트북 사진을 말했던거였는데 소통이 잘 안되었네요 :disappointed_relieved: 명확히 말씀드리지 못해 죄송합니다..) 프론트엔드 개발이 마무리되면 Handover의 스크린샷을 노트북에 넣어서 슬라이드에 넣도록 수정\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634466417.000600",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1E&ts=616bfa71&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_개발 환경_\n\"수정 사항\n- '서버로 바로 배포되는 ...' 부분의 텍스트를 살짝 아래로 내렸습니다.\n- 사진의 크기와 배치를 수정했습니다.\n- 일부 텍스트에 강조색을 추가했습니다.\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_개발 환경_\n\"수정 사항\n- '서버로 바로 배포되는 ...' 부분의 텍스트를 살짝 아래로 내렸습니다.\n- 사진의 크기와 배치를 수정했습니다.\n- 일부 텍스트에 강조색을 추가했습니다.\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634466096.000500",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM1A&ts=616bf930&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_협업 방식_\n\"수정 사항\n- 15번 슬라이드와 동일한 이유(텍스트와 여백의 균형을 맞추기 위함)로 사진의 배치를 살짝 수정했습니다.\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_협업 방식_\n\"수정 사항\n- 15번 슬라이드와 동일한 이유(텍스트와 여백의 균형을 맞추기 위함)로 사진의 배치를 살짝 수정했습니다.\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634466023.000400",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "thread_ts": "1634466023.000400",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634471458.000300",
+    "reply_users": [
+      "B02HY7S9J05"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM08&ts=616bf8e7&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_기획 및 디자인_\n\"수정 사항\n- flow diagram을  조금 더 이쁘게 보이게 잘라 보았습니다. 이전 버전은 너무 뚝 잘라진 느낌이 들어서 수정해보았습니다.\n- 사진의 크기가 너무 커서 줄였습니다. 지금 템플릿의 텍스트를 보면 주위에 여백을 꽤 많이 주고 있는데, 사진도 그정도의 여백은 갖고 있어야 균형이 맞아 보인다고 생각합니다..!\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_기획 및 디자인_\n\"수정 사항\n- flow diagram을  조금 더 이쁘게 보이게 잘라 보았습니다. 이전 버전은 너무 뚝 잘라진 느낌이 들어서 수정해보았습니다.\n- 사진의 크기가 너무 커서 줄였습니다. 지금 템플릿의 텍스트를 보면 주위에 여백을 꽤 많이 주고 있는데, 사진도 그정도의 여백은 갖고 있어야 균형이 맞아 보인다고 생각합니다..!\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634465385.000300",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM00&ts=616bf669&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_체계화된 인수인계 문서_\n\"오 이 슬라이드는 임시로 수정해볼려고 만들어놨습니다..!\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_체계화된 인수인계 문서_\n\"오 이 슬라이드는 임시로 수정해볼려고 만들어놨습니다..!\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634465167.000200",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM0w&ts=616bf58f&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "\"문서의 댓글에서 활발하게 소통하는 스크린샷을 넣으면 좋을 것 같아요!\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"문서의 댓글에서 활발하게 소통하는 스크린샷을 넣으면 좋을 것 같아요!\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634463918.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM0o&ts=616bf0ae&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "\"음 꼭 세 가지 사진을 다 넣을 필요는 없을 것 같은데, 혹시 수정 전처럼 이 사진만 적당한 사이즈로 넣는건 어떠신가요? 지금은 세 사진들이 제각각이고 배치가 조금 어지럽다는 느낌이 드네요..\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"음 꼭 세 가지 사진을 다 넣을 필요는 없을 것 같은데, 혹시 수정 전처럼 이 사진만 적당한 사이즈로 넣는건 어떠신가요? 지금은 세 사진들이 제각각이고 배치가 조금 어지럽다는 느낌이 드네요..\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Anonymous commented on",
+    "ts": "1634456734.001100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM0Y&ts=616bd49e&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_군 장병의_\n\"장병 및 간부의 -­&gt; 군 장병의\n장병 : 장성부터 병까지\n간부와 병을 모두 통합한 의미\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_군 장병의_\n\"장병 및 간부의 -­&gt; 군 장병의\n장병 : 장성부터 병까지\n간부와 병을 모두 통합한 의미\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634452640.001000",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zVM0U&ts=616bc4a0&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_글이 조금 긴데 2­~3 줄 분량으로 가능할까요?_\n\"저도 텍스트 양을 줄이면 더 좋을 것 같네요 ㅎㅎ..\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_글이 조금 긴데 2­~3 줄 분량으로 가능할까요?_\n\"저도 텍스트 양을 줄이면 더 좋을 것 같네요 ㅎㅎ..\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634447266.000900",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zTkro&ts=616bafa2&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_가이드를 제공함으로써 내용이 주제와 벗어나지 않게 도움_\n\"이 부분이 반복되는 인수인계서 작성과 어떤 연관이 있는지 잘 모르겠습니다. 이 슬라이드에서는 문제점을 언급해야 하는데 해결 방안을 언급한 것 같아요\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_가이드를 제공함으로써 내용이 주제와 벗어나지 않게 도움_\n\"이 부분이 반복되는 인수인계서 작성과 어떤 연관이 있는지 잘 모르겠습니다. 이 슬라이드에서는 문제점을 언급해야 하는데 해결 방안을 언급한 것 같아요\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 resolved a comment in",
+    "ts": "1634441373.000800",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAOyGEpEQ&ts=616b989d&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634441363.000700",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zTkrY&ts=616b9893&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "\"사진에 흰색백그라운드 넣기\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"사진에 흰색백그라운드 넣기\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634441334.000600",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zTkrU&ts=616b9876&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_90개_\n\"이슈 개수 마지막에 확정하기 ㅎ\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_90개_\n\"이슈 개수 마지막에 확정하기 ㅎ\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634441002.000500",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zTkrQ&ts=616b972a&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_만들어가는_\n\"내용수정필요\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_만들어가는_\n\"내용수정필요\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 resolved a comment in",
+    "ts": "1634440045.000400",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ6QMA-c&ts=616b936d&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 resolved a comment in",
+    "ts": "1634440004.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7yArlA&ts=616b9344&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 commented on",
+    "ts": "1634438468.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "thread_ts": "1634438468.000100",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634440034.000200",
+    "reply_users": [
+      "B02HY7S9J05"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zTkqg&ts=616b8d44&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "author_name": "In reply to 최우혁:",
+        "callback_id": "comment",
+        "text": "\"음 37번 슬라이드에 이미 있는데 또 추가되어있어서요!\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "\"음 37번 슬라이드에 이미 있는데 또 추가되어있어서요!\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "최우혁 resolved a comment in",
+    "ts": "1634438111.000700",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ6QMA-0&ts=616b8bdf&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "[no preview available]"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Did you know? You can reply directly to the comments that are sent to you by starting a thread in Slack. Any additional comments in Google Drive go straight into that Slack thread.",
+    "ts": "1634437559.000600",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "fallback": "introduction to comment replies",
+        "image_url": "https://storage.googleapis.com/drive-slack/comment_replies_intro.gif",
+        "image_width": 800,
+        "image_height": 518,
+        "image_bytes": 994455,
+        "is_animated": true,
+        "id": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Anonymous commented on",
+    "ts": "1634437558.000500",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "attachments": [
+      {
+        "author_name": "Handover 발표 자료",
+        "fallback": "Handover 발표 자료",
+        "id": 1,
+        "author_link": "https://docs.google.com/presentation/d/1j305mvbCzaCDUSAxK8cMIOYjXh78JtgwlQwrmwWBzGk/edit?disco=AAAAQ7zTkqs&ts=616b89b6&usp=slack",
+        "author_icon": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.presentation"
+      },
+      {
+        "callback_id": "comment",
+        "text": "&gt;_Github Codespaces 를 이용한 팀 개발 환경 구성_\n\"이건 필요 없을 듯 합니다..?\"",
+        "footer": "Reply to this thread to reply to the comment",
+        "id": 2,
+        "footer_icon": "https://www.gstatic.com/images/icons/material/system/1x/reply_grey600_16dp.png",
+        "color": "4285f4",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "fallback": "&gt;_Github Codespaces 를 이용한 팀 개발 환경 구성_\n\"이건 필요 없을 듯 합니다..?\""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "Drive notifications in Slack are turned on. You will receive updates about new comments, access requests, and files shared with you. For assistance, type \"*help*\".",
+    "ts": "1634436807.000400",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05"
+  },
+  {
+    "client_msg_id": "ef4ca16a-8087-413e-a53c-cff9bbb697fd",
+    "type": "message",
+    "text": "start",
+    "user": "U02DX5BFPPS",
+    "ts": "1634436805.000300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qv2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "start"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "This content can't be displayed.",
+    "ts": "1634436557.000100",
+    "username": "Google Drive",
+    "bot_id": "B02HY7S9J05",
+    "blocks": [
+      {
+        "type": "section",
+        "block_id": "P08W1",
+        "text": {
+          "type": "mrkdwn",
+          "text": "Hi, <@U02DX5BFPPS> :wave: Thanks for turning on Drive notifications in Slack. You will receive updates about new comments, access requests, and files shared with you.\n\nSome useful tips:\n• If you’re trying to *reply* to a comment notification, start a thread from the notification message.\n• Type \"*off*\" or \"*stop*\" to turn off notifications.\n• Type \"*on*\" or \"*start*\" to turn notifications back on.\n• Type \"*help*\" for assistance.\n• :question: Learn more about Google Drive for Slack in the <https://slack.com/help/articles/205875058-Google-Drive-for-Slack|Help Center>",
+          "verbatim": false
+        }
+      }
+    ]
+  }
+]

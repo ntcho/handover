@@ -1,0 +1,1075 @@
+[
+  {
+    "client_msg_id": "34df933a-a4f1-4cf5-aa76-af4e5ae577b9",
+    "type": "message",
+    "text": "<https://osam.kr/hackathon/hacCommunity/hackathonNotice?m=v&amp;wdnId=22|https://osam.kr/hackathon/hacCommunity/hackathonNotice?m=v&amp;wdnId=22>\n이번주 일요일까지 소감 영상 및 증명사진 제출이니 늦지않게 각자 이메일로 제출해주시면 됩니다! :wink: :tada:",
+    "user": "U02DX5BFPPS",
+    "ts": "1636760532.001200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "416xA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://osam.kr/hackathon/hacCommunity/hackathonNotice?m=v&wdnId=22",
+                "text": "https://osam.kr/hackathon/hacCommunity/hackathonNotice?m=v&wdnId=22"
+              },
+              {
+                "type": "text",
+                "text": "\n이번주 일요일까지 소감 영상 및 증명사진 제출이니 늦지않게 각자 이메일로 제출해주시면 됩니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "unicode": "1f609"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "unicode": "1f389"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      },
+      {
+        "name": "blush",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5ca76b6b-75cb-41ae-8f38-7b010b1d3de4",
+    "type": "message",
+    "text": "<http://handover.berict.com/>",
+    "user": "U02DX5BFPPS",
+    "ts": "1634738330.001000",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "Handover",
+        "title_link": "http://handover.berict.com/",
+        "text": "A Full MERN Stack Boilerplate",
+        "fallback": "Handover",
+        "from_url": "http://handover.berict.com/",
+        "service_icon": "http://handover.berict.com/favicon.ico",
+        "service_name": "handover.berict.com",
+        "id": 1,
+        "original_url": "http://handover.berict.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uTmLg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://handover.berict.com/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "Handover 발표자료입니다.",
+    "files": [
+      {
+        "id": "F02J05F658F",
+        "created": 1634738062,
+        "timestamp": 1634738062,
+        "name": "osam_handover_handover_presentation.pdf",
+        "title": "osam_handover_handover_presentation.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 13036864,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J05F658F/osam_handover_handover_presentation.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J05F658F/download/osam_handover_handover_presentation.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J05F658F-64f6890c02/osam_handover_handover_presentation_thumb_pdf.png",
+        "thumb_pdf_w": 3911,
+        "thumb_pdf_h": 2200,
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02J05F658F/osam_handover_handover_presentation.pdf",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J05F658F-7770bc07fe",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1634738082.000500",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0wcqX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Handover 발표자료입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "c3634358-c083-4ee5-b52a-e7095e7f2c94",
+    "thread_ts": "1634738082.000500",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634738332.001200",
+    "reply_users": [
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634738332.001200",
+    "reactions": [
+      {
+        "name": "partying_face",
+        "users": [
+          "U02D8EUAE69",
+          "U02DX5BFPPS"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "df819bc2-6d58-4be8-b62c-f3fa4cec9679",
+    "type": "message",
+    "text": ":bulb: 주최측에서 팀원분들의 *오픈소스 커뮤니티 참가 현황*을 조사해서 알려달라고 연락이 왔습니다!\n\n첫 회의 때 멘토님께서 알려주신 커뮤니티처럼 현재 참여하고 계신 오픈소스 커뮤니티 또는 프로젝트와 어떤 활동을 하셨는지 스레드로 알려주시면 종합해서 주최측으로 전달하겠습니다! 활동을 하고 있지 않던 분들은 찾아보시고 가입하신 다음에 *10월 2일 토요일 저녁*까지 알려주시면 됩니다. :slightly_smiling_face:\n\n아래와 같이 *커뮤니티 이름, 링크, 활동 내용 3가지*를 보내주시면 됩니다.\n\n커뮤니티 명: 리액트 코리아 페이스북 그룹 (<https://www.facebook.com/groups/react.ko/>)\n활동 내용: 질문 글에 댓글로 답변, 리액트 관련 게시글 확인\n\n\n다음은 수신받은 이메일입니다. (팀원분들도 모두 받으신 것 같습니다. :eyes: )\n\n:memo: *해커톤 참가자 커뮤니티 참여현황 조사(1차)*\n\n*- 조사기간 : 2021년 10월 3일(일) 자정까지*\n*- 조사대상 : 해커톤 참가자 전원(포기자 제외)*\n*- 조사방법 : 각 프로젝트 팀장은 본인과 팀원의 커뮤니티 활동 및 참여 내용을 확인하여 본 메일로 답장을 회신하여 주시기 바랍니다.*\n*- 조사항목 : 참가자명, 참여 커뮤니티 명칭, 해당 커뮤니티 URL  ※ 오프라인일 경우에는 오프라인으로 표기*\n\n※ 조사대상 커뮤니티 조건\n\n1) IT 및 SW 분야 관련 커뮤니티 (꼭 오픈소스 분야가 아니여도 됨)\n- 다음카페, 네이버카페, 페이스북 그룹, 커뮤니티 사이트 등\n- 오프라인 모임, 스터디 그룹, 개발자 집단 등\n\n2) 본인이 추진 중이거나 참여 중인 오픈소스 개발방식 프로젝트\n\n'2021 군장병 공개SW 온라인 해커톤'은 오픈소스 문화 확장 및 참여 활성화를 위해 참가자들의 IT 및 SW 분야의 커뮤니티 참여를 적극 권장하고 있습니다.\n해커톤 참여자께서는 현재 별도 참여 중이신 커뮤니티가 없으시다면 교육기간(2021년 10월 20일)이 종료되기 전까지 관심있는 커뮤니티에 참여/가입을 진행해주시길 권해드립니다.\n\n본 조사는 매주 정기적으로 진행될 예정으로 해커톤 참여에 참조해주시면 감사하겠습니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1632923413.006800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C9i5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "bulb",
+                "unicode": "1f4a1"
+              },
+              {
+                "type": "text",
+                "text": " 주최측에서 팀원분들의 "
+              },
+              {
+                "type": "text",
+                "text": "오픈소스 커뮤니티 참가 현황",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "을 조사해서 알려달라고 연락이 왔습니다!\n\n첫 회의 때 멘토님께서 알려주신 커뮤니티처럼 현재 참여하고 계신 오픈소스 커뮤니티 또는 프로젝트와 어떤 활동을 하셨는지 스레드로 알려주시면 종합해서 주최측으로 전달하겠습니다! 활동을 하고 있지 않던 분들은 찾아보시고 가입하신 다음에 "
+              },
+              {
+                "type": "text",
+                "text": "10월 2일 토요일 저녁",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "까지 알려주시면 됩니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              },
+              {
+                "type": "text",
+                "text": "\n\n아래와 같이 "
+              },
+              {
+                "type": "text",
+                "text": "커뮤니티 이름, 링크, 활동 내용 3가지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 보내주시면 됩니다.\n\n커뮤니티 명: 리액트 코리아 페이스북 그룹 ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.facebook.com/groups/react.ko/"
+              },
+              {
+                "type": "text",
+                "text": ")\n활동 내용: 질문 글에 댓글로 답변, 리액트 관련 게시글 확인\n\n\n다음은 수신받은 이메일입니다. (팀원분들도 모두 받으신 것 같습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "unicode": "1f440"
+              },
+              {
+                "type": "text",
+                "text": " )\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "memo",
+                "unicode": "1f4dd"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "해커톤 참가자 커뮤니티 참여현황 조사(1차)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "- 조사기간 : 2021년 10월 3일(일) 자정까지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "- 조사대상 : 해커톤 참가자 전원(포기자 제외)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "- 조사방법 : 각 프로젝트 팀장은 본인과 팀원의 커뮤니티 활동 및 참여 내용을 확인하여 본 메일로 답장을 회신하여 주시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "- 조사항목 : 참가자명, 참여 커뮤니티 명칭, 해당 커뮤니티 URL  ※ 오프라인일 경우에는 오프라인으로 표기",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n※ 조사대상 커뮤니티 조건\n\n1) IT 및 SW 분야 관련 커뮤니티 (꼭 오픈소스 분야가 아니여도 됨)\n- 다음카페, 네이버카페, 페이스북 그룹, 커뮤니티 사이트 등\n- 오프라인 모임, 스터디 그룹, 개발자 집단 등\n\n2) 본인이 추진 중이거나 참여 중인 오픈소스 개발방식 프로젝트\n\n'2021 군장병 공개SW 온라인 해커톤'은 오픈소스 문화 확장 및 참여 활성화를 위해 참가자들의 IT 및 SW 분야의 커뮤니티 참여를 적극 권장하고 있습니다.\n해커톤 참여자께서는 현재 별도 참여 중이신 커뮤니티가 없으시다면 교육기간(2021년 10월 20일)이 종료되기 전까지 관심있는 커뮤니티에 참여/가입을 진행해주시길 권해드립니다.\n\n본 조사는 매주 정기적으로 진행될 예정으로 해커톤 참여에 참조해주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632923413.006800",
+    "reply_count": 7,
+    "reply_users_count": 6,
+    "latest_reply": "1633256828.000800",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DPCQH7J5",
+      "U02DE2CLG0L",
+      "U02D8EUAE69",
+      "U02DHN1UBHA",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633256828.000800",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02D8EUAE69",
+          "U02DPCQH7J5"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1ee691d0-38b6-43a0-b3e8-d6dbfb185803",
+    "type": "message",
+    "text": ":rocket:  <http://handover.berict.com/> 에서 `develop` 브랜치 내용을 확인하실 수 있습니다! (IP 주소 <http://20.194.39.3/> 으로도 접속이 가능합니다)",
+    "user": "U02DX5BFPPS",
+    "ts": "1632571388.002700",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "Handover",
+        "title_link": "http://handover.berict.com/",
+        "text": "A Full MERN Stack Boilerplate",
+        "fallback": "Handover",
+        "from_url": "http://handover.berict.com/",
+        "service_icon": "http://handover.berict.com/favicon.ico",
+        "service_name": "handover.berict.com",
+        "id": 1,
+        "original_url": "http://handover.berict.com/"
+      },
+      {
+        "title": "Handover",
+        "title_link": "http://20.194.39.3/",
+        "text": "A Full MERN Stack Boilerplate",
+        "fallback": "Handover",
+        "from_url": "http://20.194.39.3/",
+        "service_icon": "http://20.194.39.3/favicon.ico",
+        "service_name": "20.194.39.3",
+        "id": 2,
+        "original_url": "http://20.194.39.3/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kBD6o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "unicode": "1f680"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "link",
+                "url": "http://handover.berict.com/"
+              },
+              {
+                "type": "text",
+                "text": " 에서 "
+              },
+              {
+                "type": "text",
+                "text": "develop",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 브랜치 내용을 확인하실 수 있습니다! (IP 주소 "
+              },
+              {
+                "type": "link",
+                "url": "http://20.194.39.3/"
+              },
+              {
+                "type": "text",
+                "text": " 으로도 접속이 가능합니다)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632571388.002700",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1632578567.003500",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632578567.003500",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bee9a9fc-142c-44b7-aa9e-c7d2ddb6e6f2",
+    "type": "message",
+    "text": ":warning:  *연락 관련 공지사항* :warning: \n멘토님께서 알려주신것 처럼 각자 스마트폰에 Slack 앱이 설치되어있으면 서로 급할 때 유용할 것 같습니다. 팀원분들 모두 스마트폰에 앱 설치해주시고, 알림도 받을 수 있게 설정해주시면 감사하겠습니다!\n다른 팀원의 의견이 필요하거나 급하게 연락을 해야될 경우는 DM 이나 @ 으로 mention 해서 서로 소통하시면 됩니다 ㅎㅎ :slightly_smiling_face:\n앱 설치 후 알림도 설정해주셨다면 :white_check_mark: 리액션으로 알려주세요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1632131550.003700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wTL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "warning",
+                "unicode": "26a0-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  연락 관련 공지사항 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "warning",
+                "unicode": "26a0-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n멘토님께서 알려주신것 처럼 각자 스마트폰에 Slack 앱이 설치되어있으면 서로 급할 때 유용할 것 같습니다. 팀원분들 모두 스마트폰에 앱 설치해주시고, 알림도 받을 수 있게 설정해주시면 감사하겠습니다!\n다른 팀원의 의견이 필요하거나 급하게 연락을 해야될 경우는 DM 이나 @ 으로 mention 해서 서로 소통하시면 됩니다 ㅎㅎ "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              },
+              {
+                "type": "text",
+                "text": "\n앱 설치 후 알림도 설정해주셨다면 "
+              },
+              {
+                "type": "emoji",
+                "name": "white_check_mark",
+                "unicode": "2705"
+              },
+              {
+                "type": "text",
+                "text": " 리액션으로 알려주세요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632131550.003700",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1632560462.001300",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632560462.001300",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024503.000300",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "type": "message",
+    "text": "멘토링 결과가 나와서 공지해드립니다! 김동우 멘토님으로 매칭되었네요 :smile:\n내일 제 이메일로 멘토님 연락처를 알려준다고 하니, 연락 받는대로 다시 공지해드리겠습니다.\n<https://osam.kr/hackathon/hacCommunity/hackathonNotice?m=v&amp;wdnId=7>\n<https://osam.kr/data/board/photo_uploads/hackathon_notice/1631774745136.jpg>",
+    "files": [
+      {
+        "id": "F02FBD40W8G",
+        "created": 1631778259,
+        "timestamp": 1631778259,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 64720,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FBD40W8G/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02FBD40W8G/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FBD40W8G-f8ed859d59/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FBD40W8G-f8ed859d59/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FBD40W8G-f8ed859d59/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 107,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FBD40W8G-f8ed859d59/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 142,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02FBD40W8G-f8ed859d59/image_160.png",
+        "original_w": 675,
+        "original_h": 200,
+        "thumb_tiny": "AwAOADDRLEHG0mjf/smlI5oIoAjdmONpI+mKVWYdST7cU7afWjafWgA3H+6aFbJ6EUuKAMUAf//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02FBD40W8G/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02FBD40W8G-281b27875a",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1631778428.002000",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aSwCK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "멘토링 결과가 나와서 공지해드립니다! 김동우 멘토님으로 매칭되었네요 "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              },
+              {
+                "type": "text",
+                "text": "\n내일 제 이메일로 멘토님 연락처를 알려준다고 하니, 연락 받는대로 다시 공지해드리겠습니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://osam.kr/hackathon/hacCommunity/hackathonNotice?m=v&wdnId=7"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://osam.kr/data/board/photo_uploads/hackathon_notice/1631774745136.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "fallback": "893x2042px image",
+        "image_url": "https://osam.kr/data/board/photo_uploads/hackathon_notice/1631774745136.jpg",
+        "image_width": 893,
+        "image_height": 2042,
+        "image_bytes": 433218,
+        "from_url": "https://osam.kr/data/board/photo_uploads/hackathon_notice/1631774745136.jpg",
+        "id": 1,
+        "original_url": "https://osam.kr/data/board/photo_uploads/hackathon_notice/1631774745136.jpg"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3e86f8c2-3055-481d-b29a-1770b04d2918",
+    "type": "message",
+    "text": "9월 12일까지 멘토링 신청 기간이라고 오늘 공지가 올라왔습니다! 시간이 많지 않아서, 내일 점심까지 이 스레드로 멘토 3분을 1,2,3순위로 종합하면 제가 신청서를 작성해서 제출하도록 하겠습니다. :receipt: \n멘토님들 프로필은 다음 링크를 참고해주세요. <https://osam.kr/images/mentor/mentor-intro.png|https://osam.kr/images/mentor/mentor-intro.png>",
+    "user": "U02DX5BFPPS",
+    "ts": "1631270279.004700",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "fallback": "1720x8142px image",
+        "image_url": "https://osam.kr/images/mentor/mentor-intro.png",
+        "image_width": 1720,
+        "image_height": 8142,
+        "image_bytes": 1319243,
+        "from_url": "https://osam.kr/images/mentor/mentor-intro.png",
+        "id": 1,
+        "original_url": "https://osam.kr/images/mentor/mentor-intro.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+YbC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "9월 12일까지 멘토링 신청 기간이라고 오늘 공지가 올라왔습니다! 시간이 많지 않아서, 내일 점심까지 이 스레드로 멘토 3분을 1,2,3순위로 종합하면 제가 신청서를 작성해서 제출하도록 하겠습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "receipt",
+                "unicode": "1f9fe"
+              },
+              {
+                "type": "text",
+                "text": " \n멘토님들 프로필은 다음 링크를 참고해주세요. "
+              },
+              {
+                "type": "link",
+                "url": "https://osam.kr/images/mentor/mentor-intro.png",
+                "text": "https://osam.kr/images/mentor/mentor-intro.png"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631270279.004700",
+    "reply_count": 10,
+    "reply_users_count": 5,
+    "latest_reply": "1631345175.007400",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D7GX0KGA",
+      "U02DHN1UBHA",
+      "U02DPCQH7J5",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631345175.007400",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "448d682e-68fd-408f-b04f-e2bb138a080b",
+    "type": "message",
+    "text": "깃허브 아이디 입력 바랍니다!",
+    "user": "U02DPCQH7J5",
+    "ts": "1631105870.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zdhv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "깃허브 아이디 입력 바랍니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631105870.000700",
+    "reply_count": 9,
+    "reply_users_count": 6,
+    "latest_reply": "1631192978.000100",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DE2CLG0L",
+      "U02DHN1UBHA",
+      "U02DX5BFPPS",
+      "U02D8EUAE69",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631192978.000100",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e893a977-d8ab-4d17-b643-c84d9dd1c6f1",
+    "type": "message",
+    "text": "주최측에서 오늘 연락와서 팀 확정되었다고 알려주셨어요! 저희 팀은 이렇게 가는걸로 알고계시면 될 것 같습니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1631015639.001400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7wdF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "주최측에서 오늘 연락와서 팀 확정되었다고 알려주셨어요! 저희 팀은 이렇게 가는걸로 알고계시면 될 것 같습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02DE2CLG0L",
+          "U02DHN1UBHA"
+        ],
+        "count": 2
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c1e289e8-192f-45aa-a0e0-9d43a4deac38",
+    "type": "message",
+    "text": "안녕하세요! Handover 프로젝트의 팀장을 맡게 된 조나단이라고 합니다.\n먼저 프로젝트에 많은 관심 가져주시고 먼저 연락해주셔서 감사합니다. :smile:\n\n저희 팀원 연락 및 소통은 Slack 상에서 이루어질 계획이니, 시간 나실때마다 확인해주시면 감사하겠습니다.\n\n현재 다음과 같은 협업 도구들을 사용하려고 고려하고 있습니다. 다른 의견 있으시거나, 사용하셨던 도구 중에 도움이 되었던 서비스들이 있으시다면 스레드로 자유롭게 달아주시면 감사하겠습니다! :wink:\n\n• *Notion*: 프로젝트 계획 및 설계 (<https://bit.ly/osam-handover-notion>)\n• *Figma*: 서비스 디자인 및 프로토타이핑 (<https://bit.ly/osam-handover-figma-edit>)\n• *GitHub*: 프로젝트 작업 (<https://github.com/osamhack2021/Web_Handover_Handover>)\n• *Gitbook*: Documentation 및 대회 제출용 문서 작성\n저희 함께 멋진 프로젝트 진행해봐요! :raised_hands:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630669553.008000",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631414612.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=6NP8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! Handover 프로젝트의 팀장을 맡게 된 조나단이라고 합니다.\n먼저 프로젝트에 많은 관심 가져주시고 먼저 연락해주셔서 감사합니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              },
+              {
+                "type": "text",
+                "text": "\n\n저희 팀원 연락 및 소통은 Slack 상에서 이루어질 계획이니, 시간 나실때마다 확인해주시면 감사하겠습니다.\n\n현재 다음과 같은 협업 도구들을 사용하려고 고려하고 있습니다. 다른 의견 있으시거나, 사용하셨던 도구 중에 도움이 되었던 서비스들이 있으시다면 스레드로 자유롭게 달아주시면 감사하겠습니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "unicode": "1f609"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Notion",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 프로젝트 계획 및 설계 ("
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://bit.ly/osam-handover-notion"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Figma",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 서비스 디자인 및 프로토타이핑 ("
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://bit.ly/osam-handover-figma-edit"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "GitHub",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 프로젝트 작업 ("
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://github.com/osamhack2021/Web_Handover_Handover"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Gitbook",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Documentation 및 대회 제출용 문서 작성"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n저희 함께 멋진 프로젝트 진행해봐요! "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "unicode": "1f64c"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart_eyes",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02DE2CLG0L"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667213.000800",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630666970.000500",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630653338.000200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630623797.000100",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630594009.000500",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630592568.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

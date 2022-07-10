@@ -1,0 +1,4365 @@
+[
+  {
+    "client_msg_id": "227b4e59-52b3-4541-abfe-7a44bc9aafad",
+    "type": "message",
+    "text": "넵!",
+    "user": "U02D7GX0KGA",
+    "ts": "1634734142.006400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6t288",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7012c61d-4aea-4f28-a763-9dbf9f1d4ed9",
+    "type": "message",
+    "text": "빠르게 템플릿 제작해볼게요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634734138.006200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HQ9Dl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "빠르게 템플릿 제작해볼게요!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e1bd2576-b8a6-4676-8863-317dc3a85424",
+    "type": "message",
+    "text": "ㅎㅎ.ㅎㅎ.ㅎ.ㅎ.. 저도 점호열외 허락받았습니다",
+    "user": "U02DX5BFPPS",
+    "ts": "1634734130.006000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fd0hq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅎㅎ.ㅎㅎ.ㅎ.ㅎ.. 저도 점호열외 허락받았습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "97dbf7ff-3214-4ac5-aaa5-07dc8a817d4f",
+    "type": "message",
+    "text": "쫄깃쫄깃 하네요 . ..",
+    "user": "U02D7GX0KGA",
+    "ts": "1634732688.005700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N7EK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "쫄깃쫄깃 하네요 . .."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8542b0a0-b4f0-4604-ad6d-1459eae149ee",
+    "type": "message",
+    "text": "점호 열외 허락받았어요 ㅎㅎ.ㅎ",
+    "user": "U02D7GX0KGA",
+    "ts": "1634732487.005400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/pTdl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "점호 열외 허락받았어요 ㅎㅎ.ㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c98c28f2-7b89-4296-b520-28b3b01142bc",
+    "type": "message",
+    "text": "저.. 25분에 사라졌다가 점호 끝나면 바로 돌아올게유",
+    "user": "U02D7GX0KGA",
+    "ts": "1634732257.005100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yk4r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저.. 25분에 사라졌다가 점호 끝나면 바로 돌아올게유"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f125b540-8daf-4ca5-834d-c7a133ec482e",
+    "type": "message",
+    "text": "ㅠㅠ오늘 소초장님이 극대노해서 20시 반에 전부 집합하라네요... 후",
+    "user": "U02D7GX0KGA",
+    "ts": "1634727831.004300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KtS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅠㅠ오늘 소초장님이 극대노해서 20시 반에 전부 집합하라네요... 후"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sob",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      },
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e8347b5c-1331-49bc-a935-a653937c13ea",
+    "type": "message",
+    "text": "제가 이제 출근을 해야합니다.....\n마무리를 함께 못지어서 아쉽고 최종 결과물도 알지 못한 상태에서 내보내는게 마치 준비도 안된 아이를 군대에 보내는 엄마의 마음인가 싶습니다.\n\n최종 영상 만드실 때 당부드리고 싶은 것은,\n1. 내 프로필, 계정 설정, 회원가입 등의 페이지는 그리 중요한게 아닙니다. \n    a. 이런게 있다 정도의 느낌으로만 한 번씩 들어가면 좋을 것 같습니다.\n2. 주요 기능은 북마크, 보안검수, 글 복제, 글 쓰기입니다.\n    a. 현재 글 쓰기를 구현 하셨는지는 모르겠는데..\n    b. 글쓰기와 태그 문서 공유부분을 최대한 오래 그리고 자세히 설명해주세요\n    c. 검색은 제목뿐만 아니라 내용으로 검색되는 것도 강조되면 좋겠습니다.\n백엔드 개발이 늦어져서 프론트가 늦어진게 아닌가 죄송한 마음이 듭니다.\n아무쪼록 그동안 수고 많으셨습니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1634718133.003300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "raae8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가 이제 출근을 해야합니다.....\n마무리를 함께 못지어서 아쉽고 최종 결과물도 알지 못한 상태에서 내보내는게 마치 준비도 안된 아이를 군대에 보내는 엄마의 마음인가 싶습니다.\n\n최종 영상 만드실 때 당부드리고 싶은 것은,\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "내 프로필, 계정 설정, 회원가입 등의 페이지는 그리 중요한게 아닙니다. "
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "이런게 있다 정도의 느낌으로만 한 번씩 들어가면 좋을 것 같습니다."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "주요 기능은 북마크, 보안검수, 글 복제, 글 쓰기입니다."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "현재 글 쓰기를 구현 하셨는지는 모르겠는데.."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "글쓰기와 태그 문서 공유부분을 최대한 오래 그리고 자세히 설명해주세요"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "검색은 제목뿐만 아니라 내용으로 검색되는 것도 강조되면 좋겠습니다."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n백엔드 개발이 늦어져서 프론트가 늦어진게 아닌가 죄송한 마음이 듭니다.\n아무쪼록 그동안 수고 많으셨습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634718133.003300",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634718234.003500",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634718234.003500",
+    "reactions": [
+      {
+        "name": "sob",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DHN1UBHA",
+          "U02D8EUAE69"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ed3f370f-624f-4722-be79-cce0537ca9b4",
+    "type": "message",
+    "text": "저는 내일 17~20시30분 , 22시~24시 가능합니다!",
+    "user": "U02D8EUAE69",
+    "ts": "1634641916.010300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mwJGj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저는 내일 17~20시30분 , 22시~24시 가능합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "35ebd1b0-1feb-4f3f-b628-5bb9c7c3c80f",
+    "type": "message",
+    "text": "저도 내일 풀로 참여 가능합니다. 프론트 부분이나 도움 필요하신거 알려주시면 바로 작업하겠습니다!",
+    "user": "U02DHN1UBHA",
+    "ts": "1634640632.009100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "axQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저도 내일 풀로 참여 가능합니다. 프론트 부분이나 도움 필요하신거 알려주시면 바로 작업하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0925b9a5-a833-43ea-9175-d4a8b6140109",
+    "type": "message",
+    "text": "프론트 작업중이니 @ 해서 불러주시면 확인하겠습니다! (스레드도 알림이 잘 안와서 꼭 @ 부탁드립니다 :pray: )",
+    "user": "U02DX5BFPPS",
+    "ts": "1634640427.007900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9RdxF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "프론트 작업중이니 @ 해서 불러주시면 확인하겠습니다! (스레드도 알림이 잘 안와서 꼭 @ 부탁드립니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              },
+              {
+                "type": "text",
+                "text": " )"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DPCQH7J5",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c90a71bc-a799-482f-ac7a-20d011166b2a",
+    "type": "message",
+    "text": "저는 내일 08~09시, 12~13시, 16~21시, 22:30~24:00 가능합니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634640285.007000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1bD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저는 내일 08~09시, 12~13시, 16~21시, 22:30~24:00 가능합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ddcf097f-2ac1-4dcf-b72d-e4d217a16aa9",
+    "type": "message",
+    "text": "전 내일 08시 ~ 10시, 12시 ~ 16시 (점심 시간 제외), 18시 ~ 20시 30분 (저녁 시간 제외), 22시~ 00시 참여 가능합니다",
+    "user": "U02D7GX0KGA",
+    "ts": "1634640222.005900",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02D7GX0KGA",
+      "ts": "1634640313.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "78ZE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "전 내일 08시 ~ 10시, 12시 ~ 16시 (점심 시간 제외), 18시 ~ 20시 30분 (저녁 시간 제외), 22시~ 00시 참여 가능합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5a9e931b-6684-4742-8908-8ddd8f6bec85",
+    "type": "message",
+    "text": "내일 야간 당직이라 주간(0900~ 1700)에 풀로 참여할 수 있을 것 같습니다.\n팀장님도 가능하신가요?",
+    "user": "U02DPCQH7J5",
+    "ts": "1634640056.005200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DPCQH7J5",
+      "ts": "1634640343.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f0u5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "내일 야간 당직이라 주간(0900~ 1700)에 풀로 참여할 수 있을 것 같습니다.\n팀장님도 가능하신가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634640056.005200",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1634640146.005500",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634640146.005500"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "<https://bit.ly/osam-handover-zoom> 에서 뵙겠습니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1634638076.004400",
+    "thread_ts": "1634634571.003200",
+    "root": {
+      "client_msg_id": "7ccf49c8-e71a-4314-948d-09eda4ead476",
+      "type": "message",
+      "text": "19:10에 회의 시작이니 다들 늦지않게 참석해주세요! :blush:",
+      "user": "U02DX5BFPPS",
+      "ts": "1634634571.003200",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1iKP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "19:10에 회의 시작이니 다들 늦지않게 참석해주세요! "
+                },
+                {
+                  "type": "emoji",
+                  "name": "blush",
+                  "unicode": "1f60a"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1634634571.003200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1634638076.004400",
+      "reply_users": [
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1634638076.004400"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CUiEj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-zoom"
+              },
+              {
+                "type": "text",
+                "text": " 에서 뵙겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "0e323837-bf16-44e4-a9b5-fe82f146434c"
+  },
+  {
+    "client_msg_id": "7ccf49c8-e71a-4314-948d-09eda4ead476",
+    "type": "message",
+    "text": "19:10에 회의 시작이니 다들 늦지않게 참석해주세요! :blush:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634634571.003200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1iKP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "19:10에 회의 시작이니 다들 늦지않게 참석해주세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634634571.003200",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1634638076.004400",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634638076.004400",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D7GX0KGA",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "마지막 멘토링은  19:10~19:45 으로 정하겠습니다! 내일 저녁에 뵙겠습니다 :blush: ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1634548661.001800",
+    "thread_ts": "1634471718.001600",
+    "root": {
+      "client_msg_id": "1a6c9daa-3880-412e-8bb8-d14f03926102",
+      "type": "message",
+      "text": ":bangbang: 10*월 4주차 회의 일정 조정 (제출 전 리뷰 멘토링)*\n1. 10. 18 (월) 19:00\n2. 10. 19 (화) 19:00\n가능한 시간을 리액션으로 달아주시면 됩니다. :clock1:",
+      "user": "U02DX5BFPPS",
+      "ts": "1634471718.001600",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CaKU1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "bangbang",
+                  "unicode": "203c-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": " 10"
+                },
+                {
+                  "type": "text",
+                  "text": "월 4주차 회의 일정 조정 (제출 전 리뷰 멘토링)",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "10. 18 (월) 19:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "10. 19 (화) 19:00"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "가능한 시간을 리액션으로 달아주시면 됩니다. "
+                },
+                {
+                  "type": "emoji",
+                  "name": "clock1",
+                  "unicode": "1f550"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1634471718.001600",
+      "reply_count": 9,
+      "reply_users_count": 3,
+      "latest_reply": "1634548661.001800",
+      "reply_users": [
+        "U02D7GX0KGA",
+        "U02DX5BFPPS",
+        "U02D8EUAE69"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1634548661.001800"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XgZb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "마지막 멘토링은  19:10~19:45 으로 정하겠습니다! 내일 저녁에 뵙겠습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              },
+              {
+                "type": "text",
+                "text": " ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "f0d3d615-37f0-446a-8431-37ae2b12bf04",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D8EUAE69",
+          "U02D7GX0KGA",
+          "U02DPCQH7J5"
+        ],
+        "count": 3
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1a6c9daa-3880-412e-8bb8-d14f03926102",
+    "type": "message",
+    "text": ":bangbang: 10*월 4주차 회의 일정 조정 (제출 전 리뷰 멘토링)*\n1. 10. 18 (월) 19:00\n2. 10. 19 (화) 19:00\n가능한 시간을 리액션으로 달아주시면 됩니다. :clock1:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634471718.001600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CaKU1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "unicode": "203c-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " 10"
+              },
+              {
+                "type": "text",
+                "text": "월 4주차 회의 일정 조정 (제출 전 리뷰 멘토링)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 18 (월) 19:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 19 (화) 19:00"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "가능한 시간을 리액션으로 달아주시면 됩니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "clock1",
+                "unicode": "1f550"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634471718.001600",
+    "reply_count": 9,
+    "reply_users_count": 3,
+    "latest_reply": "1634548661.001800",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634548661.001800",
+    "reactions": [
+      {
+        "name": "one",
+        "users": [
+          "U02DX5BFPPS",
+          "U02FA0NJ8RF",
+          "U02D8EUAE69",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA"
+        ],
+        "count": 5
+      },
+      {
+        "name": "two",
+        "users": [
+          "U02DX5BFPPS",
+          "U02FA0NJ8RF",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA",
+          "U02D7GX0KGA",
+          "U02D8EUAE69"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2803363f-c85c-4e3e-a9d9-9ff2c41705a0",
+    "type": "message",
+    "text": "오늘 22~00시 근무가 있어 연등 참여가 어렵습니다 ㅠ 내일 10시에 일어나자마자 오겠습니다",
+    "user": "U02D7GX0KGA",
+    "ts": "1634471619.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EnG/7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 22~00시 근무가 있어 연등 참여가 어렵습니다 ㅠ 내일 10시에 일어나자마자 오겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "02524d17-fa0c-4033-9125-db5266c4fa1e",
+    "type": "message",
+    "text": "내일은 다른 대회 멘토링이 있어서 참여가 힘들거 같습니다 (크고 중요한 대회 직전 마지막 점검이라 빠지기가 힘듭니다 ㅠㅜ).....다들 바쁘신데 죄송합니다.....",
+    "user": "U02DHN1UBHA",
+    "ts": "1634382340.005200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AfZGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "내일은 다른 대회 멘토링이 있어서 참여가 힘들거 같습니다 (크고 중요한 대회 직전 마지막 점검이라 빠지기가 힘듭니다 ㅠㅜ).....다들 바쁘신데 죄송합니다....."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02DPCQH7J5"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "15시에 <https://bit.ly/osam-handover-zoom> 에서 뵙겠습니다!\n\n<@U02DPCQH7J5> 님, 혹시 참석이 어려우실까요?! :smiling_face_with_tear:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634354736.002800",
+    "thread_ts": "1634308292.004300",
+    "root": {
+      "client_msg_id": "b611affd-74f8-44a2-b4e2-3e276125638a",
+      "type": "message",
+      "text": ":bangbang: 10*월 3주차 회의 일정 조정 (주간 회의)*\n1. 10. 16 (토) 11:00\n2. 10. 16 (토) 13:00\n3. 10. 16 (토) 15:00\n4. 10. 16 (토) 17:00\n가능한 시간 리액션으로 달아주세요! :smiley:",
+      "user": "U02DX5BFPPS",
+      "ts": "1634308292.004300",
+      "team": "T02D0PW4F2A",
+      "edited": {
+        "user": "U02DX5BFPPS",
+        "ts": "1634308390.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hj0Tl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "bangbang",
+                  "unicode": "203c-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": " 10"
+                },
+                {
+                  "type": "text",
+                  "text": "월 3주차 회의 일정 조정 (주간 회의)",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "10. 16 (토) 11:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "10. 16 (토) 13:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "10. 16 (토) 15:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "10. 16 (토) 17:00"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "가능한 시간 리액션으로 달아주세요! "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smiley",
+                  "unicode": "1f603"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1634308292.004300",
+      "reply_count": 4,
+      "reply_users_count": 3,
+      "latest_reply": "1634361377.003500",
+      "reply_users": [
+        "U02FA0NJ8RF",
+        "U02DX5BFPPS",
+        "U02DPCQH7J5"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1634361377.003500"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZbfX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "15시에 "
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-zoom"
+              },
+              {
+                "type": "text",
+                "text": " 에서 뵙겠습니다!\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02DPCQH7J5"
+              },
+              {
+                "type": "text",
+                "text": " 님, 혹시 참석이 어려우실까요?! "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "unicode": "1f972"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "990d6dc1-4ca0-4d9c-8080-b804c60791ca",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b611affd-74f8-44a2-b4e2-3e276125638a",
+    "type": "message",
+    "text": ":bangbang: 10*월 3주차 회의 일정 조정 (주간 회의)*\n1. 10. 16 (토) 11:00\n2. 10. 16 (토) 13:00\n3. 10. 16 (토) 15:00\n4. 10. 16 (토) 17:00\n가능한 시간 리액션으로 달아주세요! :smiley:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634308292.004300",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1634308390.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hj0Tl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "unicode": "203c-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " 10"
+              },
+              {
+                "type": "text",
+                "text": "월 3주차 회의 일정 조정 (주간 회의)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 16 (토) 11:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 16 (토) 13:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 16 (토) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 16 (토) 17:00"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "가능한 시간 리액션으로 달아주세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634308292.004300",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1634361377.003500",
+    "reply_users": [
+      "U02FA0NJ8RF",
+      "U02DX5BFPPS",
+      "U02DPCQH7J5"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634361377.003500",
+    "reactions": [
+      {
+        "name": "one",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02D7GX0KGA",
+          "U02FA0NJ8RF"
+        ],
+        "count": 4
+      },
+      {
+        "name": "two",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02D8EUAE69",
+          "U02FA0NJ8RF",
+          "U02DHN1UBHA"
+        ],
+        "count": 5
+      },
+      {
+        "name": "three",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02FA0NJ8RF",
+          "U02DHN1UBHA"
+        ],
+        "count": 6
+      },
+      {
+        "name": "four",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02FA0NJ8RF",
+          "U02DHN1UBHA"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "45c89687-6abc-43fa-a719-3e669e8eed87",
+    "type": "message",
+    "text": ":bangbang: 10*월 3주차 회의 일정 조정 (제출 전 리뷰 멘토링)*\n1. 10. 17 (일) 15:00\n2. 10. 17 (일) 19:00\n3. 10. 18 (월) 19:00\n4. 10. 19 (화) 19:00\n공지가 늦어 죄송합니다. 가능한 시간을 리액션으로 달아주시면 됩니다. :slightly_smiling_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1634304988.001200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n8uax",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "unicode": "203c-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " 10"
+              },
+              {
+                "type": "text",
+                "text": "월 3주차 회의 일정 조정 (제출 전 리뷰 멘토링)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 17 (일) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 17 (일) 19:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 18 (월) 19:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 19 (화) 19:00"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "공지가 늦어 죄송합니다. 가능한 시간을 리액션으로 달아주시면 됩니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1634304988.001200",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1634307721.003900",
+    "reply_users": [
+      "U02DE2CLG0L",
+      "U02DX5BFPPS",
+      "U02FA0NJ8RF"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1634307721.003900",
+    "reactions": [
+      {
+        "name": "one",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02D8EUAE69"
+        ],
+        "count": 4
+      },
+      {
+        "name": "two",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5",
+          "U02D8EUAE69"
+        ],
+        "count": 3
+      },
+      {
+        "name": "three",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5",
+          "U02D8EUAE69"
+        ],
+        "count": 3
+      },
+      {
+        "name": "four",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "121d1212-4d96-4efa-a9e6-e1be63d575e8",
+    "type": "message",
+    "text": "*중간점검 및 집중멘토링* :hammer_and_wrench:\n\n*회의 시간 및 링크*\n10월 09일 10:00시 (정시에 시작할 수 있도록 *최소한 5분전*에 입장 부탁드립니다!)\n_<https://zoom.us/j/9666456961>_",
+    "user": "U02DX5BFPPS",
+    "ts": "1633737348.001600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8HP9S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "중간점검 및 집중멘토링 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "hammer_and_wrench",
+                "unicode": "1f6e0-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "회의 시간 및 링크",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n10월 09일 10:00시 (정시에 시작할 수 있도록 "
+              },
+              {
+                "type": "text",
+                "text": "최소한 5분전",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 입장 부탁드립니다!)\n"
+              },
+              {
+                "type": "link",
+                "url": "https://zoom.us/j/9666456961",
+                "style": {
+                  "italic": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633737348.001600",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1633741805.003000",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633741805.003000"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "혹시 브런치데이로 참석이 어려울 경우에는 당직사관이나 간부님께 문의해서 식사 시간을 조금 조정해주시면 감사하겠습니다! 참석이 불가능하시다면 여기에 스레드로 남겨주시면 참고하도록 하겠습니다. :sweat_smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633687707.000300",
+    "thread_ts": "1633601863.003700",
+    "root": {
+      "type": "message",
+      "text": ":hammer_and_wrench:  *10.9일 중간점검 및 집중멘토링 일정 확인*\n\n저희 팀은 이번주 토요일 10:00~10:30 에 멘토링이 예정되어있습니다!\n참석이 가능하시다면 리액션으로 :white_check_mark: , 참석이 어려울 것 같다면 :x: 로 달아주세요.",
+      "files": [
+        {
+          "id": "F02GT0RRS3G",
+          "created": 1633601742,
+          "timestamp": 1633601742,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02DX5BFPPS",
+          "editable": false,
+          "size": 33115,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GT0RRS3G/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GT0RRS3G/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 271,
+          "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_160.png",
+          "original_w": 401,
+          "original_h": 302,
+          "thumb_tiny": "AwAkADC3Isu9isu1T0GOlNIl3c3AX2xUx+91H0701kUnccg+5pMCM7/+flaYDJgZuQPU4FSmGNuvPPPNI0UZXHbtz0prbUH5DomKkl51YHpUnmpnG9fzqIRIo4wOO5pGhjHzAdMHrUpvqOxMfvde/TFIffj9aU43d+v4Uhx36+1NiE4/Wk4PGc/hS5H696QEZ6GmgYYwOG7dxmlx647dqMjA/pQcE/4VK3Gx56E0xSWGTT2+6aYn3RVCFooooAKWkpaAP//Z",
+          "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02GT0RRS3G/image.png",
+          "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02GT0RRS3G-22508ae0f1",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02DX5BFPPS",
+      "display_as_bot": false,
+      "ts": "1633601863.003700",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qBVG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "hammer_and_wrench",
+                  "unicode": "1f6e0-fe0f",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  10.9일 중간점검 및 집중멘토링 일정 확인",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n저희 팀은 이번주 토요일 10:00~10:30 에 멘토링이 예정되어있습니다!\n참석이 가능하시다면 리액션으로 "
+                },
+                {
+                  "type": "emoji",
+                  "name": "white_check_mark",
+                  "unicode": "2705"
+                },
+                {
+                  "type": "text",
+                  "text": " , 참석이 어려울 것 같다면 "
+                },
+                {
+                  "type": "emoji",
+                  "name": "x",
+                  "unicode": "274c"
+                },
+                {
+                  "type": "text",
+                  "text": " 로 달아주세요."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "7fc715fe-a2ef-4cf4-9ad2-3cb72219cf1a",
+      "thread_ts": "1633601863.003700",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1633687707.000300",
+      "reply_users": [
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1633687707.000300"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bub4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 브런치데이로 참석이 어려울 경우에는 당직사관이나 간부님께 문의해서 식사 시간을 조금 조정해주시면 감사하겠습니다! 참석이 불가능하시다면 여기에 스레드로 남겨주시면 참고하도록 하겠습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "99d2856b-5d03-436a-bcca-236ed453529b",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1633687728.000000"
+    },
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DE2CLG0L"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": ":hammer_and_wrench:  *10.9일 중간점검 및 집중멘토링 일정 확인*\n\n저희 팀은 이번주 토요일 10:00~10:30 에 멘토링이 예정되어있습니다!\n참석이 가능하시다면 리액션으로 :white_check_mark: , 참석이 어려울 것 같다면 :x: 로 달아주세요.",
+    "files": [
+      {
+        "id": "F02GT0RRS3G",
+        "created": 1633601742,
+        "timestamp": 1633601742,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 33115,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GT0RRS3G/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GT0RRS3G/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 271,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GT0RRS3G-a8477cfaad/image_160.png",
+        "original_w": 401,
+        "original_h": 302,
+        "thumb_tiny": "AwAkADC3Isu9isu1T0GOlNIl3c3AX2xUx+91H0701kUnccg+5pMCM7/+flaYDJgZuQPU4FSmGNuvPPPNI0UZXHbtz0prbUH5DomKkl51YHpUnmpnG9fzqIRIo4wOO5pGhjHzAdMHrUpvqOxMfvde/TFIffj9aU43d+v4Uhx36+1NiE4/Wk4PGc/hS5H696QEZ6GmgYYwOG7dxmlx647dqMjA/pQcE/4VK3Gx56E0xSWGTT2+6aYn3RVCFooooAKWkpaAP//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02GT0RRS3G/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02GT0RRS3G-22508ae0f1",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1633601863.003700",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qBVG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "hammer_and_wrench",
+                "unicode": "1f6e0-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  10.9일 중간점검 및 집중멘토링 일정 확인",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n저희 팀은 이번주 토요일 10:00~10:30 에 멘토링이 예정되어있습니다!\n참석이 가능하시다면 리액션으로 "
+              },
+              {
+                "type": "emoji",
+                "name": "white_check_mark",
+                "unicode": "2705"
+              },
+              {
+                "type": "text",
+                "text": " , 참석이 어려울 것 같다면 "
+              },
+              {
+                "type": "emoji",
+                "name": "x",
+                "unicode": "274c"
+              },
+              {
+                "type": "text",
+                "text": " 로 달아주세요."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "7fc715fe-a2ef-4cf4-9ad2-3cb72219cf1a",
+    "thread_ts": "1633601863.003700",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633687707.000300",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633687707.000300",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DE2CLG0L",
+          "U02DX5BFPPS",
+          "U02D8EUAE69",
+          "U02D7GX0KGA",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "052d7958-930e-4fdc-9e47-c1e092757372",
+    "type": "message",
+    "text": "갑자기 개인정비 시간에 근무 땜빵을 들어가게 되어 오늘 저녁 시간에 참여가 힘들 것 같습니다:sob: 저번도 그렇고 죄송합니다",
+    "user": "U02D7GX0KGA",
+    "ts": "1633596376.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "62Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "갑자기 개인정비 시간에 근무 땜빵을 들어가게 되어 오늘 저녁 시간에 참여가 힘들 것 같습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              },
+              {
+                "type": "text",
+                "text": " 저번도 그렇고 죄송합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "32ec85f4-dda5-4fa0-8e18-0881debc19c4",
+    "type": "message",
+    "text": "오늘 갑자기 진급평가를 보느라 저녁 시간대에 참여를 많이 못할 것 같습니다 죄송합니다 ㅠ",
+    "user": "U02D7GX0KGA",
+    "ts": "1633430718.001000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jcEc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 갑자기 진급평가를 보느라 저녁 시간대에 참여를 많이 못할 것 같습니다 죄송합니다 ㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633430718.001000",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633430748.001400",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633430748.001400",
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2e11147a-2eab-40fd-b2dd-e4c4c266ffa2",
+    "type": "message",
+    "text": "10/11~12, 10/13~14 철야 훈련 계획되어 있고, 10/18~10/22 유격 훈련 계획되어 있어서 훈련 기간에는 참여가 힘들 것 같습니다 ㅠㅠ\n12, 14일에는 최대한 빨리 일어나서 참여할게요 ㅠㅠ",
+    "user": "U02DE2CLG0L",
+    "ts": "1633356137.011200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g9u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "10/11~12, 10/13~14 철야 훈련 계획되어 있고, 10/18~10/22 유격 훈련 계획되어 있어서 훈련 기간에는 참여가 힘들 것 같습니다 ㅠㅠ\n12, 14일에는 최대한 빨리 일어나서 참여할게요 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sob",
+        "users": [
+          "U02D8EUAE69",
+          "U02DX5BFPPS",
+          "U02D7GX0KGA",
+          "U02DPCQH7J5"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ffe74f01-667b-4cea-a5ff-1aafb7b0d580",
+    "type": "message",
+    "text": "*<!channel> 10월 1주차 회의* :technologist:\n\n*회의 시간 및 링크*\n10월 03일 15:00시 (정시에 시작할 수 있도록 1-2분전에 입장 부탁드립니다)\n<https://bit.ly/osam-handover-zoom>\n• 화면 공유를 위해 화면은 PC 웹 또는 앱에서 접속\n• 대화을 위해 오디오는 *핸드폰에서 접속* (이어폰 사용 권장)\n    ◦ 사지방에서 대화가 어려우신 분들은 스레드로 남겨주시면 참고하도록 하겠습니다 :smile:\n\n*회의 주제*\n• 현재 각 분야별 진행 상황 공유 (오늘은 빠르게 진행할 예정이라 노션 칸반보드나 GitHub Project 화면 등으로 간략하게 설명해주시면 됩니다)\n• (멘토님 참석하실 경우) 멘토님과 Q&amp;A\n• 기타 의견 및 다음주 개선 사항",
+    "user": "U02DX5BFPPS",
+    "ts": "1633239975.005300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+0d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 10월 1주차 회의 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "technologist",
+                "unicode": "1f9d1-200d-1f4bb",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "회의 시간 및 링크",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n10월 03일 15:00시 (정시에 시작할 수 있도록 1-2분전에 입장 부탁드립니다)\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-zoom"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "화면 공유를 위해 화면은 PC 웹 또는 앱에서 접속"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "대화을 위해 오디오는 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "핸드폰에서 접속",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " (이어폰 사용 권장)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "사지방에서 대화가 어려우신 분들은 스레드로 남겨주시면 참고하도록 하겠습니다 "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "smile",
+                    "unicode": "1f604"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "회의 주제",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "현재 각 분야별 진행 상황 공유 (오늘은 빠르게 진행할 예정이라 노션 칸반보드나 GitHub Project 화면 등으로 간략하게 설명해주시면 됩니다)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "(멘토님 참석하실 경우) 멘토님과 Q&A"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "기타 의견 및 다음주 개선 사항"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633239975.005300",
+    "reply_count": 9,
+    "reply_users_count": 4,
+    "latest_reply": "1633267846.009700",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DHN1UBHA",
+      "U02DE2CLG0L",
+      "U02FA0NJ8RF"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633267846.009700"
+  },
+  {
+    "client_msg_id": "0abb5aaf-60b3-4e36-a9a7-064c36605767",
+    "type": "message",
+    "text": ":bangbang: 10*월 1주차 회의 일정 조정*\n1. 10. 3 (일) 15:00\n2. 10. 3 (일) 19:00\n3. 10. 4 (월) 15:00\n4. 10. 4 (월) 19:00\n공지가 늦어 죄송합니다. 가능한 시간을 리액션으로 달아주시면 됩니다. :slightly_smiling_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633157191.000700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J0a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "unicode": "203c-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " 10"
+              },
+              {
+                "type": "text",
+                "text": "월 1주차 회의 일정 조정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 3 (일) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 3 (일) 19:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 4 (월) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "10. 4 (월) 19:00"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "공지가 늦어 죄송합니다. 가능한 시간을 리액션으로 달아주시면 됩니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633157191.000700",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1633179309.003900",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DE2CLG0L"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633179309.003900",
+    "reactions": [
+      {
+        "name": "one",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02DHN1UBHA",
+          "U02D7GX0KGA",
+          "U02DE2CLG0L"
+        ],
+        "count": 6
+      },
+      {
+        "name": "two",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02DHN1UBHA",
+          "U02DE2CLG0L"
+        ],
+        "count": 5
+      },
+      {
+        "name": "three",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA",
+          "U02D7GX0KGA",
+          "U02DE2CLG0L"
+        ],
+        "count": 5
+      },
+      {
+        "name": "four",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA",
+          "U02D7GX0KGA",
+          "U02DE2CLG0L"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "AD66C45B-AB3E-4B06-888B-499FD8ABEBDA",
+    "type": "message",
+    "text": "오늘은 일찍 쉬어야될 것 같네요 ㅠㅠ 내일 아침에 돌아오겠습니다! 확인해야될 사항이 있거나 말씀해주실 것 있으시면 내일 아침에 다 답변 드리도록 하겠습니다. :smiling_face_with_tear: ",
+    "user": "U02DX5BFPPS",
+    "ts": "1633095236.003400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "65M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘은 일찍 쉬어야될 것 같네요 ㅠㅠ 내일 아침에 돌아오겠습니다! 확인해야될 사항이 있거나 말씀해주실 것 있으시면 내일 아침에 다 답변 드리도록 하겠습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "unicode": "1f972"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sob",
+        "users": [
+          "U02DPCQH7J5",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      },
+      {
+        "name": "fist",
+        "users": [
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      },
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02DE2CLG0L"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "608dacf5-a997-49bd-8e42-a391cee0432d",
+    "type": "message",
+    "text": "금일 오후에 급하게 치과 진료를 보게되어서 22:30에 돌아오겠습니다 :sob:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633082781.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m4i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "금일 오후에 급하게 치과 진료를 보게되어서 22:30에 돌아오겠습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633082781.000900",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633084890.001200",
+    "reply_users": [
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633084890.001200",
+    "reactions": [
+      {
+        "name": "cry",
+        "users": [
+          "U02DPCQH7J5",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4fd5d647-bdbf-496a-b5ce-4ec7356e6580",
+    "type": "message",
+    "text": "금일 야간 당직입니다. 22-24시 PR 확인 가능합니다.\n055 549 4789 전화주시면 응답 가능합니다",
+    "user": "U02DPCQH7J5",
+    "ts": "1632987730.001200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wF8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "금일 야간 당직입니다. 22-24시 PR 확인 가능합니다.\n055 549 4789 전화주시면 응답 가능합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3205b090-18cb-439b-bbfc-5a5ea329a192",
+    "type": "message",
+    "text": "금일 야간 당직입니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1632729964.000300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vEA8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "금일 야간 당직입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3bb4606b-45f0-452e-af0f-2ae8f42012c9",
+    "type": "message",
+    "text": "27일, 29일 훈련으로 인하여 참여 불가능 합니다! 그 이외에는\n평일 : 18:00 ~ 20:40 , 21:50 ~ 00:00\n주말 : 09:00 ~ 20:40 , 21:50 ~ 00:00\n이용 가능합니다!",
+    "user": "U02DE2CLG0L",
+    "ts": "1632660505.014200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0NQP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "27일, 29일 훈련으로 인하여 참여 불가능 합니다! 그 이외에는\n평일 : 18:00 ~ 20:40 , 21:50 ~ 00:00\n주말 : 09:00 ~ 20:40 , 21:50 ~ 00:00\n이용 가능합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "cry",
+        "users": [
+          "U02D8EUAE69",
+          "U02DX5BFPPS",
+          "U02DPCQH7J5"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f9cc3b05-7f2a-497e-bcae-350ff59fa889",
+    "type": "message",
+    "text": "*<!channel> 9월 4주차 회의* :technologist:\n\n*회의 시간 및 링크*\n09월 26일 19:00시 (정시에 시작할 수 있도록 1-2분전에 입장 부탁드립니다)\n<https://bit.ly/osam-handover-zoom>\n• 화면 공유를 위해 화면은 PC 웹 또는 앱에서 접속\n• 대화을 위해 오디오는 *핸드폰에서 접속* (이어폰 사용 권장)\n    ◦ 사지방에서 대화가 어려우신 분들은 스레드로 남겨주시면 참고하도록 하겠습니다 :smile:\n*회의 주제*\n• 현재 각 분야별 진행 상황 공유 (한분씩 돌아가면서 1-2분 가량 각자 작업한 내용 공유할 예정이니, 부담갖지 마시고 간략하게 어떤 부분을 작업했는지 화면 공유나 사진 등으로 보여줄 수 있도록 준비해주세요! 프론트분들과 디자이너는 각자 작업한 화면 중 1-2개, 백엔드분들은 Postman 이나 코드로 API 테스트하는 방법 등을 보여주시면 됩니다 ㅎㅎ)\n    ◦ 백엔드: API 개발 현황 공유 및 API 테스트 방법 간략하게 설명 (가능할 시 화면 공유로 설명 부탁드립니다 :wink:)\n    ◦ 프론트엔드: 각 페이지 개발 현황 공유\n    ◦ 디자인: 디자인 관련 의견 필요한 점 공유\n    ◦ CI/CD: 성능 개선 사항 공유\n• (멘토님 참석하실 경우) 멘토님과 Q&amp;A\n• 기타 의견 및 다음주 개선 사항",
+    "user": "U02DX5BFPPS",
+    "ts": "1632649077.011000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MeA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 9월 4주차 회의 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "technologist",
+                "unicode": "1f9d1-200d-1f4bb",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "회의 시간 및 링크",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n09월 26일 19:00시 (정시에 시작할 수 있도록 1-2분전에 입장 부탁드립니다)\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-zoom"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "화면 공유를 위해 화면은 PC 웹 또는 앱에서 접속"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "대화을 위해 오디오는 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "핸드폰에서 접속",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " (이어폰 사용 권장)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "사지방에서 대화가 어려우신 분들은 스레드로 남겨주시면 참고하도록 하겠습니다 "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "smile",
+                    "unicode": "1f604"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "회의 주제",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "현재 각 분야별 진행 상황 공유 (한분씩 돌아가면서 1-2분 가량 각자 작업한 내용 공유할 예정이니, 부담갖지 마시고 간략하게 어떤 부분을 작업했는지 화면 공유나 사진 등으로 보여줄 수 있도록 준비해주세요! 프론트분들과 디자이너는 각자 작업한 화면 중 1-2개, 백엔드분들은 Postman 이나 코드로 API 테스트하는 방법 등을 보여주시면 됩니다 ㅎㅎ)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "백엔드: API 개발 현황 공유 및 API 테스트 방법 간략하게 설명 (가능할 시 화면 공유로 설명 부탁드립니다 "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "wink",
+                    "unicode": "1f609"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "프론트엔드: 각 페이지 개발 현황 공유"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "디자인: 디자인 관련 의견 필요한 점 공유"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "CI/CD: 성능 개선 사항 공유"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "(멘토님 참석하실 경우) 멘토님과 Q&A"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "기타 의견 및 다음주 개선 사항"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632649077.011000",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1632649831.012300",
+    "reply_users": [
+      "U02D8EUAE69",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632649831.012300",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DE2CLG0L",
+          "U02DX5BFPPS",
+          "U02FA0NJ8RF",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "88a5c517-0189-4d5d-8884-9fffbc4daf5c",
+    "type": "message",
+    "text": "내일 0800i~1800i 주간 당직입니다.\n문의사항 있으시다면 <tel:0555494789|055-549-4789>로 전화주시면 됩니다 :wink:",
+    "user": "U02DPCQH7J5",
+    "ts": "1632580132.004300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0B5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "내일 0800i~1800i 주간 당직입니다.\n문의사항 있으시다면 "
+              },
+              {
+                "type": "link",
+                "url": "tel:0555494789",
+                "text": "055-549-4789"
+              },
+              {
+                "type": "text",
+                "text": "로 전화주시면 됩니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "unicode": "1f609"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02D7GX0KGA"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6da4a988-72e5-454c-8f8e-b1afc636e529",
+    "type": "message",
+    "text": ":bangbang: *9월 4주차 회의 일정 조정*\n1. 9. 25 (토) 15:00\n2. 9. 25 (토) 19:00\n3. 9. 26 (일) 15:00\n4. 9. 26 (일) 19:00\n가능한 시간을 리액션으로 달아주시면 됩니다. :slightly_smiling_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1632477772.001200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BR98",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "unicode": "203c-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "9월 4주차 회의 일정 조정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 25 (토) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 25 (토) 19:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 26 (일) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 26 (일) 19:00"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "가능한 시간을 리액션으로 달아주시면 됩니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "one",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5"
+        ],
+        "count": 5
+      },
+      {
+        "name": "two",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5"
+        ],
+        "count": 4
+      },
+      {
+        "name": "three",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69",
+          "U02DE2CLG0L",
+          "U02DHN1UBHA"
+        ],
+        "count": 4
+      },
+      {
+        "name": "four",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02DHN1UBHA",
+          "U02FA0NJ8RF"
+        ],
+        "count": 7
+      }
+    ]
+  },
+  {
+    "client_msg_id": "046b9d16-99fc-4dfd-acf2-723215f6add2",
+    "type": "message",
+    "text": "오늘 대대 코호트라 사지방 이용이 불가합니다 :sob: 채팅으로 최대한 참여하겠습니다...",
+    "user": "U02DX5BFPPS",
+    "ts": "1632391495.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QUV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 대대 코호트라 사지방 이용이 불가합니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              },
+              {
+                "type": "text",
+                "text": " 채팅으로 최대한 참여하겠습니다..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sob",
+        "users": [
+          "U02D8EUAE69",
+          "U02DPCQH7J5",
+          "U02D7GX0KGA"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "00ebb3b8-8cc7-4f0e-ba5f-2040794f4d7d",
+    "type": "message",
+    "text": "출근합니다 18시부터 055 549 4789나 github로 멘션해주시면 답변가능합니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1632297820.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "woCL5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "출근합니다 18시부터 055 549 4789나 github로 멘션해주시면 답변가능합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      },
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "67130fa7-1f2a-4ccb-a8e3-909be1048bd3",
+    "type": "message",
+    "text": "내일 야간 당직입니다.\n연등시간에 혹시 필요하신 일이 있다면 언제든지 전화 주시면 됩니다.\n수병이 직접 받기 때문에 걱정 안하셔도 됩니다.\n<tel:0555494789|055) 549-4789>",
+    "user": "U02DPCQH7J5",
+    "ts": "1632219035.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IjRIQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "내일 야간 당직입니다.\n연등시간에 혹시 필요하신 일이 있다면 언제든지 전화 주시면 됩니다.\n수병이 직접 받기 때문에 걱정 안하셔도 됩니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "tel:0555494789",
+                "text": "055) 549-4789"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L"
+        ],
+        "count": 2
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "83060d16-6a91-4387-987f-0380dfed0979",
+    "type": "message",
+    "text": "오늘 회의에서 말했듯이 각자 하루 개발 참여 가능 시간을 적어두면 좋을 것 같아요! 스레드로 각자 남겨주시면 감사하겠습니다:blush:",
+    "user": "U02D7GX0KGA",
+    "ts": "1632050413.011600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bPLLN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 회의에서 말했듯이 각자 하루 개발 참여 가능 시간을 적어두면 좋을 것 같아요! 스레드로 각자 남겨주시면 감사하겠습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632050413.011600",
+    "reply_count": 7,
+    "reply_users_count": 6,
+    "latest_reply": "1632131781.000300",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS",
+      "U02DPCQH7J5",
+      "U02DHN1UBHA",
+      "U02D8EUAE69",
+      "U02DE2CLG0L"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632131781.000300",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DPCQH7J5"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c9aa7528-e268-45f3-b03b-fa2c08da2e3a",
+    "type": "message",
+    "text": "10.2 ~ 10.13 휴가를 나가게 되었습니다 나가게 되면 개발 환경에 여유가 생기는 만큼 열심히 참여해 보겠습니다:fist:",
+    "user": "U02D8EUAE69",
+    "ts": "1632049688.010500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K9iJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "10.2 ~ 10.13 휴가를 나가게 되었습니다 나가게 되면 개발 환경에 여유가 생기는 만큼 열심히 참여해 보겠습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "fist",
+                "unicode": "270a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "confetti_ball",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5ab7a025-dda4-455d-92f1-e2016187200a",
+    "type": "message",
+    "text": "*<!channel> 9월 3주차 회의* :technologist: \n\n회의 시간 및 링크\n09월 19일 19:00시 (정시에 시작할 수 있도록 1-2분전에 입장 부탁드립니다)\n<https://bit.ly/osam-handover-zoom>\n• 화면 공유를 위해 화면은 PC 웹 또는 앱에서 접속\n• 대화을 위해 오디오는 *핸드폰에서 접속* (이어폰 사용 권장)\n    ◦ 사지방에서 대화가 어려우신 분들은 스레드로 남겨주시면 참고하도록 하겠습니다 :smile: \n회의 주제\n• 팀원 및 멘토님과 인사\n• 멘토링 진행 방법 설명\n• 현재 각 분야별 진행 상황 공유\n• 진행 계획 및 각자 세부 역할 부여\n    ◦ 각자 투자할 수 있는 시간 확인\n• 테스트 가능한 Codespaces 환경 설정 해보기\n• 기타 의견",
+    "user": "U02DX5BFPPS",
+    "ts": "1632028377.006400",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1632028514.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S3o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 9월 3주차 회의 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "technologist",
+                "unicode": "1f9d1-200d-1f4bb",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n회의 시간 및 링크\n09월 19일 19:00시 (정시에 시작할 수 있도록 1-2분전에 입장 부탁드립니다)\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/osam-handover-zoom"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "화면 공유를 위해 화면은 PC 웹 또는 앱에서 접속"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "대화을 위해 오디오는 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "핸드폰에서 접속",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " (이어폰 사용 권장)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "사지방에서 대화가 어려우신 분들은 스레드로 남겨주시면 참고하도록 하겠습니다 "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "smile",
+                    "unicode": "1f604"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n회의 주제\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "팀원 및 멘토님과 인사"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "멘토링 진행 방법 설명"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "현재 각 분야별 진행 상황 공유"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "진행 계획 및 각자 세부 역할 부여"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "각자 투자할 수 있는 시간 확인"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "테스트 가능한 Codespaces 환경 설정 해보기"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "기타 의견"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1632028377.006400",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1632034523.008200",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1632034523.008200",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02FA0NJ8RF",
+          "U02D7GX0KGA",
+          "U02DHN1UBHA",
+          "U02DPCQH7J5"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024503.000300",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "그러면 다들 여유있게 19일 일요일 19시로 결정하겠습니다! :raised_hands:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631773254.000800",
+    "thread_ts": "1631707172.011900",
+    "root": {
+      "client_msg_id": "587fb299-f712-4b32-a8c4-1a81ee9ecdb3",
+      "type": "message",
+      "text": "*<!channel>* :bangbang:\n*9월 3주차 회의 일정 조정*\n1. 9. 18 (토) 15:00\n2. 9. 18 (토) 19:00\n3. 9. 19 (일) 15:00\n4. 9. 19 (일) 19:00\n가능한 시간을 리액션으로 달아주시면 됩니다.",
+      "user": "U02DX5BFPPS",
+      "ts": "1631707172.011900",
+      "team": "T02D0PW4F2A",
+      "edited": {
+        "user": "U02DX5BFPPS",
+        "ts": "1631707182.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f=NN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "broadcast",
+                  "range": "channel",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "emoji",
+                  "name": "bangbang",
+                  "unicode": "203c-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "9월 3주차 회의 일정 조정",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "9. 18 (토) 15:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "9. 18 (토) 19:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "9. 19 (일) 15:00"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "9. 19 (일) 19:00"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "가능한 시간을 리액션으로 달아주시면 됩니다."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631707172.011900",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1631773254.000800",
+      "reply_users": [
+        "U02DX5BFPPS",
+        "U02D7GX0KGA"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631773254.000800"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AZGxR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그러면 다들 여유있게 19일 일요일 19시로 결정하겠습니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "unicode": "1f64c"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "80636e8d-372e-4bd9-b930-6b5f4040419a",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DE2CLG0L",
+          "U02D8EUAE69"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "587fb299-f712-4b32-a8c4-1a81ee9ecdb3",
+    "type": "message",
+    "text": "*<!channel>* :bangbang:\n*9월 3주차 회의 일정 조정*\n1. 9. 18 (토) 15:00\n2. 9. 18 (토) 19:00\n3. 9. 19 (일) 15:00\n4. 9. 19 (일) 19:00\n가능한 시간을 리액션으로 달아주시면 됩니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1631707172.011900",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631707182.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f=NN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "unicode": "203c-fe0f"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "9월 3주차 회의 일정 조정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 18 (토) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 18 (토) 19:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 19 (일) 15:00"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9. 19 (일) 19:00"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "가능한 시간을 리액션으로 달아주시면 됩니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631707172.011900",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1631773254.000800",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631773254.000800",
+    "reactions": [
+      {
+        "name": "one",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 5
+      },
+      {
+        "name": "two",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DHN1UBHA",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02D8EUAE69"
+        ],
+        "count": 5
+      },
+      {
+        "name": "three",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DHN1UBHA",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 6
+      },
+      {
+        "name": "four",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DHN1UBHA",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5",
+          "U02D8EUAE69",
+          "U02D7GX0KGA"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3a26b4b0-9b92-4761-bc28-77717b00e256",
+    "type": "message",
+    "text": "이번주 사지방 이용 가능 시간\n9/16(목) : 12:00 ~ 13:00, 17:00 ~ 20:30\n9/17(금) : 10:00 ~ 11:50, 16:30 ~ 19:50\n9/18(토) : 09:00 ~ 17:50\n9/19(일) : 09:00 ~ 09:50, 12:00 ~ 15:50, 18:00 ~ 20:30",
+    "user": "U02D7GX0KGA",
+    "ts": "1631706709.009200",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ncu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이번주 사지방 이용 가능 시간\n9/16(목) : 12:00 ~ 13:00, 17:00 ~ 20:30\n9/17(금) : 10:00 ~ 11:50, 16:30 ~ 19:50\n9/18(토) : 09:00 ~ 17:50\n9/19(일) : 09:00 ~ 09:50, 12:00 ~ 15:50, 18:00 ~ 20:30"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "12cca651-4f7d-4a57-b84f-e040a26e8858",
+    "type": "message",
+    "text": "음... 이제 본격적으로 프로젝트를 시작하기에 앞서서, 1주일에 한번정도 다같이 그룹 콜로 개발 상황이나 어려움들을 공유하는 시간을 30분~1시간정도 가지려고 합니다. 주말에 시간적인 여유가 있을 것 같으니\n~토요일 오후 3시~\n토요일 오후 7시\n는 어떠신가요?\n다른 시간이 더 적합하다고 생각하시거나 기타 의견 있으신 분들은 스레드로 메시지 남겨주시면 조정해보도록 하겠습니다. 찬성하시면 :white_check_mark: , 다른 의견이 있으시면 :x: 로 리액션 달아주세요! :smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631704651.004200",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631705765.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XjB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "음... 이제 본격적으로 프로젝트를 시작하기에 앞서서, 1주일에 한번정도 다같이 그룹 콜로 개발 상황이나 어려움들을 공유하는 시간을 30분~1시간정도 가지려고 합니다. 주말에 시간적인 여유가 있을 것 같으니\n"
+              },
+              {
+                "type": "text",
+                "text": "토요일 오후 3시",
+                "style": {
+                  "strike": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n토요일 오후 7시\n는 어떠신가요?\n다른 시간이 더 적합하다고 생각하시거나 기타 의견 있으신 분들은 스레드로 메시지 남겨주시면 조정해보도록 하겠습니다. 찬성하시면 "
+              },
+              {
+                "type": "emoji",
+                "name": "white_check_mark",
+                "unicode": "2705"
+              },
+              {
+                "type": "text",
+                "text": " , 다른 의견이 있으시면 "
+              },
+              {
+                "type": "emoji",
+                "name": "x",
+                "unicode": "274c"
+              },
+              {
+                "type": "text",
+                "text": " 로 리액션 달아주세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "unicode": "1f604"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631704651.004200",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1631707028.009700",
+    "reply_users": [
+      "U02D7GX0KGA",
+      "U02DX5BFPPS",
+      "U02DPCQH7J5",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631707028.009700",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      },
+      {
+        "name": "speech_balloon",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "953d15d2-6732-46fb-9694-23141ebf10f8",
+    "type": "message",
+    "text": "이번주 내내 차량운행이 있어서 연등시간에 참여가 조금 어려울거 같습니다 ㅠㅠ :meow_code: 배차가 전날에 나다보니 미리미리 말씀드리지 못한 점 죄송합니다 ㅠ 그래도 있는시간 없는시간 쪼개서 계속 참여 해보겠습니다:meow_bongo-keyboard:",
+    "user": "U02D8EUAE69",
+    "ts": "1631530583.002700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uO5a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이번주 내내 차량운행이 있어서 연등시간에 참여가 조금 어려울거 같습니다 ㅠㅠ "
+              },
+              {
+                "type": "emoji",
+                "name": "meow_code"
+              },
+              {
+                "type": "text",
+                "text": " 배차가 전날에 나다보니 미리미리 말씀드리지 못한 점 죄송합니다 ㅠ 그래도 있는시간 없는시간 쪼개서 계속 참여 해보겠습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "meow_bongo-keyboard"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631530583.002700",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1631532213.003100",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631532213.003100",
+    "reactions": [
+      {
+        "name": "cry",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "그동안 답변이 늦어져서 정말 죄송합니다 ㅠㅠ :sweat: 오늘부로 부대로 복귀해서 격리 기간동안에 활발하게 프로젝트 진행해보도록 하겠습니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1631110345.000100",
+    "thread_ts": "1630669698.002800",
+    "root": {
+      "client_msg_id": "ed45dc9b-6dac-43b5-a042-00a3ad64ef98",
+      "type": "message",
+      "text": "9.4 ~ 9.8 휴가로 인해 연락 확인이 늦어질 수 있습니다. :smiling_face_with_tear:\n9.4일 오전에 예정되어있는 어학 시험만 끝나면 최대한 자주 슬랙 확인하고 진행상황 공유해드리도록 하겠습니다!",
+      "user": "U02DX5BFPPS",
+      "ts": "1630669698.002800",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nRMqI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "9.4 ~ 9.8 휴가로 인해 연락 확인이 늦어질 수 있습니다. "
+                },
+                {
+                  "type": "emoji",
+                  "name": "smiling_face_with_tear",
+                  "unicode": "1f972"
+                },
+                {
+                  "type": "text",
+                  "text": "\n9.4일 오전에 예정되어있는 어학 시험만 끝나면 최대한 자주 슬랙 확인하고 진행상황 공유해드리도록 하겠습니다!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1630669698.002800",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1631166023.000300",
+      "reply_users": [
+        "U02DX5BFPPS",
+        "U02D7GX0KGA"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631166023.000300"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l8mK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그동안 답변이 늦어져서 정말 죄송합니다 ㅠㅠ "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "unicode": "1f613"
+              },
+              {
+                "type": "text",
+                "text": " 오늘부로 부대로 복귀해서 격리 기간동안에 활발하게 프로젝트 진행해보도록 하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "930cf7fb-4a23-4e3c-9b11-e1a39b92a8fd"
+  },
+  {
+    "client_msg_id": "cb7000bf-f0f7-43d7-bbb2-df943b47e9e4",
+    "type": "message",
+    "text": "딱히 근무가 없어서 가능한 시간이 일정할것 같습니다\n평일 : 19:00 ~ 20:30 , 22:00 ~ 0:00\n주말 식사 시간외 다 가능합니다!",
+    "user": "U02D8EUAE69",
+    "ts": "1630924125.011500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qZO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "딱히 근무가 없어서 가능한 시간이 일정할것 같습니다\n평일 : 19:00 ~ 20:30 , 22:00 ~ 0:00\n주말 식사 시간외 다 가능합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f5057ce3-8ecc-464d-bc18-ee8bfcf3e971",
+    "type": "message",
+    "text": "평일 : 18:00 ~ 20:40 , 21:50 ~ 00:00\n주말 : 09:00 ~ 20:40 , 21:50 ~ 00:00\n이용 가능합니다!",
+    "user": "U02DE2CLG0L",
+    "ts": "1630923485.009300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G=3oh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "평일 : 18:00 ~ 20:40 , 21:50 ~ 00:00\n주말 : 09:00 ~ 20:40 , 21:50 ~ 00:00\n이용 가능합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fe761340-89bc-4ccc-bde2-336d8f8bcfda",
+    "type": "message",
+    "text": "화 : 당직\n수 : 17:30~20:30, 22:00~ 00:00\n목 : 17:30~20:30, 22:00~ 00:00\n금 : 17:30~20:30, 22:00~ 00:00\n토 : 당직.....\n일 : 16:00 이후로 쭉 가능\n월: 쭉 가능",
+    "user": "U02DHN1UBHA",
+    "ts": "1630923412.007900",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DHN1UBHA",
+      "ts": "1631236051.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5vc3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "화 : 당직\n수 : 17:30~20:30, 22:00~ 00:00\n목 : 17:30~20:30, 22:00~ 00:00\n금 : 17:30~20:30, 22:00~ 00:00\n토 : 당직.....\n일 : 16:00 이후로 쭉 가능\n월: 쭉 가능"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9c93fa3c-ad9d-48b2-a3cf-b0ed46084348",
+    "type": "message",
+    "text": "22:00~00:00 싸지방 연등 가능합니다",
+    "user": "U02DPCQH7J5",
+    "ts": "1630923397.007500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NHH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "22:00~00:00 싸지방 연등 가능합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d57cd89d-ca18-4c21-95f7-896bb69c7b29",
+    "type": "message",
+    "text": "당직병이라 근무 시간이 조금 다릅니다\n주간: 0700~1800 근무\n야간: 1700~0800 근무\n그 외: 언제든 연락 가능\n\n9/7(화) 야, 9/10(금) 주, 9/11(토) 주, 9/12(일) 야, 9/15(수) 주, 9/16(목) 주 9/17(금) 야",
+    "user": "U02DPCQH7J5",
+    "ts": "1630923390.007300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K6knb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "당직병이라 근무 시간이 조금 다릅니다\n주간: 0700~1800 근무\n야간: 1700~0800 근무\n그 외: 언제든 연락 가능\n\n9/7(화) 야, 9/10(금) 주, 9/11(토) 주, 9/12(일) 야, 9/15(수) 주, 9/16(목) 주 9/17(금) 야"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "acdd661b-1b4c-4870-a979-de496234bbe2",
+    "type": "message",
+    "text": "이번 주 제가 사지방을 이용할 수 있는 시간 목록입니다.\n화 : 17:30 ~ 20:30\n수 : 17:30 ~ 20:30\n목 : 17:00 ~ 19:50\n금 : 15:30 ~ 17:50, 20:00 ~ 20:30\n토 : 13:30 ~ 16:00, 18:00 ~ 20:30\n일 : 12:00 ~ 13:50, 16:00 ~ 20:30\n(추가적으로 22:00~00:00에 사지방 연등을 할 수도 있는데, 자리가 부족할 때가 많아 확정적으로 하지는 못합니다:sweat:)",
+    "user": "U02D7GX0KGA",
+    "ts": "1630923091.004500",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02D7GX0KGA",
+      "ts": "1631004997.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eubVU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이번 주 제가 사지방을 이용할 수 있는 시간 목록입니다.\n화 : 17:30 ~ 20:30\n수 : 17:30 ~ 20:30\n목 : 17:00 ~ 19:50\n금 : 15:30 ~ 17:50, 20:00 ~ 20:30\n토 : 13:30 ~ 16:00, 18:00 ~ 20:30\n일 : 12:00 ~ 13:50, 16:00 ~ 20:30\n(추가적으로 22:00~00:00에 사지방 연등을 할 수도 있는데, 자리가 부족할 때가 많아 확정적으로 하지는 못합니다"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "unicode": "1f613"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ed45dc9b-6dac-43b5-a042-00a3ad64ef98",
+    "type": "message",
+    "text": "9.4 ~ 9.8 휴가로 인해 연락 확인이 늦어질 수 있습니다. :smiling_face_with_tear:\n9.4일 오전에 예정되어있는 어학 시험만 끝나면 최대한 자주 슬랙 확인하고 진행상황 공유해드리도록 하겠습니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1630669698.002800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nRMqI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "9.4 ~ 9.8 휴가로 인해 연락 확인이 늦어질 수 있습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "unicode": "1f972"
+              },
+              {
+                "type": "text",
+                "text": "\n9.4일 오전에 예정되어있는 어학 시험만 끝나면 최대한 자주 슬랙 확인하고 진행상황 공유해드리도록 하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1630669698.002800",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1631166023.000300",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631166023.000300"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_purpose",
+    "ts": "1630668536.001400",
+    "user": "U02DX5BFPPS",
+    "text": "set the channel description: 근무, 휴가, 훈련 등 프로젝트 참여에 차질이 있을 수 있는 각자의 일정을 공유하는 채팅방입니다.",
+    "purpose": "근무, 휴가, 훈련 등 프로젝트 참여에 차질이 있을 수 있는 각자의 일정을 공유하는 채팅방입니다."
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667917.001300",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667917.001100",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667917.000900",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667917.000700",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667917.000500",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667915.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "client_msg_id": "487107e6-c5d1-405a-91d2-33dd2167beb9",
+    "type": "message",
+    "text": "멘토님, 혹시 올라와있는 링크 중 권한이 없어서 안열리는 링크가 있으시다면 알려주세욥! :sweat_smile:",
+    "user": "U02DX5BFPPS",
+    "ts": "1632029377.001100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "342o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "멘토님, 혹시 올라와있는 링크 중 권한이 없어서 안열리는 링크가 있으시다면 알려주세욥! "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "ok",
+        "users": [
+          "U02FA0NJ8RF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "92440f3f-bffc-49df-9756-244ab8bebabb",
+    "type": "message",
+    "text": "안녕하세요! 잘 부탁드립니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1632024575.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T4ZQE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 잘 부탁드립니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02FA0NJ8RF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "joiner_notification_for_inviter",
+    "ts": "1632024503.000100",
+    "user": "U02FA0NJ8RF",
+    "text": "gimdongwoo accepted your invitation to join Slack — take a second to say hello."
+  }
+]

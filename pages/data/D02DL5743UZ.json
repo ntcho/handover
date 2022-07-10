@@ -1,0 +1,280 @@
+[
+  {
+    "bot_id": "B01",
+    "type": "message",
+    "text": "OK! I’ve marked the reminder about <https://osam-handover.slack.com/archives/C02DT0CRD4L/p1633259594019700?thread_ts=1633249613017300&cid=C02DT0CRD4L|this message> from <@U02DHN1UBHA> in <#C02DT0CRD4L>\n>Troubleshooting meeting\n as complete.",
+    "user": "USLACKBOT",
+    "ts": "1633318208.000100",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "B01",
+      "ts": "1633318707.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lUS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OK! I’ve marked the reminder about "
+              },
+              {
+                "type": "link",
+                "url": "https://osam-handover.slack.com/archives/C02DT0CRD4L/p1633259594019700?thread_ts=1633249613017300&cid=C02DT0CRD4L",
+                "text": "this message"
+              },
+              {
+                "type": "text",
+                "text": " from "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DHN1UBHA"
+              },
+              {
+                "type": "text",
+                "text": " in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C02DT0CRD4L"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Troubleshooting meeting"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": " as complete."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "<@U02FA0NJ8RF> just sent <https://osam-handover.slack.com/archives/C02D0PW5X0W/p1632048090007900|their first message> to a channel you're in. :tada: Help keep the conversation going!",
+    "ts": "1632048092.000100",
+    "user": "USLACKBOT",
+    "username": "slackbot",
+    "bot_id": "B01",
+    "attachments": [
+      {
+        "fallback": "Log In or Sign Up to View",
+        "text": "See posts, photos and more on Facebook.",
+        "title": "Log In or Sign Up to View",
+        "id": 1,
+        "title_link": "https://www.facebook.com/woo.gim"
+      },
+      {
+        "callback_id": "firstmsgnotifications_",
+        "id": 2,
+        "actions": [
+          {
+            "id": "1",
+            "text": "Reply in #chatroom",
+            "type": "button",
+            "style": "default",
+            "url": "https://osam-handover.slack.com/archives/C02D0PW5X0W/p1632048090007900?experiment_name=first_message_notification",
+            "name": "actionable_reply_in_channel_button"
+          },
+          {
+            "id": "2",
+            "text": "Send a Direct Message",
+            "type": "button",
+            "style": "default",
+            "url": "https://osam-handover.slack.com/archives/D02EUBH4M5K?experiment_name=first_message_notification",
+            "name": "actionable_send_dm_button"
+          },
+          {
+            "id": "3",
+            "name": "disable_first_msg_notifications",
+            "text": "Don’t Show Me Again",
+            "type": "button",
+            "value": "Don’t Show Me Again",
+            "style": "danger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bot_id": "B01",
+    "type": "message",
+    "text": "OK! I’ve deleted the reminder about <https://osam-handover.slack.com/archives/C02DHP7230D/p1631630204037500?thread_ts=1631629614034400&cid=C02DHP7230D|this message> from <@U02DPCQH7J5> in <#C02DHP7230D>.",
+    "user": "USLACKBOT",
+    "ts": "1631631410.000100",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "B01",
+      "ts": "1631631631.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JdPhU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OK! I’ve deleted the reminder about "
+              },
+              {
+                "type": "link",
+                "url": "https://osam-handover.slack.com/archives/C02DHP7230D/p1631630204037500?thread_ts=1631629614034400&cid=C02DHP7230D",
+                "text": "this message"
+              },
+              {
+                "type": "text",
+                "text": " from "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DPCQH7J5"
+              },
+              {
+                "type": "text",
+                "text": " in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C02DHP7230D"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "<@U02DPCQH7J5> just sent <https://osam-handover.slack.com/archives/C02DL575LKT/p1630739578006500|their first message> to a channel you're in. :tada: Help keep the conversation going!",
+    "ts": "1630739580.000100",
+    "user": "USLACKBOT",
+    "username": "slackbot",
+    "bot_id": "B01",
+    "attachments": [
+      {
+        "author_name": "오지환",
+        "author_subname": "오지환",
+        "fallback": "[September 4th, 2021 12:12 AM] sapindus_hwan: 안녕하세요 저는 해군 진해기지에서 복무중인 오지환입니다.\n저는 주로 개인프로젝트를 진행해서 팀프로젝트에 이해도가 조금 낮습니다. 팀에 최대한 민폐가 되지 않게 열심히 참여하겠습니다.",
+        "text": "안녕하세요 저는 해군 진해기지에서 복무중인 오지환입니다.\n저는 주로 개인프로젝트를 진행해서 팀프로젝트에 이해도가 조금 낮습니다. 팀에 최대한 민폐가 되지 않게 열심히 참여하겠습니다.",
+        "id": 1,
+        "author_link": "https://osam-handover.slack.com/team/U02DPCQH7J5",
+        "author_icon": "https://secure.gravatar.com/avatar/e505e1c21bcdf624b12dca465a0b3708.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-48.png",
+        "ts": 1630739578,
+        "mrkdwn_in": [
+          "text"
+        ]
+      },
+      {
+        "callback_id": "firstmsgnotifications_",
+        "id": 2,
+        "actions": [
+          {
+            "id": "1",
+            "text": "Reply in #random",
+            "type": "button",
+            "style": "default",
+            "url": "https://osam-handover.slack.com/archives/C02DL575LKT/p1630739578006500?experiment_name=first_message_notification",
+            "name": "actionable_reply_in_channel_button"
+          },
+          {
+            "id": "2",
+            "text": "Send a Direct Message",
+            "type": "button",
+            "style": "default",
+            "url": "https://osam-handover.slack.com/archives/D02E0CUVC7J?experiment_name=first_message_notification",
+            "name": "actionable_send_dm_button"
+          },
+          {
+            "id": "3",
+            "name": "disable_first_msg_notifications",
+            "text": "Don’t Show Me Again",
+            "type": "button",
+            "value": "Don’t Show Me Again",
+            "style": "danger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "text": "<@U02D7GX0KGA> just sent <https://osam-handover.slack.com/archives/C02D0PW5X0W/p1630594085001300|their first message> to a channel you're in. :tada: Help keep the conversation going!",
+    "ts": "1630594086.000100",
+    "user": "USLACKBOT",
+    "username": "slackbot",
+    "bot_id": "B01",
+    "attachments": [
+      {
+        "author_name": "최우혁",
+        "author_subname": "최우혁",
+        "fallback": "[September 2nd, 2021 7:48 AM] 00cwooh: 안녕하세요~~ ㅎㅎ :blush:",
+        "text": "안녕하세요~~ ㅎㅎ :blush:",
+        "id": 1,
+        "author_link": "https://osam-handover.slack.com/team/U02D7GX0KGA",
+        "author_icon": "https://secure.gravatar.com/avatar/5a86b8f2e535da0e81c7b9cbdeed9b6b.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-48.png",
+        "ts": 1630594085,
+        "mrkdwn_in": [
+          "text"
+        ]
+      },
+      {
+        "callback_id": "firstmsgnotifications_",
+        "id": 2,
+        "actions": [
+          {
+            "id": "1",
+            "text": "Reply in #chatroom",
+            "type": "button",
+            "style": "default",
+            "url": "https://osam-handover.slack.com/archives/C02D0PW5X0W/p1630594085001300?experiment_name=first_message_notification",
+            "name": "actionable_reply_in_channel_button"
+          },
+          {
+            "id": "2",
+            "text": "Send a Direct Message",
+            "type": "button",
+            "style": "default",
+            "url": "https://osam-handover.slack.com/archives/D02DX5TPMJL?experiment_name=first_message_notification",
+            "name": "actionable_send_dm_button"
+          },
+          {
+            "id": "3",
+            "name": "disable_first_msg_notifications",
+            "text": "Don’t Show Me Again",
+            "type": "button",
+            "value": "Don’t Show Me Again",
+            "style": "danger"
+          }
+        ]
+      }
+    ]
+  }
+]

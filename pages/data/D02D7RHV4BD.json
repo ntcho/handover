@@ -1,0 +1,221 @@
+[
+  {
+    "client_msg_id": "6eb81d5a-08d0-4767-884c-07d3aef5500d",
+    "type": "message",
+    "text": "감사합니다!!!!!",
+    "user": "U02DE2CLG0L",
+    "ts": "1637069631.000300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SP=Sk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "감사합니다!!!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "03c5af01-e2cc-4eae-b082-4b4c52b45a0a",
+    "type": "message",
+    "text": "ㅠㅠ 고생이 많으십니다 :sob: 제가 주최측에 같이 전달하도록 하겠습니다! ㅎㅎ 추운데 몸조심하시구요~~ 감사합니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1636724543.002000",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rv/V6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅠㅠ 고생이 많으십니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              },
+              {
+                "type": "text",
+                "text": " 제가 주최측에 같이 전달하도록 하겠습니다! ㅎㅎ 추운데 몸조심하시구요~~ 감사합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3a96fbb7-45d4-4029-85a3-3fd9b75e4f07",
+    "type": "message",
+    "text": "넵 방금 확인했습니다!",
+    "user": "U02DX5BFPPS",
+    "ts": "1636724502.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Apk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 방금 확인했습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6bcb97c8-62d1-424d-85ca-344e9c80eb08",
+    "type": "message",
+    "text": "조나단님! 제개 나단님께 메일 전송했는데 확인 부탁드려도 될까요???",
+    "user": "U02DE2CLG0L",
+    "ts": "1636724290.000500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n/TP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "조나단님! 제개 나단님께 메일 전송했는데 확인 부탁드려도 될까요???"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9dd81bbe-bffb-4f7a-8507-3cf8a4dec4ff",
+    "type": "message",
+    "text": "앗 알겠습니다!",
+    "user": "U02DE2CLG0L",
+    "ts": "1630766466.000400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cv1lX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "앗 알겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ce77142f-87a9-44a6-a69a-0f3338797bae",
+    "type": "message",
+    "text": "현준님 이름으로 닉네임 변경해주실 수 있으신가요? :smiley:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630764234.000500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jzNK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "현준님 이름으로 닉네임 변경해주실 수 있으신가요? "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "59d23fe8-0058-45d9-bb2b-cb235a177e82",
+    "type": "message",
+    "text": "안녕하세요! :man-raising-hand:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630663345.000300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hH=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "man-raising-hand",
+                "unicode": "1f64b-200d-2642-fe0f"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "joiner_notification_for_inviter",
+    "ts": "1630623796.000100",
+    "user": "U02DE2CLG0L",
+    "text": "hyunjune park accepted your invitation to join Slack — take a second to say hello."
+  }
+]

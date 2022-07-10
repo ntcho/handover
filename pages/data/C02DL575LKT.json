@@ -1,0 +1,1520 @@
+[
+  {
+    "type": "message",
+    "text": "readme getting start에 yet to do로 제출할 뻔 했으나...",
+    "files": [
+      {
+        "id": "F02JKP653C4",
+        "created": 1634773853,
+        "timestamp": 1634773853,
+        "name": "1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg.jpg",
+        "title": "1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 22639,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02JKP653C4/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02JKP653C4/download/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JKP653C4-c27a0506e9/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JKP653C4-c27a0506e9/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JKP653C4-c27a0506e9/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 180,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JKP653C4-c27a0506e9/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 240,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JKP653C4-c27a0506e9/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg_160.jpg",
+        "original_w": 600,
+        "original_h": 300,
+        "thumb_tiny": "AwAYADBKcCBtBXIJwT6VCzE9OlS252xvI5wvagBSrAkY49adhgFA7HLUxZ2kDlVVY1xye1O850YebhkblXWgBtJTpSqEkkYpoIYZHSmBG4wKeq/uNjfWmSf1qZvu/hUgVzIQhi25Q+9OV2bapA2joOtRt1FPj+8KBkkkZdhj7o60oAAwOlSL9w/SmU0I/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02JKP653C4/1bd7453343646f106926d6d05f85cd77cb28b0be4679593ca208a4cd0fbd88075e5592f731f61a75f2677f1a692e1d17c97409aac72224c573e3592067df7a1738811f04d2748bf0b65bffde4ceacb00.jpeg.jpg",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02JKP653C4-49ae47a2f7",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1634773856.001000",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AtsoF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "readme getting start에 yet to do로 제출할 뻔 했으나..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "60be6f77-31bb-46d0-8ecb-dcab60789228",
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "grin",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "내일... 뵙겠습니다. :smiley:",
+    "files": [
+      {
+        "id": "F02J0H9098F",
+        "created": 1634742051,
+        "timestamp": 1634742051,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 716679,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J0H9098F/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J0H9098F/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J0H9098F-074ca369f3/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J0H9098F-074ca369f3/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J0H9098F-074ca369f3/image_360.png",
+        "thumb_360_w": 288,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J0H9098F-074ca369f3/image_480.png",
+        "thumb_480_w": 384,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J0H9098F-074ca369f3/image_160.png",
+        "original_w": 460,
+        "original_h": 575,
+        "thumb_tiny": "AwAwACZi5UZp8cW5ue55pq849CeauImAMVo2IryQgdD0qq4IrUGxmKZG4dRVW6h2dOnahO4MqI+Bg4/Gn7x7VC3Wkp3AuJnGc5qy0m2IbTyarQtztJ61JIdkeM8Z4qZbFRtfUktGzMw65Gc1PcKGjOarWMgMjj0HWp7lwFx3xURHPcyH4OBTdx9qVz8xpvNWQXnUE5QjJ7U2Xf5WGHTmosuPcD0qSNgwIfdjtgU2AtoQjOxIxjFNlnLMSM05jATgbgfYVXlPPHA9KSVgGFqTdShSaNhoA//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02J0H9098F/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J0H9098F-d3d5c0e6b5",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1634742065.001700",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "89tP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "내일... 뵙겠습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "ab2bae40-553a-4a2f-867b-77c92cf139fa",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02JT8TSA3T",
+        "created": 1634736164,
+        "timestamp": 1634736164,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 7172,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02JT8TSA3T/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02JT8TSA3T/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JT8TSA3T-61ad438ceb/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JT8TSA3T-61ad438ceb/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JT8TSA3T-61ad438ceb/image_360.png",
+        "thumb_360_w": 192,
+        "thumb_360_h": 73,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JT8TSA3T-61ad438ceb/image_160.png",
+        "original_w": 192,
+        "original_h": 73,
+        "thumb_tiny": "AwASADBp6GoFCleSAalMqY6/pUe5MdKaJbFhC7ZMsw47d6jyMffb6VMJUHQEAjnBxmkLx5GAQKfKu4uZ9iPI/wCejflRuGPvtn6VJ5kf900eYm4fLx6UcvmPm8iGiiikAUUUUAFFFFAH/9k=",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02JT8TSA3T/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02JT8TSA3T-1e1c392f0c",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1634736166.001000",
+    "client_msg_id": "96c1f15f-4a35-40af-a799-dc264e5f1b3f",
+    "reactions": [
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DHN1UBHA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "뭐야 저만 일병이었네요...:sob:",
+    "files": [
+      {
+        "id": "F02K2RHP45N",
+        "created": 1634712234,
+        "timestamp": 1634712234,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D7GX0KGA",
+        "editable": false,
+        "size": 233490,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02K2RHP45N/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02K2RHP45N/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 101,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 134,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 201,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 224,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 268,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02K2RHP45N-84467b31d9/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 286,
+        "original_w": 1188,
+        "original_h": 332,
+        "thumb_tiny": "AwANADC6EfzpGZxsI4GelSqPfNNEY3s3GW9qcBigCFY5BcOzSAoR0yamUYHBzTPKHm789sYp4GKAIghEzEy5B/h9BUqjHQ8VAtqq3LTbjlu1TgYoA//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02K2RHP45N/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02K2RHP45N-e72b3f71c8",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02D7GX0KGA",
+    "display_as_bot": false,
+    "ts": "1634712250.000400",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/WSzA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "뭐야 저만 일병이었네요..."
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "unicode": "1f62d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "9f6b88a2-4f10-4bfe-8d98-f6e7f05ddba5",
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "laughing",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "<https://osam-handover.slack.com/archives/C02DHP7230D/p1633877151033800?thread_ts=1633877118.033400&amp;cid=C02DHP7230D> :+1:",
+    "files": [
+      {
+        "id": "F02HV89M7UL",
+        "created": 1634220369,
+        "timestamp": 1634220369,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 69018,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HV89M7UL/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02HV89M7UL/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HV89M7UL-287674fb16/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HV89M7UL-287674fb16/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HV89M7UL-287674fb16/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 359,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HV89M7UL-287674fb16/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 478,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02HV89M7UL-287674fb16/image_160.png",
+        "original_w": 563,
+        "original_h": 561,
+        "thumb_tiny": "AwAvADC3JJtYLnGeSfQUqOTuBXkAH60SxrIBuzx6U7AUeuaQxod8HMZ+maVWYnlCPfNKVXj5R+VL04oELRRRQAhpMZpwzg4pcN6n9KYDcUU/nHNNycnBP6UAJRT1z3pp6mkAq96dkUzOKMmmA49KTaMnmkyaMmgBw47009TRk0UgP//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02HV89M7UL/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02HV89M7UL-c8fa29d256",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1634220400.000300",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Gtv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://osam-handover.slack.com/archives/C02DHP7230D/p1633877151033800?thread_ts=1633877118.033400&cid=C02DHP7230D"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "unicode": "1f44d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "4f80e57b-98e5-4e9f-a725-396198a33c20",
+    "attachments": [
+      {
+        "from_url": "https://osam-handover.slack.com/archives/C02DHP7230D/p1633877151033800?thread_ts=1633877118.033400&amp;cid=C02DHP7230D",
+        "fallback": "[October 10th, 2021 7:45 AM] 00cwooh: <https://t1.daumcdn.net/liveboard/holapet/0e5f90af436e4c218343073164a5f657.JPG>\n링크는 귀여운 멍멍이 이미지의 링크입니다",
+        "ts": "1633877151.033800",
+        "author_id": "U02D7GX0KGA",
+        "author_subname": "최우혁",
+        "channel_id": "C02DHP7230D",
+        "channel_name": "dev-backend",
+        "is_msg_unfurl": true,
+        "is_reply_unfurl": true,
+        "text": "<https://t1.daumcdn.net/liveboard/holapet/0e5f90af436e4c218343073164a5f657.JPG>\n링크는 귀여운 멍멍이 이미지의 링크입니다",
+        "message_blocks": [
+          {
+            "team": "T02D0PW4F2A",
+            "channel": "C02DHP7230D",
+            "ts": "1633877151.033800",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "xSzUW",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "link",
+                          "url": "https://t1.daumcdn.net/liveboard/holapet/0e5f90af436e4c218343073164a5f657.JPG"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n링크는 귀여운 멍멍이 이미지의 링크입니다"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "author_name": "최우혁",
+        "author_link": "https://osam-handover.slack.com/team/U02D7GX0KGA",
+        "author_icon": "https://avatars.slack-edge.com/2021-09-11/2480139957906_e205b2874b3431a43c24_48.jpg",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "id": 1,
+        "original_url": "https://osam-handover.slack.com/archives/C02DHP7230D/p1633877151033800?thread_ts=1633877118.033400&amp;cid=C02DHP7230D",
+        "footer": "From a thread in #dev-backend"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5317ff5c-69fd-46df-90a5-10afbc14e151",
+    "type": "message",
+    "text": "<https://github.com/osamhack2021/Web_Handover_Handover/stargazers> :star: :pray:",
+    "user": "U02DX5BFPPS",
+    "ts": "1633746184.000900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iVd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/osamhack2021/Web_Handover_Handover/stargazers"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "star",
+                "unicode": "2b50"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1633746184.000900",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1633749192.001100",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633749192.001100",
+    "reactions": [
+      {
+        "name": "meow_wow",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F02GPF14PA6",
+        "created": 1633431164,
+        "timestamp": 1633431164,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DX5BFPPS",
+        "editable": false,
+        "size": 192500,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GPF14PA6/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02GPF14PA6/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GPF14PA6-22509913b7/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GPF14PA6-22509913b7/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GPF14PA6-22509913b7/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 205,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GPF14PA6-22509913b7/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 273,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GPF14PA6-22509913b7/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02GPF14PA6-22509913b7/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 410,
+        "original_w": 720,
+        "original_h": 410,
+        "thumb_tiny": "AwAbADDSbOOOtRgM2cZ9896looAhCkkgdR1oCkPtHXH6VKq4ZjnrTf8Alv8A8B/rTERsmCBjqeKmUYUDj8KbJ95P97+lPpDEYkDIGT6VAZW3H5tvsccfrVikwPQUARRyMc/x/Qjin4PnZxxtxmnAAdAKWgBkn3k/3v6U+mP95P8Ae/pT6AP/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02DX5BFPPS/F02GPF14PA6/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02GPF14PA6-b571429e3e",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DX5BFPPS",
+    "display_as_bot": false,
+    "ts": "1633431166.000100",
+    "client_msg_id": "33975c8b-4f9c-4cce-85c3-d4a15ebcf11d",
+    "thread_ts": "1633431166.000100",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1633440423.001100",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1633440423.001100",
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "skull_and_crossbones",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "51cf1f12-24f5-4337-9632-7c5c6c292f1c",
+    "type": "message",
+    "text": "<https://blog.outsider.ne.kr/1503> :open_mouth: Git 의 기본 branch name 에 이런 뒷 이야기가 있었군요 ㅎㅎ (프로젝트에 관련된건 아니니 심심풀이로 읽어보시면 됩니다 ㅎㅎ)",
+    "user": "U02DX5BFPPS",
+    "ts": "1633088314.001200",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Outsider's Dev Story",
+        "title": "Git의 기본 브랜치를 master에서 main으로 변경하기 :: Outsider's Dev Story",
+        "title_link": "https://blog.outsider.ne.kr/1503",
+        "text": "올 6월 Go 언어가 인종차별적 요소나 주종 관계의 의미를 담고 있는 [whitelist/blacklist와 master/slave라는 용어를 프로젝트에서 제거하기로 결정](<https://go-review.googlesource.com/c/go/+/236857/>)하면서...",
+        "fallback": "Outsider's Dev Story: Git의 기본 브랜치를 master에서 main으로 변경하기 :: Outsider's Dev Story",
+        "thumb_url": "http://blog.outsider.ne.kr/attach/1/9252727402.xxx",
+        "from_url": "https://blog.outsider.ne.kr/1503",
+        "thumb_width": 750,
+        "thumb_height": 323,
+        "service_icon": "https://blog.outsider.ne.kr/favicon.ico",
+        "id": 1,
+        "original_url": "https://blog.outsider.ne.kr/1503"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UflK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.outsider.ne.kr/1503"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "open_mouth",
+                "unicode": "1f62e"
+              },
+              {
+                "type": "text",
+                "text": " Git 의 기본 branch name 에 이런 뒷 이야기가 있었군요 ㅎㅎ (프로젝트에 관련된건 아니니 심심풀이로 읽어보시면 됩니다 ㅎㅎ)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA",
+          "U02D8EUAE69",
+          "U02DE2CLG0L"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f7cd75bf-ce44-4d94-aa25-6da288333f0b",
+    "type": "message",
+    "text": "ㅋㅋㅋㅋㅋㅋㅋ 생각해보니 VM 에서 호스팅을 하는거라 11시가 지나면 접근이 안되네요 :smiling_face_with_tear:  <http://handover.berict.com|handover.berict.com> 에 왜 안되나 고민하고있었네요 :joy:",
+    "user": "U02DX5BFPPS",
+    "ts": "1632580244.001100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=FVP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅋㅋㅋㅋㅋㅋㅋ 생각해보니 VM 에서 호스팅을 하는거라 11시가 지나면 접근이 안되네요 "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "unicode": "1f972"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "link",
+                "url": "http://handover.berict.com",
+                "text": "handover.berict.com"
+              },
+              {
+                "type": "text",
+                "text": " 에 왜 안되나 고민하고있었네요 "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "unicode": "1f602"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smirk",
+        "users": [
+          "U02DPCQH7J5",
+          "U02DE2CLG0L"
+        ],
+        "count": 2
+      },
+      {
+        "name": "meow_glare-zoom",
+        "users": [
+          "U02D8EUAE69"
+        ],
+        "count": 1
+      },
+      {
+        "name": "meow_code",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024504.003200",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "client_msg_id": "cfb38392-3d3e-4805-9574-a0c725e42ece",
+    "type": "message",
+    "text": "오늘 다들 고생 많으셨습니다 :blush:",
+    "user": "U02D7GX0KGA",
+    "ts": "1631977093.002600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jdvIP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 다들 고생 많으셨습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D8EUAE69",
+          "U02DE2CLG0L",
+          "U02DPCQH7J5"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d0eb8d5d-1344-472d-8cab-31d9428f4f76",
+    "type": "message",
+    "text": "오늘은 <@U02DE2CLG0L> 님의 생일입니다!\n모두들 축하해주세요:tada:",
+    "user": "U02DPCQH7J5",
+    "ts": "1631932917.000800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x3k/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘은 "
+              },
+              {
+                "type": "user",
+                "user_id": "U02DE2CLG0L"
+              },
+              {
+                "type": "text",
+                "text": " 님의 생일입니다!\n모두들 축하해주세요"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "unicode": "1f389"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631932917.000800",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1631937483.002000",
+    "reply_users": [
+      "U02DE2CLG0L",
+      "U02D7GX0KGA",
+      "U02D8EUAE69"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS",
+          "U02DHN1UBHA"
+        ],
+        "count": 2
+      },
+      {
+        "name": "grin",
+        "users": [
+          "U02DE2CLG0L"
+        ],
+        "count": 1
+      },
+      {
+        "name": "tada",
+        "users": [
+          "U02D7GX0KGA",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e1d56f78-90f5-47cb-94e8-6eaf6884a7d6",
+    "type": "message",
+    "text": "공문 찾아서 읽어봤는데 별 내용이 없네요 :sweat: 오히려 볼드체로 *부대 업무에서 제외하는 것이 아님* 이렇게 써있네요 ㅋㅋㅋㅋ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631610404.001100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TDf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "공문 찾아서 읽어봤는데 별 내용이 없네요 "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "unicode": "1f613"
+              },
+              {
+                "type": "text",
+                "text": " 오히려 볼드체로 "
+              },
+              {
+                "type": "text",
+                "text": "부대 업무에서 제외하는 것이 아님",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 이렇게 써있네요 ㅋㅋㅋㅋ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U02DPCQH7J5",
+          "U02DHN1UBHA",
+          "U02D7GX0KGA"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "주최측에서 공문 게시된 위치를 알려줬습니다!\n`국방부인트라넷&gt;정보화기획관실&gt;국방sw정책&gt;공지사항(공문/소집교육계획)` 에 있다고 하니 각 부대 인사과나 해당 간부님께 전달해드리면 될 것 같습니다 :upside_down_face:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631571757.000100",
+    "thread_ts": "1631520889.001700",
+    "root": {
+      "client_msg_id": "d1893655-8f54-40b2-bf82-5dd9bb50f944",
+      "type": "message",
+      "text": "공문 지난주 월요일에 도착했습니다.",
+      "user": "U02DPCQH7J5",
+      "ts": "1631520889.001700",
+      "team": "T02D0PW4F2A",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/1=nD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "공문 지난주 월요일에 도착했습니다."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631520889.001700",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1631571757.000100",
+      "reply_users": [
+        "U02DX5BFPPS"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631571757.000100"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p++1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "주최측에서 공문 게시된 위치를 알려줬습니다!\n"
+              },
+              {
+                "type": "text",
+                "text": "국방부인트라넷>정보화기획관실>국방sw정책>공지사항(공문/소집교육계획)",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 에 있다고 하니 각 부대 인사과나 해당 간부님께 전달해드리면 될 것 같습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "unicode": "1f643"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "0b506e6c-e4c7-4496-bb58-ef00c8eb0f6c",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d1893655-8f54-40b2-bf82-5dd9bb50f944",
+    "type": "message",
+    "text": "공문 지난주 월요일에 도착했습니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1631520889.001700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/1=nD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "공문 지난주 월요일에 도착했습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631520889.001700",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1631571757.000100",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631571757.000100",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "79fe0032-1607-4c14-aea1-6184cab66d19",
+    "type": "message",
+    "text": "혹시 대회 관련해서 부대로 공문 도착하신 분 계신가요?! 대회 참여에 협조 이런거로 부대로 공문이 국방부에서 내려오면 간부님들도 개발 여건 보장이나 이런거 도와주실 것 같은데.. :sweat:",
+    "user": "U02DX5BFPPS",
+    "ts": "1631520392.001300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XSXw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 대회 관련해서 부대로 공문 도착하신 분 계신가요?! 대회 참여에 협조 이런거로 부대로 공문이 국방부에서 내려오면 간부님들도 개발 여건 보장이나 이런거 도와주실 것 같은데.. "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "unicode": "1f613"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fa0c9079-0799-432f-91ad-26819dad9869",
+    "type": "message",
+    "text": "백엔드 분야에 관심이 있어서 군대에서도 열심히 공부하고 있습니다! 많이 부족하지만 잘 부탁드립니다!",
+    "user": "U02DE2CLG0L",
+    "ts": "1630760375.014800",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "65y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "백엔드 분야에 관심이 있어서 군대에서도 열심히 공부하고 있습니다! 많이 부족하지만 잘 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9eb58136-9816-48bb-9995-b7b8d7cf6336",
+    "type": "message",
+    "text": "안녕하세요! 저는 육군 28사단 경이도 연천에서 복무 중인 박현준입니다!",
+    "user": "U02DE2CLG0L",
+    "ts": "1630760329.013700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MEZt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 저는 육군 28사단 경이도 연천에서 복무 중인 박현준입니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "laughing",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a8fd51ae-cae0-4eaa-9d4f-06d57855a04c",
+    "type": "message",
+    "text": "ㅎㅎㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1630748704.012900",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LWz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅎㅎㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ab8529e7-17e3-4df1-b88d-9de19d8ad5c7",
+    "type": "message",
+    "text": "안녕하세요~ 저는 육군 31사단, 여수에 있는 소초에서 TOD병으로 복무 중인 최우혁이라고 합니다.\n프론트엔드 개발 경험이 적어서 많이 서투를 수 있는데 팀에 피해 안가게 열심히 공부하겠습니다! :fire: 모두 잘 부탁드려요 ㅎㅎ",
+    "user": "U02D7GX0KGA",
+    "ts": "1630742462.011500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JU9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요~ 저는 육군 31사단, 여수에 있는 소초에서 TOD병으로 복무 중인 최우혁이라고 합니다.\n프론트엔드 개발 경험이 적어서 많이 서투를 수 있는데 팀에 피해 안가게 열심히 공부하겠습니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "unicode": "1f525"
+              },
+              {
+                "type": "text",
+                "text": " 모두 잘 부탁드려요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      },
+      {
+        "name": "heart",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9223757b-a1bc-4493-b9e1-0c3252ee38f7",
+    "type": "message",
+    "text": "안녕하세요! 저는 2군단 2공병여단에서 운전병으로 복무하고 있는 안수겸입니다 이번에 디자이너로 팀에 같이 하게 되었는데 여러분이 만족할만한 디자인을 한번 뽑아보도록 노력하겠습니다! 모두 화이팅 입니다!:smiley:",
+    "user": "U02D8EUAE69",
+    "ts": "1630740460.008700",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wQ8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 저는 2군단 2공병여단에서 운전병으로 복무하고 있는 안수겸입니다 이번에 디자이너로 팀에 같이 하게 되었는데 여러분이 만족할만한 디자인을 한번 뽑아보도록 노력하겠습니다! 모두 화이팅 입니다!"
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "heart",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      },
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA",
+          "U02DX5BFPPS"
+        ],
+        "count": 2
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "46b52bab-1b81-4b5d-a253-4088c3a91bbf",
+    "type": "message",
+    "text": "안녕하세요! 저는 2작전사 근지단에서 복무하는 김태원입니다.\n저는 개발을 많이 해보지 않아 실력적으로 많이 부족한 편입니다 ㅠㅜ... 그래도 빨리 배우는 편이니까 너무 답답해하지 않으셨음 합니다. 열심히 해보겠습니다!",
+    "user": "U02DHN1UBHA",
+    "ts": "1630739936.008500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B0O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 저는 2작전사 근지단에서 복무하는 김태원입니다.\n저는 개발을 많이 해보지 않아 실력적으로 많이 부족한 편입니다 ㅠㅜ... 그래도 빨리 배우는 편이니까 너무 답답해하지 않으셨음 합니다. 열심히 해보겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smile",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "heart",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ce46e8e8-1340-4048-9106-c79f741f821b",
+    "type": "message",
+    "text": "안녕하세요 저는 해군 진해기지에서 복무중인 오지환입니다.\n저는 주로 개인프로젝트를 진행해서 팀프로젝트에 이해도가 조금 낮습니다. 팀에 최대한 민폐가 되지 않게 열심히 참여하겠습니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1630739578.006500",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Mo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요 저는 해군 진해기지에서 복무중인 오지환입니다.\n저는 주로 개인프로젝트를 진행해서 팀프로젝트에 이해도가 조금 낮습니다. 팀에 최대한 민폐가 되지 않게 열심히 참여하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "laughing",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "725f0d75-f5cd-49e2-9c1c-7e3dca14ac60",
+    "type": "message",
+    "text": "저는 육군 1군단 소속 조나단이라고 합니다! :smiley: 저는 주로 서비스 기획과 프론트엔드 개발을 해왔습니다 ㅎㅎ 자대는 의정부에 있어요 :mountain:",
+    "user": "U02DX5BFPPS",
+    "ts": "1630736478.003400",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dok",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저는 육군 1군단 소속 조나단이라고 합니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              },
+              {
+                "type": "text",
+                "text": " 저는 주로 서비스 기획과 프론트엔드 개발을 해왔습니다 ㅎㅎ 자대는 의정부에 있어요 "
+              },
+              {
+                "type": "emoji",
+                "name": "mountain",
+                "unicode": "26f0-fe0f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      },
+      {
+        "name": "rainbowfrog",
+        "users": [
+          "U02DHN1UBHA"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f556c035-bfdd-4d6b-be63-5e5fe6bb10a4",
+    "type": "message",
+    "text": "안녕하세요! ㅎㅎ 간단하게 자기소개해보면 어떨까요?",
+    "user": "U02DX5BFPPS",
+    "ts": "1630736233.001100",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pevu4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! ㅎㅎ 간단하게 자기소개해보면 어떨까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667213.000800",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630666970.000500",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630653337.000200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630623797.000100",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630594009.000500",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630591921.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]

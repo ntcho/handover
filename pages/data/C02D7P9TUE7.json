@@ -1,0 +1,1089 @@
+[
+  {
+    "type": "message",
+    "text": "현재 제가 이미지 링크를 생성하는 방법을 공유해드리려 합니다..!\n구글 드라이브에 이미지 링크를 생성하고 싶은 이미지 파일을 업로드하고, <http://www.somanet.xyz/2017/06/blog-post_21.html> 에서 이미지 파일의 공유 링크를 이미지 링크로 변환할 수 있습니다. 이미지 태그로 자동으로 변환도 해줘서 편리하니 필요하신 분들은 사용해보세요 :blush: 더 좋은 방법이 있으면 공유 부탁드립니다:blush:",
+    "files": [
+      {
+        "id": "F02J2QM2RFD",
+        "created": 1634537124,
+        "timestamp": 1634537124,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D7GX0KGA",
+        "editable": false,
+        "size": 28759,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J2QM2RFD/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02J2QM2RFD/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 61,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 81,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 121,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 135,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 162,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02J2QM2RFD-0a1c2e1898/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 173,
+        "original_w": 1501,
+        "original_h": 253,
+        "thumb_tiny": "AwAIADDRAFLgUCloATAowKWigBMCjApaKAP/2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02J2QM2RFD/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02J2QM2RFD-17d5ed8cc2",
+        "is_starred": false,
+        "has_rich_preview": false
+      },
+      {
+        "id": "F02JSEH39DE",
+        "created": 1634537134,
+        "timestamp": 1634537134,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02D7GX0KGA",
+        "editable": false,
+        "size": 101571,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02JSEH39DE/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02JSEH39DE/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_360.png",
+        "thumb_360_w": 294,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_480.png",
+        "thumb_480_w": 391,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_720.png",
+        "thumb_720_w": 587,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02JSEH39DE-2c75ed9f42/image_800.png",
+        "thumb_800_w": 652,
+        "thumb_800_h": 800,
+        "original_w": 654,
+        "original_h": 802,
+        "thumb_tiny": "AwAwACe8ZIwSDIufrR5ydpFpTGM52r+Qo2L/AHF/IU9Baiean99aPOTvIlO2L/cWk2L/AHF/IUaBqAlQnAdSfal3D1FARRztUH6UuB6CkMM+tG4UuB6UYHpQAZpGQOMNyPrRx7UMuRgEj6UAM8lFOcH86XavpQEOeXY0u33NAh1NkJVCR1p1NkUshA601uDKommxuLrgnoByKtoSUBPXFQeTJ04xU6DCAHsKOg+otFFFID//2Q==",
+        "permalink": "https://osam-handover.slack.com/files/U02D7GX0KGA/F02JSEH39DE/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02JSEH39DE-1f0dea7fa5",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02D7GX0KGA",
+    "ts": "1634537212.001900",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M8006",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "현재 제가 이미지 링크를 생성하는 방법을 공유해드리려 합니다..!\n구글 드라이브에 이미지 링크를 생성하고 싶은 이미지 파일을 업로드하고, "
+              },
+              {
+                "type": "link",
+                "url": "http://www.somanet.xyz/2017/06/blog-post_21.html"
+              },
+              {
+                "type": "text",
+                "text": " 에서 이미지 파일의 공유 링크를 이미지 링크로 변환할 수 있습니다. 이미지 태그로 자동으로 변환도 해줘서 편리하니 필요하신 분들은 사용해보세요 "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              },
+              {
+                "type": "text",
+                "text": " 더 좋은 방법이 있으면 공유 부탁드립니다"
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "bfff68ff-3d32-48a0-87ae-a3724d312ee7",
+    "thread_ts": "1634537212.001900",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1634541927.003500",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02D7GX0KGA"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "title": "구글 드라이브를 외부 이미지 링크 저장소로 사용하기",
+        "title_link": "http://www.somanet.xyz/2017/06/blog-post_21.html",
+        "text": "Update 2020/6/19: 최근 구글 드라이브의 공유주소가 약간 변경되었나 봅니다. 몇몇분이 댓글로 알려주셔서 새롭게 바뀐 Prefix로 변환하도록 수정하였습니다. 다들 관심가져주셔서 감사합니다. ...",
+        "fallback": "구글 드라이브를 외부 이미지 링크 저장소로 사용하기",
+        "image_url": "https://2.bp.blogspot.com/-ybfyEro5w9E/WVDMX7C9jhI/AAAAAAAAAHI/9IgnmV94JKwIZ47Z4tlRy37h05YL5VITQCLcBGAs/w1200-h630-p-k-no-nu/images.jpeg",
+        "from_url": "http://www.somanet.xyz/2017/06/blog-post_21.html",
+        "image_width": 244,
+        "image_height": 128,
+        "image_bytes": 5534,
+        "service_icon": "http://www.somanet.xyz/favicon.ico",
+        "service_name": "somanet.xyz",
+        "id": 1,
+        "original_url": "http://www.somanet.xyz/2017/06/blog-post_21.html"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9b06db44-e8d5-4fc2-9e67-31419f4e06b5",
+    "type": "message",
+    "text": "<http://undraw.co|undraw.co>\ncode square에서 발표자료나 프론트엔드에서 많이 사용한 일러스트들을 제공하는 사이트입니다. svg 파일로 제공해주고 있고, figma에서 색깔도 변경할 수 있어요! (<https://youtu.be/4W4LvJnNegA?t=2035> 를 참고해보세요 :blush:)",
+    "user": "U02D7GX0KGA",
+    "ts": "1634167288.001300",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g5Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://undraw.co",
+                "text": "undraw.co"
+              },
+              {
+                "type": "text",
+                "text": "\ncode square에서 발표자료나 프론트엔드에서 많이 사용한 일러스트들을 제공하는 사이트입니다. svg 파일로 제공해주고 있고, figma에서 색깔도 변경할 수 있어요! ("
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/4W4LvJnNegA?t=2035"
+              },
+              {
+                "type": "text",
+                "text": " 를 참고해보세요 "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "open_mouth",
+        "users": [
+          "U02DPCQH7J5"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b9ae6a08-36bf-4f48-9acf-7a5e3cf36db9",
+    "type": "message",
+    "text": "<https://react-bulma.dev/en/storybook>\n현재 프론트 개발에 사용하는 `react-bulma` 컴포넌트 documentation 입니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1632212036.000600",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "title": "React Bulma Components",
+        "title_link": "https://react-bulma.dev/en/storybook",
+        "text": "A lightweight, up to date, and crazy fast React wrapper for <http://Bulma.io|Bulma.io> CSS Framework. Use your favorite CSS framework as React Components",
+        "fallback": "React Bulma Components",
+        "from_url": "https://react-bulma.dev/en/storybook",
+        "service_icon": "https://react-bulma.dev/logo192.png",
+        "service_name": "react-bulma.dev",
+        "id": 1,
+        "original_url": "https://react-bulma.dev/en/storybook"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9KOty",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://react-bulma.dev/en/storybook"
+              },
+              {
+                "type": "text",
+                "text": "\n현재 프론트 개발에 사용하는 `react-bulma` 컴포넌트 documentation 입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "skull_and_crossbones",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "952a93ec-f219-4b20-a19f-07886d23330b",
+    "type": "message",
+    "text": "<https://www.notion.so/osam-handover/HTTP-Status-Code-f6e83a6e8722446f90bf093a77278856>\nHTTP Status Code를 notion 참고 자료에 업로드 하였습니다.\n백엔드는 API를 개발할 때, 프론트분들은 API를 이용할 때 참고해주시면 될 것같습니다.",
+    "user": "U02DPCQH7J5",
+    "ts": "1632050876.000600",
+    "team": "T02D0PW4F2A",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xG5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/osam-handover/HTTP-Status-Code-f6e83a6e8722446f90bf093a77278856"
+              },
+              {
+                "type": "text",
+                "text": "\nHTTP Status Code를 notion 참고 자료에 업로드 하였습니다.\n백엔드는 API를 개발할 때, 프론트분들은 API를 이용할 때 참고해주시면 될 것같습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DE2CLG0L",
+          "U02D8EUAE69"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1632024503.000300",
+    "user": "U02FA0NJ8RF",
+    "text": "<@U02FA0NJ8RF> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "<https://www.notion.so/osam-handover/Git-6362ebbd93d945e98cc913c94b2ae9df>\n노션에도 간략하게 정리해두었으니, 필요하실 때 노션 참고해주시면 됩니다.",
+    "user": "U02DX5BFPPS",
+    "ts": "1631344582.000900",
+    "thread_ts": "1631197306.006700",
+    "root": {
+      "client_msg_id": "0be7511b-1d32-4d98-a27f-f84bb0f6cefb",
+      "type": "message",
+      "text": "<https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기|https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기>\n\n이제 본격적으로 Git을 사용해서 협업을 시작하게 되는데, 기본이 되는 commit 메시지를 통일해야할 것 같아서 통일안을 보내드립니다.\n주로 혼자서 개발을 하셨거나 작은 팀에서 개발을 하셨던 분들은 커밋을 할때마다 메시지를 자세히 작성해야된다는게 귀찮고 양식에 맞춰서 작성하는게 어려울 수 있겠지만, 팀 개발에서 서로가 어떤 작업을 했는지 인지하는 것이 너무나도 중요하기에 여러분 모두 위 링크를 잘 읽어보시고 작은 커밋이라도 이 형식에 맞춰서 커밋 제목과 본문을 작성해주시면 되겠습니다.\n저도 이 형식이 익숙하지는 않지만, 최대한 맞춰보도록 노력하겠습니다. :slightly_smiling_face:\n(확인하셨으면 체크표시 눌려주시면 감사하겠습니다 ㅎㅎ)",
+      "user": "U02DX5BFPPS",
+      "ts": "1631197306.006700",
+      "team": "T02D0PW4F2A",
+      "edited": {
+        "user": "U02DX5BFPPS",
+        "ts": "1631271174.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "Plus Ultra",
+          "title": "[협업] 협업을 위한 git 커밋컨벤션 설정하기",
+          "title_link": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+          "text": "들어가며 어떻게 하면 협업을 더 잘할 수 있을까 고민하며 협업에 필요한 내용들을 계속 정리하고 있습니다. 앞으로 저와 함께 협업하는 팀원분들에게 도움이 되고 싶습니다. 이 글은 Udacity Git Commit Message..",
+          "fallback": "Plus Ultra: [협업] 협업을 위한 git 커밋컨벤션 설정하기",
+          "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9dhG1%2FbtqQwnYtXp2%2F6tFB7BjAKFRLmInIp11huK%2Fimg.png",
+          "ts": 1608272002,
+          "from_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+          "image_width": 585,
+          "image_height": 250,
+          "image_bytes": 18050,
+          "service_icon": "http://img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F4389041%2Fattach%2F130cd56175fe42ce98864afaf2ea99a5",
+          "id": 1,
+          "original_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zRT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기",
+                  "text": "https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n이제 본격적으로 Git을 사용해서 협업을 시작하게 되는데, 기본이 되는 commit 메시지를 통일해야할 것 같아서 통일안을 보내드립니다.\n주로 혼자서 개발을 하셨거나 작은 팀에서 개발을 하셨던 분들은 커밋을 할때마다 메시지를 자세히 작성해야된다는게 귀찮고 양식에 맞춰서 작성하는게 어려울 수 있겠지만, 팀 개발에서 서로가 어떤 작업을 했는지 인지하는 것이 너무나도 중요하기에 여러분 모두 위 링크를 잘 읽어보시고 작은 커밋이라도 이 형식에 맞춰서 커밋 제목과 본문을 작성해주시면 되겠습니다.\n저도 이 형식이 익숙하지는 않지만, 최대한 맞춰보도록 노력하겠습니다. "
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                },
+                {
+                  "type": "text",
+                  "text": "\n(확인하셨으면 체크표시 눌려주시면 감사하겠습니다 ㅎㅎ)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631197306.006700",
+      "reply_count": 5,
+      "reply_users_count": 2,
+      "latest_reply": "1631344582.000900",
+      "reply_users": [
+        "U02DX5BFPPS",
+        "U02DE2CLG0L"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631344582.000900"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R00l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/osam-handover/Git-6362ebbd93d945e98cc913c94b2ae9df"
+              },
+              {
+                "type": "text",
+                "text": "\n노션에도 간략하게 정리해두었으니, 필요하실 때 노션 참고해주시면 됩니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "abdb49cc-9b83-42ba-9582-86b6ca9447ac",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "36b2ee1c-e1b4-4583-bdff-e04056d6512d",
+    "type": "message",
+    "text": "<https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95|https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95>\n개인적으로 Git 을 bash와 같은 CLI에서 명령어로 사용하는것 보다 IDE를 통해서 사용하는 것을 추천드립니다. VSCode 와 같이 Git 을 간편하게 사용할 수 있는 IDE를 사용하시면 실수도 예방할 수 있고, 커밋 메시지도 더 편하게 작성하실 수 있으니 참고바랍니다 ㅎㅎ",
+    "user": "U02DX5BFPPS",
+    "ts": "1631198732.016500",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Plus Ultra",
+        "title": "[협업] 협업을 위한 VScode 설정하기",
+        "title_link": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95",
+        "text": "들어가며 개발을 처음 하는 친구가 제게 어떤 코드 편집기를 써야 하는지 물었던 적이 있습니다. 세상에는 다양한 코드 편집기들이 존재하지만 저는 친구에게 VScode(Visual Studio Code)를 추천했습니다. 친구는..",
+        "fallback": "Plus Ultra: [협업] 협업을 위한 VScode 설정하기",
+        "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNVraP%2FbtqX0p24YPh%2Fe70JDml6Zcq1yjGgmbuX90%2Fimg.png",
+        "ts": 1613919365,
+        "from_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 186188,
+        "service_icon": "http://img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F4389041%2Fattach%2F130cd56175fe42ce98864afaf2ea99a5",
+        "id": 1,
+        "original_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CqHN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95",
+                "text": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-VScode-%EC%84%A4%EC%A0%95"
+              },
+              {
+                "type": "text",
+                "text": "\n개인적으로 Git 을 bash와 같은 CLI에서 명령어로 사용하는것 보다 IDE를 통해서 사용하는 것을 추천드립니다. VSCode 와 같이 Git 을 간편하게 사용할 수 있는 IDE를 사용하시면 실수도 예방할 수 있고, 커밋 메시지도 더 편하게 작성하실 수 있으니 참고바랍니다 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02D7GX0KGA",
+          "U02DE2CLG0L",
+          "U02D8EUAE69",
+          "U02DX5BFPPS"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8eff689e-3a3f-4231-b68f-3fe08a65696c",
+    "type": "message",
+    "text": "<https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0|https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0>\nGit 을 통해서 협업을 하면 빠질 수 없는 브랜치 기능에 관한 글입니다. 브랜치를 생성할때도 적절한 이름을 사용해야 나중에 혼선이 오지 않는데, 이 글에서 설명한 양식에 따라서 진행하면 될 것 같습니다. 협업에 정말 정말 중요한 부분이니, 꼭 천천히 읽어보시고 이 방식대로 사용해주시면 될 것 같습니다. 스레드로 몇개 예시를 올려드릴테니 참고해주세요!",
+    "user": "U02DX5BFPPS",
+    "ts": "1631198205.011800",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "service_name": "Plus Ultra",
+        "title": "[협업] 협업을 위한 Git Flow 설정하기",
+        "title_link": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+        "text": "들어가며 Git 커밋 컨벤션을 정리한 글에 이어, 협업에 필요한 내용들을 계속해서 정리하고 있습니다. 개인적으로 저는 git 때문에 어려움을 겪었던 적이 많습니다. git 설정을 잘못해서 기존 작업물들이 다 날아..",
+        "fallback": "Plus Ultra: [협업] 협업을 위한 Git Flow 설정하기",
+        "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvltiY%2FbtqQBF6yilZ%2F1T5N6izoH9CKP8SdXvluX0%2Fimg.png",
+        "ts": 1608346834,
+        "from_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+        "image_width": 584,
+        "image_height": 250,
+        "image_bytes": 16556,
+        "service_icon": "http://img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F4389041%2Fattach%2F130cd56175fe42ce98864afaf2ea99a5",
+        "id": 1,
+        "original_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=H2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+                "text": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-Git-Flow-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0"
+              },
+              {
+                "type": "text",
+                "text": "\nGit 을 통해서 협업을 하면 빠질 수 없는 브랜치 기능에 관한 글입니다. 브랜치를 생성할때도 적절한 이름을 사용해야 나중에 혼선이 오지 않는데, 이 글에서 설명한 양식에 따라서 진행하면 될 것 같습니다. 협업에 정말 정말 중요한 부분이니, 꼭 천천히 읽어보시고 이 방식대로 사용해주시면 될 것 같습니다. 스레드로 몇개 예시를 올려드릴테니 참고해주세요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631198205.011800",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1631199757.017300",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631199757.017300",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA",
+          "U02D8EUAE69"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0be7511b-1d32-4d98-a27f-f84bb0f6cefb",
+    "type": "message",
+    "text": "<https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기|https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기>\n\n이제 본격적으로 Git을 사용해서 협업을 시작하게 되는데, 기본이 되는 commit 메시지를 통일해야할 것 같아서 통일안을 보내드립니다.\n주로 혼자서 개발을 하셨거나 작은 팀에서 개발을 하셨던 분들은 커밋을 할때마다 메시지를 자세히 작성해야된다는게 귀찮고 양식에 맞춰서 작성하는게 어려울 수 있겠지만, 팀 개발에서 서로가 어떤 작업을 했는지 인지하는 것이 너무나도 중요하기에 여러분 모두 위 링크를 잘 읽어보시고 작은 커밋이라도 이 형식에 맞춰서 커밋 제목과 본문을 작성해주시면 되겠습니다.\n저도 이 형식이 익숙하지는 않지만, 최대한 맞춰보도록 노력하겠습니다. :slightly_smiling_face:\n(확인하셨으면 체크표시 눌려주시면 감사하겠습니다 ㅎㅎ)",
+    "user": "U02DX5BFPPS",
+    "ts": "1631197306.006700",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1631271174.000000"
+    },
+    "attachments": [
+      {
+        "service_name": "Plus Ultra",
+        "title": "[협업] 협업을 위한 git 커밋컨벤션 설정하기",
+        "title_link": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+        "text": "들어가며 어떻게 하면 협업을 더 잘할 수 있을까 고민하며 협업에 필요한 내용들을 계속 정리하고 있습니다. 앞으로 저와 함께 협업하는 팀원분들에게 도움이 되고 싶습니다. 이 글은 Udacity Git Commit Message..",
+        "fallback": "Plus Ultra: [협업] 협업을 위한 git 커밋컨벤션 설정하기",
+        "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9dhG1%2FbtqQwnYtXp2%2F6tFB7BjAKFRLmInIp11huK%2Fimg.png",
+        "ts": 1608272002,
+        "from_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0",
+        "image_width": 585,
+        "image_height": 250,
+        "image_bytes": 18050,
+        "service_icon": "http://img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F4389041%2Fattach%2F130cd56175fe42ce98864afaf2ea99a5",
+        "id": 1,
+        "original_url": "https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zRT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기",
+                "text": "https://overcome-the-limits.tistory.com/entry/협업-협업을-위한-기본적인-git-커밋컨벤션-설정하기"
+              },
+              {
+                "type": "text",
+                "text": "\n\n이제 본격적으로 Git을 사용해서 협업을 시작하게 되는데, 기본이 되는 commit 메시지를 통일해야할 것 같아서 통일안을 보내드립니다.\n주로 혼자서 개발을 하셨거나 작은 팀에서 개발을 하셨던 분들은 커밋을 할때마다 메시지를 자세히 작성해야된다는게 귀찮고 양식에 맞춰서 작성하는게 어려울 수 있겠지만, 팀 개발에서 서로가 어떤 작업을 했는지 인지하는 것이 너무나도 중요하기에 여러분 모두 위 링크를 잘 읽어보시고 작은 커밋이라도 이 형식에 맞춰서 커밋 제목과 본문을 작성해주시면 되겠습니다.\n저도 이 형식이 익숙하지는 않지만, 최대한 맞춰보도록 노력하겠습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "unicode": "1f642"
+              },
+              {
+                "type": "text",
+                "text": "\n(확인하셨으면 체크표시 눌려주시면 감사하겠습니다 ㅎㅎ)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631197306.006700",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1631344582.000900",
+    "reply_users": [
+      "U02DX5BFPPS",
+      "U02DE2CLG0L"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631344582.000900",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D8EUAE69",
+          "U02D7GX0KGA",
+          "U02DHN1UBHA"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ad0812b1-9cad-4587-803f-e3d94e9441dd",
+    "type": "message",
+    "text": "<https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0|https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%[…]84%B1%ED%95%98%EA%B8%B0>\n\n<https://github.com/osamhack2020/WEB_CodeSquare_AmongUs>\n\n프로젝트에서 Docker를 사용하면 좋을 것 같은데 Docker을 사용해본 적이 없어서 우선 자료 공유합니다",
+    "user": "U02DPCQH7J5",
+    "ts": "1631108071.000700",
+    "team": "T02D0PW4F2A",
+    "attachments": [
+      {
+        "fallback": "44BITS: 도커(Docker) 컴포즈를 활용하여 완벽한 개발 환경 구성하기",
+        "image_url": "https://d2uleea4buiacg.cloudfront.net/assets/44bits_logo_2000.png",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 42704,
+        "from_url": "https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0",
+        "service_name": "44BITS",
+        "title": "도커(Docker) 컴포즈를 활용하여 완벽한 개발 환경 구성하기",
+        "title_link": "https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0",
+        "text": "개발 환경을 구축하기란 그리 쉬운 일이 아닙니다. 문서화를 해두어도 누군가 계속 신경쓰지 않으면 내용이 낡기 마련이고, 계속 신경 쓰자니 이 또한 쉽지 않죠. 어떻게 하면 손쉽게 개발 환경을 구성하고, 곧바로 개발 과정에 들어갈 수 있을까요? 이 글에서는 도커를 사용하여 개발 환경 구성을 손쉽게 해결하는 방법을 알아보겠습니다.",
+        "id": 1,
+        "original_url": "https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0"
+      },
+      {
+        "fallback": "osamhack2020/WEB_CodeSquare_AmongUs",
+        "text": "군 복무중인 개발자를 위한 국방망용 통합 개발 플랫폼",
+        "title": "osamhack2020/WEB_CodeSquare_AmongUs",
+        "id": 2,
+        "color": "24292f",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "<https://codesquare.space>",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "17",
+            "short": true
+          }
+        ],
+        "bot_id": "B02DU6375LH",
+        "app_unfurl_url": "https://github.com/osamhack2020/WEB_CodeSquare_AmongUs",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mrrxg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0",
+                "text": "https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EB%8F%84%EC%BB%A4%EB%[…]84%B1%ED%95%98%EA%B8%B0"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/osamhack2020/WEB_CodeSquare_AmongUs"
+              },
+              {
+                "type": "text",
+                "text": "\n\n프로젝트에서 Docker를 사용하면 좋을 것 같은데 Docker을 사용해본 적이 없어서 우선 자료 공유합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1631108071.000700",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1631200447.017600",
+    "reply_users": [
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631200447.017600",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b5d731fb-85ac-4a2a-a62d-0cbe3d98c572",
+    "type": "message",
+    "text": "군에서는 한글파일이 필수적입니다. 물론 TACS DRM 때문에 적용에 문제가 있을 수 있지만,\n오픈소스를 활용하자는 취지의 해커톤인 만큼 오픈소스를 활용하면 좋을 것 같습니다.\n<https://github.com/hahnlee/hwp.js>\n<https://www.hancom.com/etc/hwpDownload.do>",
+    "user": "U02DPCQH7J5",
+    "ts": "1630850722.003700",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DPCQH7J5",
+      "ts": "1630851086.000000"
+    },
+    "attachments": [
+      {
+        "service_name": "GitHub",
+        "title": "GitHub - hahnlee/hwp.js: Open source hwp viewer and parser library powered by web technology",
+        "title_link": "https://github.com/hahnlee/hwp.js",
+        "text": "Open source hwp viewer and parser library powered by web technology - GitHub - hahnlee/hwp.js: Open source hwp viewer and parser library powered by web technology",
+        "fallback": "GitHub: GitHub - hahnlee/hwp.js: Open source hwp viewer and parser library powered by web technology",
+        "image_url": "https://opengraph.githubassets.com/00c7e7123ce40e9f233be9dcc7ecb4436a904fa8b67b4fbe8605f965360c2478/hahnlee/hwp.js",
+        "image_width": 500,
+        "image_height": 250,
+        "from_url": "https://github.com/hahnlee/hwp.js",
+        "image_bytes": 121975,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+        "id": 1,
+        "original_url": "https://github.com/hahnlee/hwp.js"
+      },
+      {
+        "title": "글로벌 소프트웨어의 리더, 한글과컴퓨터",
+        "title_link": "https://www.hancom.com/etc/hwpDownload.do",
+        "text": "(주)한글과컴퓨터 웹사이트 방문을 환영합니다.",
+        "fallback": "글로벌 소프트웨어의 리더, 한글과컴퓨터",
+        "from_url": "https://www.hancom.com/etc/hwpDownload.do",
+        "service_icon": "https://www.hancom.com/favicon.ico",
+        "service_name": "hancom.com",
+        "id": 2,
+        "original_url": "https://www.hancom.com/etc/hwpDownload.do"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XxYtO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "군에서는 한글파일이 필수적입니다. 물론 TACS DRM 때문에 적용에 문제가 있을 수 있지만,\n오픈소스를 활용하자는 취지의 해커톤인 만큼 오픈소스를 활용하면 좋을 것 같습니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/hahnlee/hwp.js"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.hancom.com/etc/hwpDownload.do"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1630850722.003700",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1630890215.005400",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1630890215.005400",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02DX5BFPPS",
+          "U02D7GX0KGA"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "군에서 사용하고있는 협업체계입니다.\n내부서버를 두는 경우에 CPU당 비용을 지불하며, 앱은 클라이언트당 비용 지불합니다.\n<https://www.thinkwise.co.kr/>\n\n인수인계의 경우 별도의 양식 없이 일일이 만드는 걸로 알고있고,\n 인사명령이 나면 그 순간부터 새로 만들거나 기존에 인수인계 받았던 파일에 변경사항을 적용합니다.",
+    "files": [
+      {
+        "id": "F02DFGZD4TV",
+        "created": 1630850276,
+        "timestamp": 1630850276,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02DPCQH7J5",
+        "editable": false,
+        "size": 334949,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02D0PW4F2A-F02DFGZD4TV/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02D0PW4F2A-F02DFGZD4TV/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 216,
+        "thumb_480": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 289,
+        "thumb_160": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 433,
+        "thumb_800": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 481,
+        "thumb_960": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 577,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02D0PW4F2A-F02DFGZD4TV-361fb76096/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 616,
+        "original_w": 1680,
+        "original_h": 1010,
+        "thumb_tiny": "AwAcADDS2j0o2j0paKAGnAONpP4UKQT90j8KCTxxSbm28KCcdM96AHYFGBS0UAFN3U6k2gdBj6UAAYH/APVSbucYpcDFLgAYAoATNLSAAUpoA//Z",
+        "permalink": "https://osam-handover.slack.com/files/U02DPCQH7J5/F02DFGZD4TV/image.png",
+        "permalink_public": "https://slack-files.com/T02D0PW4F2A-F02DFGZD4TV-603139c95a",
+        "alt_txt": "Thinkwise 구축사례1",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02DPCQH7J5",
+    "display_as_bot": false,
+    "ts": "1630850403.001900",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nw1Bg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "군에서 사용하고있는 협업체계입니다.\n내부서버를 두는 경우에 CPU당 비용을 지불하며, 앱은 클라이언트당 비용 지불합니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.thinkwise.co.kr/"
+              },
+              {
+                "type": "text",
+                "text": "\n\n인수인계의 경우 별도의 양식 없이 일일이 만드는 걸로 알고있고,\n 인사명령이 나면 그 순간부터 새로 만들거나 기존에 인수인계 받았던 파일에 변경사항을 적용합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1630850403.001900",
+    "reply_count": 6,
+    "reply_users_count": 2,
+    "latest_reply": "1631016829.000100",
+    "reply_users": [
+      "U02DPCQH7J5",
+      "U02DX5BFPPS"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1631016829.000100",
+    "reactions": [
+      {
+        "name": "open_mouth",
+        "users": [
+          "U02DX5BFPPS"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02D7GX0KGA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630667213.000800",
+    "user": "U02DHN1UBHA",
+    "text": "<@U02DHN1UBHA> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630666970.000500",
+    "user": "U02D8EUAE69",
+    "text": "<@U02D8EUAE69> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630653338.000200",
+    "user": "U02DPCQH7J5",
+    "text": "<@U02DPCQH7J5> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630623796.000100",
+    "user": "U02DE2CLG0L",
+    "text": "<@U02DE2CLG0L> has joined the channel"
+  },
+  {
+    "client_msg_id": "545a32c6-9ffe-478a-ac7a-b38288f4254c",
+    "type": "message",
+    "text": "*2020년 수상작 Documentation 예시*\nGitbook: <https://kookmoban.gitbook.io/osam/>\nNotion: <https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9>",
+    "user": "U02DX5BFPPS",
+    "ts": "1630594675.000700",
+    "team": "T02D0PW4F2A",
+    "edited": {
+      "user": "U02DX5BFPPS",
+      "ts": "1630668658.000000"
+    },
+    "attachments": [
+      {
+        "fallback": "국방 모바일 반납",
+        "from_url": "https://kookmoban.gitbook.io/osam/",
+        "service_name": "kookmoban.gitbook.io",
+        "service_icon": "https://gblobscdn.gitbook.com/spaces%2F-MKdTwUS64F4uZsg5UX2%2Favatar-1603792575453.png?alt=media",
+        "title": "국방 모바일 반납",
+        "title_link": "https://kookmoban.gitbook.io/osam/",
+        "thumb_url": "https://app.gitbook.com/share/space/thumbnail/-MKdTwUS64F4uZsg5UX2.png",
+        "thumb_width": 1200,
+        "thumb_height": 630,
+        "text": "Untact Phone Return Service For ROK Military",
+        "id": 1,
+        "original_url": "https://kookmoban.gitbook.io/osam/"
+      },
+      {
+        "fallback": "ChanJeong's Workspace on Notion: OSAM 해커톤",
+        "image_url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F677ccf8a-0310-4380-8778-fe697f77c9e3%2FUntitled.png?table=block&id=de938f3c-dae7-42e7-b773-c86bf2a6a016&width=2050&userId=&cache=v2",
+        "image_width": 403,
+        "image_height": 141,
+        "image_bytes": 11841,
+        "from_url": "https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9",
+        "service_name": "ChanJeong's Workspace on Notion",
+        "title": "OSAM 해커톤",
+        "title_link": "https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9",
+        "text": "폰 좀 내이만(Pon Johm Naimann)",
+        "id": 2,
+        "original_url": "https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/4D0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2020년 수상작 Documentation 예시",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nGitbook: "
+              },
+              {
+                "type": "link",
+                "url": "https://kookmoban.gitbook.io/osam/"
+              },
+              {
+                "type": "text",
+                "text": "\nNotion: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/OSAM-265735b9b76b4bccbff7ce2c4739acd9"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630594646.000500",
+    "user": "U02D7GX0KGA",
+    "text": "<@U02D7GX0KGA> has joined the channel",
+    "inviter": "U02DX5BFPPS"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1630594644.000200",
+    "user": "U02DX5BFPPS",
+    "text": "<@U02DX5BFPPS> has joined the channel"
+  }
+]
